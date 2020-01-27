@@ -11,7 +11,6 @@ class Timer {
     private String schedule;
     private String scheduledDay;
     private Calendar scheduledTime;
-    private boolean scheduleCorrect = false;
 
     Timer(String pathToScheduleFile){
         try {
@@ -21,7 +20,7 @@ class Timer {
             log("schedule file was read properly: " + schedule);
 
             //parse schedule
-            scheduleCorrect = parseSchedule();
+            boolean scheduleCorrect = parseSchedule();
             if(scheduleCorrect) {
                 log("schedule parsed correctly");
                 log("Timer initialized correctly");
@@ -40,7 +39,7 @@ class Timer {
     }
 
     private boolean parseSchedule() {
-        log("trying to parse schedule");
+        log("trying to parse schedule...");
         schedule = schedule.toLowerCase();
         AtomicReference<String> dayOfWeek = new AtomicReference<>("");
         AtomicBoolean hasDay = new AtomicBoolean(false);
@@ -102,8 +101,6 @@ class Timer {
         //on the post day
 
         //calculating time between now and closes post time
-        int sleepHours = 0;
-        int sleepMinutes;
         int diff;               //sleep time in seconds
 
         //setting scheduled time for sleep calculation
@@ -128,6 +125,15 @@ class Timer {
             log("sleeping failed. Halting execution");
             e.printStackTrace();
             System.exit(2);
+        }
+        catch (IllegalArgumentException e){
+            //timeout is negative
+            try {
+                Thread.sleep(3 * 60 * 60 * 1000);           //sleep 3 hours
+            } catch (InterruptedException e1) {
+                log("sleeping failed. Halting execution");
+                System.exit(1);
+            }
         }
     }
 

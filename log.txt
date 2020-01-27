@@ -124,3 +124,73 @@
 [27-01-2020-15:43:03]:  [Timer]schedule parsed correctly
 [27-01-2020-15:43:03]:  [Timer]Timer initialized correctly
 [27-01-2020-15:43:03]:  [Timer]sleeping thread until next post time
+[27-01-2020-17:10:31]: [SERVER]server start
+[27-01-2020-17:10:31]: [SERVER]loading preferences from config file
+[27-01-2020-17:10:31]: [SERVER]preferences loaded successfully
+[27-01-2020-17:10:31]: [SERVER]added httpsname: //www.instagram.com/edity_tacohemingway/
+[27-01-2020-17:10:31]: [SERVER]profiles loaded successfully
+[27-01-2020-17:10:31]:  [Timer]schedule file was read properly: monday 15:44
+[27-01-2020-17:10:31]:  [Timer]trying to parse schedule
+[27-01-2020-17:10:32]:  [Timer]schedule parsed correctly
+[27-01-2020-17:10:32]:  [Timer]Timer initialized correctly
+[27-01-2020-17:10:32]:  [Timer]sleeping thread until next post time
+[27-01-2020-17:11:13]: [SERVER]server start
+[27-01-2020-17:11:13]: [SERVER]loading preferences from config file
+[27-01-2020-17:11:13]: [SERVER]preferences loaded successfully
+[27-01-2020-17:11:13]: [SERVER]added httpsname: //www.instagram.com/edity_tacohemingway/
+[27-01-2020-17:11:13]: [SERVER]profiles loaded successfully
+[27-01-2020-17:11:13]:  [Timer]schedule file was read properly: monday 18:44
+[27-01-2020-17:11:13]:  [Timer]trying to parse schedule
+[27-01-2020-17:11:13]:  [Timer]schedule parsed correctly
+[27-01-2020-17:11:13]:  [Timer]Timer initialized correctly
+[27-01-2020-17:11:13]:  [Timer]sleeping thread until next post time
+[27-01-2020-17:11:49]: [SERVER]server start
+[27-01-2020-17:11:49]: [SERVER]loading preferences from config file
+[27-01-2020-17:11:49]: [SERVER]preferences loaded successfully
+[27-01-2020-17:11:49]: [SERVER]added httpsname: //www.instagram.com/edity_tacohemingway/
+[27-01-2020-17:11:49]: [SERVER]profiles loaded successfully
+[27-01-2020-17:11:49]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-17:11:49]:  [Timer]trying to parse schedule
+[27-01-2020-17:11:49]:  [Timer]schedule parsed correctly
+[27-01-2020-17:11:49]:  [Timer]Timer initialized correctly
+[27-01-2020-17:11:49]:  [Timer]sleeping thread until next post time
+[27-01-2020-17:12:52]: [SERVER]server start
+[27-01-2020-17:12:52]: [SERVER]loading preferences from config file
+[27-01-2020-17:12:52]: [SERVER]preferences loaded successfully
+[27-01-2020-17:12:52]: [SERVER]added httpsname: //www.instagram.com/edity_tacohemingway/
+[27-01-2020-17:12:52]: [SERVER]profiles loaded successfully
+[27-01-2020-17:12:52]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-17:12:52]:  [Timer]trying to parse schedule
+[27-01-2020-17:12:52]:  [Timer]schedule parsed correctly
+[27-01-2020-17:12:52]:  [Timer]Timer initialized correctly
+[27-01-2020-17:12:52]:  [Timer]sleeping thread until next post time
+[27-01-2020-17:13:24]: [SERVER]server start
+[27-01-2020-17:13:24]: [SERVER]loading preferences from config file
+[27-01-2020-17:13:24]: [SERVER]preferences loaded successfully
+[27-01-2020-17:13:24]: [SERVER]added https://www.instagram.com/edity_tacohemingway/name: null
+[27-01-2020-17:13:24]: [SERVER]profiles loaded successfully
+[27-01-2020-17:13:24]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-17:13:24]:  [Timer]trying to parse schedule
+[27-01-2020-17:13:24]:  [Timer]schedule parsed correctly
+[27-01-2020-17:13:24]:  [Timer]Timer initialized correctly
+[27-01-2020-17:13:24]:  [Timer]sleeping thread until next post time
+[27-01-2020-17:13:37]: [SERVER]server start
+[27-01-2020-17:13:37]: [SERVER]loading preferences from config file
+[27-01-2020-17:13:37]: [SERVER]preferences loaded successfully
+[27-01-2020-17:13:37]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[27-01-2020-17:13:37]: [SERVER]profiles loaded successfully
+[27-01-2020-17:13:37]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-17:13:37]:  [Timer]trying to parse schedule
+[27-01-2020-17:13:37]:  [Timer]schedule parsed correctly
+[27-01-2020-17:13:37]:  [Timer]Timer initialized correctly
+[27-01-2020-17:13:37]:  [Timer]sleeping thread until next post time
+[27-01-2020-17:13:59]: [SERVER]server start
+[27-01-2020-17:13:59]: [SERVER]loading preferences from config file
+[27-01-2020-17:13:59]: [SERVER]preferences loaded successfully
+[27-01-2020-17:13:59]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[27-01-2020-17:13:59]: [SERVER]profiles loaded successfully
+[27-01-2020-17:13:59]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-17:13:59]:  [Timer]trying to parse schedule...
+[27-01-2020-17:14:00]:  [Timer]schedule parsed correctly
+[27-01-2020-17:14:00]:  [Timer]Timer initialized correctly
+[27-01-2020-17:14:00]:  [Timer]sleeping thread until next post time

@@ -2,7 +2,9 @@ import com.sun.org.apache.xpath.internal.operations.Bool;
 
 import java.io.*;
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.Calendar;
+import java.util.List;
 import java.util.Properties;
 
 @SuppressWarnings("FieldCanBeLocal")
@@ -13,10 +15,11 @@ public class Main {
     private static boolean responderIsOn;
     private static boolean directMessageReportIsOn;
     private static String scheduleFile = "schedule.txt";    //todo add this to preferences
+    private static String profilesFile = "profiles.txt";    //todo add this to preferences
     private static String login;
     private static String password;
     private static Responder responder;
-
+    private static List<Profile> profiles = new ArrayList<>();
 
     public static void main(String[] args) {
         //starting server
@@ -29,6 +32,13 @@ public class Main {
             System.exit(1);
         }
 
+        if(loadProfiles())
+            log("profiles loaded successfully");
+        else {
+            log("failed to load profiles from file. Quitting");
+            System.exit(1);
+        }
+
         if (responderIsOn){
             responder = new Responder();
             Thread responderThread = new Thread(responder);
@@ -38,11 +48,53 @@ public class Main {
         while (true){
             Timer timer = new Timer(scheduleFile);
             timer.waitForSchedule();
-            System.exit(1);
+
 
         }
 
         //log("server shutdown");   //todo uncomment
+    }
+
+    private static boolean loadProfiles() {
+        //this method loads profiles from file
+        log("reading profiles from file");
+        try {
+            BufferedReader reader = new BufferedReader(new FileReader(new File(profilesFile)));
+            String line = reader.readLine();
+            while (line != null){
+                String [] tmp = line.split("#");
+                if(tmp.length == 1){
+                    //only link given in file
+                    Profile prof = new Profile(tmp[0]);
+                    profiles.add(prof);
+                    log("added " + prof);
+                }
+                else if(tmp.length == 2){
+                    //link and name given in file
+                    Profile prof = new Profile(tmp[0],tmp[1]);
+                    profiles.add(prof);
+                    log("added " + prof);
+                }
+                else {
+                    log("incorrect formatting of line: " + line);
+                }
+                line = reader.readLine();
+            }
+
+            if(profiles.size() == 0){
+                log("no profiles were loaded from file");
+                return false;
+            }
+            else return true;
+        } catch (FileNotFoundException e) {
+            log("could not locate file " + new File(profilesFile).getAbsolutePath());
+            log(e.getMessage());
+            return false;
+        } catch (IOException e) {
+            log("different IOException was thrown");
+            log(e.getMessage());
+            return false;
+        }
     }
 
     private static boolean loadPreferences() {
@@ -132,3 +184,6 @@ public class Main {
         return password;
     }
 }
+
+//todo all print stack traces should be changed to log(e.getMessage)
+//todo update profile list on exit
