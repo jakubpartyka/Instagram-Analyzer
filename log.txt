@@ -1,0 +1,16 @@
+[27-01-2020-06:27:18]: [SERVER]preferences loaded successfully
+[27-01-2020-06:27:18]: [SERVER]server shutdown
+[27-01-2020-06:27:34]: [SERVER]preferences loaded successfully
+[27-01-2020-06:27:34]: [SERVER]server shutdown
+[27-01-2020-06:27:50]: [SERVER]preferences loaded successfully
+[27-01-2020-06:27:50]: [SERVER]server shutdown
+[27-01-2020-06:28:16]: [SERVER]preferences loaded successfully
+[27-01-2020-06:28:16]: [SERVER]server shutdown
+[27-01-2020-06:28:33]: [SERVER]preferences loaded successfully
+[27-01-2020-06:28:33]: [SERVER]server shutdown
+[27-01-2020-06:28:55]: [SERVER]preferences loaded successfully
+[27-01-2020-06:29:19]: [SERVER]server shutdown
+[27-01-2020-06:29:22]: [SERVER]server start
+[27-01-2020-06:29:22]: [SERVER]loading preferences from config file
+[27-01-2020-06:29:22]: [SERVER]preferences loaded successfully
+[27-01-2020-06:29:22]: [SERVER]server shutdown
