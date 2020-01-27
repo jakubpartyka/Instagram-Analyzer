@@ -45,14 +45,18 @@ public class Main {
             responderThread.start();
         }
 
+        Timer timer = new Timer(scheduleFile);
+        InstagramDriver driver = new InstagramDriver();
+
         while (true){
-            Timer timer = new Timer(scheduleFile);
-            timer.waitForSchedule();
+            Analyzer analyzer = new Analyzer(driver,profiles);          //every next iteration profiles list will be updated
+
+            timer.waitForSchedule();                                    //sleep until next report
 
 
         }
 
-        //log("server shutdown");   //todo uncomment
+        //log("server shutdown");   //todo uncomment later
     }
 
     private static boolean loadProfiles() {

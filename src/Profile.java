@@ -15,4 +15,8 @@ public class Profile {
     public String toString() {
         return this.link + " name: " + this.name;
     }
+
+    public String getLink() {
+        return link;
+    }
 }
