@@ -12,10 +12,27 @@ public class Main {
 
 
     public static void main(String[] args) {
+        //starting server
         log("server start");
         log("loading preferences from config file");
-        loadPreferences();
-        log("preferences loaded successfully");
+        if(loadPreferences())
+            log("preferences loaded successfully");
+        else {
+            log("failed to load preferences from configuration file. Quitting");
+            System.exit(1);
+        }
+
+        //starting chrome driver
+        log("starting web driver");
+        InstagramDriver driver = new InstagramDriver();
+
+        try {
+            driver.logIn();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
+        //start message listener
 
             //program execution is supposed to happen here
 
@@ -29,6 +46,7 @@ public class Main {
         try {
             logToConsole = Boolean.valueOf(getPreference("logToConsole"));
             logToFile = Boolean.valueOf(getPreference("logToFile"));
+            headless= Boolean.valueOf(getPreference("headless"));
             login = getPreference("login");
             password = getPreference("password");
         } catch (IOException e) {
@@ -94,5 +112,13 @@ public class Main {
 
     static boolean isHeadless() {
         return headless;
+    }
+
+    public static String getLogin() {
+        return login;
+    }
+
+    public static String getPassword() {
+        return password;
     }
 }

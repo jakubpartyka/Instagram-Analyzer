@@ -1,4 +1,5 @@
 import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -17,14 +18,43 @@ public class InstagramDriver implements WebDriver {
         prefs.put("profile.default_content_setting_values.notifications", 2);
         ChromeOptions options = new ChromeOptions();
         options.setExperimentalOption("prefs", prefs);
+        options.addArguments("--user-agent=Android 4.2.1");
         if (Main.isHeadless())
             options.addArguments("--headless");
         driver = new ChromeDriver();
     }
 
+    void logIn() throws InterruptedException {
+        log("logging in...");
+        driver.get("https://www.instagram.com/accounts/login/");
+
+        WebElement username = ((ChromeDriver)driver).findElementByXPath("//*[@name='username']");
+        WebElement password = ((ChromeDriver)driver).findElementByXPath("//*[@name='password']");
+        WebElement submit = ((ChromeDriver)driver).findElementByXPath("//*[@type='submit']");
+        username.sendKeys(Main.getLogin());
+        password.sendKeys(Main.getPassword());
+        Thread.sleep(100);
+        submit.click();
+        denyNotifications();
+    }
+
+    private void denyNotifications() {
+        try {
+            Thread.sleep(500);
+            WebElement allow = ((ChromeDriver)driver).findElementByXPath("//*[@class='aOOlW   HoLwm']");
+            allow.click();
+        }
+        catch (NoSuchElementException ignored){}
+        catch (InterruptedException e){
+            e.printStackTrace();
+            log(e.getMessage());
+        }
+    }
+
 
     @Override
     public void get(String url) {
+        log("navigating to " + url);
         driver.get(url);
     }
 
@@ -40,11 +70,13 @@ public class InstagramDriver implements WebDriver {
 
     @Override
     public List<WebElement> findElements(By by) {
+        log("locating elements by: " + by);
         return driver.findElements(by);
     }
 
     @Override
     public WebElement findElement(By by) {
+        log("locating element by: " + by);
         return driver.findElement(by);
     }
 
