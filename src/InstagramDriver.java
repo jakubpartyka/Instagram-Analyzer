@@ -139,7 +139,7 @@ public class InstagramDriver implements WebDriver {
                 e.printStackTrace();
             }
         }
-        if (Main.isLogToFile())
+        if (Main.isLogToConsole())
             System.out.println(message);
     }
 }

@@ -3,12 +3,15 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Properties;
 
+@SuppressWarnings("FieldCanBeLocal")
 public class Main {
     private static boolean logToConsole = true;
     private static boolean logToFile = true;
     private static boolean headless;
+    private static boolean responderIsOn;
     private static String login;
     private static String password;
+    private static Responder responder;
 
 
     public static void main(String[] args) {
@@ -22,15 +25,13 @@ public class Main {
             System.exit(1);
         }
 
-        //starting chrome driver
-        log("starting web driver");
-        InstagramDriver driver = new InstagramDriver();
-
-        try {
-            driver.logIn();
-        } catch (InterruptedException e) {
-            e.printStackTrace();
+        if (responderIsOn){
+            responder = new Responder();
+            Thread responderThread = new Thread(responder);
+            responderThread.start();
         }
+
+
 
         //start message listener
 
@@ -47,6 +48,7 @@ public class Main {
             logToConsole = Boolean.valueOf(getPreference("logToConsole"));
             logToFile = Boolean.valueOf(getPreference("logToFile"));
             headless= Boolean.valueOf(getPreference("headless"));
+            responderIsOn = Boolean.valueOf(getPreference("responderIsOn"));
             login = getPreference("login");
             password = getPreference("password");
         } catch (IOException e) {
@@ -66,6 +68,7 @@ public class Main {
         return (configFile.getProperty(Key));
     }
 
+    @SuppressWarnings("unused")
     private static void setPreference(String Key, String Value) {
         //this method saves specified preference to configuration file
         Properties configFile = new Properties();
@@ -114,11 +117,11 @@ public class Main {
         return headless;
     }
 
-    public static String getLogin() {
+    static String getLogin() {
         return login;
     }
 
-    public static String getPassword() {
+    static String getPassword() {
         return password;
     }
 }

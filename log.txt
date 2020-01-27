@@ -20,3 +20,7 @@
 [27-01-2020-07:16:58]: [SERVER]starting web driver
 [27-01-2020-07:17:01]: [SERVER]navigated to instagram.com
 [27-01-2020-07:17:01]: [SERVER]server shutdown
+[27-01-2020-07:41:29]: [SERVER]server start
+[27-01-2020-07:41:29]: [SERVER]loading preferences from config file
+[27-01-2020-07:41:29]: [SERVER]preferences loaded successfully
+[27-01-2020-07:41:29]: [SERVER]starting web driver
