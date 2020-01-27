@@ -1,6 +1,8 @@
 public class Profile {
     private String link;
     private String name;
+    Report currentReport;
+    Report previousReport;
 
     Profile(String link) {
         this.link = link;
@@ -16,7 +18,15 @@ public class Profile {
         return this.link + " name: " + this.name;
     }
 
-    public String getLink() {
+    String getLink() {
         return link;
+    }
+
+    public void setCurrentReport(Report currentReport) {
+        this.currentReport = currentReport;
+    }
+
+    public void setPreviousReport(Report previousReport) {
+        this.previousReport = previousReport;
     }
 }

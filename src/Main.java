@@ -49,9 +49,13 @@ public class Main {
         InstagramDriver driver = new InstagramDriver();
 
         while (true){
+            //todo do not open the driver at the beginning but on every iteration
             Analyzer analyzer = new Analyzer(driver,profiles);          //every next iteration profiles list will be updated
+            analyzer.analyzeAll();
 
             timer.waitForSchedule();                                    //sleep until next report
+
+            analyzer.analyzeAll();
 
 
         }

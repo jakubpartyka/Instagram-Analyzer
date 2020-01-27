@@ -45,4 +45,21 @@ public class Analyzer {
         if (Main.isLogToConsole())
             System.out.println(message);
     }
+
+    private void analyze(Profile profile) {
+        Report newReport = new Report(profile);
+        try {
+            newReport.generate(driver);
+        } catch (InterruptedException e) {
+            log("failed to generate report for profile " + profile);
+            log(e.getMessage());
+        }
+
+    }
+
+    void analyzeAll() {
+        for (Profile profile : profiles) {
+            analyze(profile);
+        }
+    }
 }

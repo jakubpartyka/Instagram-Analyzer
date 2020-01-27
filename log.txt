@@ -242,3 +242,26 @@
 [27-01-2020-17:29:10]:  [Timer]Timer initialized correctly
 [27-01-2020-17:29:12]: [Analyze]created new output directory: /Users/admin/IdeaProjects/Instagram-Analyzer/profiles/edity_tacohemingway
 [27-01-2020-17:29:12]:  [Timer]sleeping thread until next post time
+[27-01-2020-17:45:40]: [SERVER]server start
+[27-01-2020-17:45:40]: [SERVER]loading preferences from config file
+[27-01-2020-17:45:40]: [SERVER]preferences loaded successfully
+[27-01-2020-17:45:40]: [SERVER]reading profiles from file
+[27-01-2020-17:45:40]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[27-01-2020-17:45:40]: [SERVER]profiles loaded successfully
+[27-01-2020-17:45:40]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-17:45:40]:  [Timer]trying to parse schedule...
+[27-01-2020-17:45:40]:  [Timer]schedule parsed correctly
+[27-01-2020-17:45:40]:  [Timer]Timer initialized correctly
+[27-01-2020-17:45:41]:  [Timer]sleeping thread until next post time
+[27-01-2020-17:48:37]: [SERVER]server start
+[27-01-2020-17:48:37]: [SERVER]loading preferences from config file
+[27-01-2020-17:48:37]: [SERVER]preferences loaded successfully
+[27-01-2020-17:48:37]: [SERVER]reading profiles from file
+[27-01-2020-17:48:37]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[27-01-2020-17:48:37]: [SERVER]profiles loaded successfully
+[27-01-2020-17:48:37]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-17:48:37]:  [Timer]trying to parse schedule...
+[27-01-2020-17:48:37]:  [Timer]schedule parsed correctly
+[27-01-2020-17:48:37]:  [Timer]Timer initialized correctly
+[27-01-2020-17:48:39]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[27-01-2020-17:48:41]:  [Timer]sleeping thread until next post time
