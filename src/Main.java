@@ -1,3 +1,5 @@
+import com.sun.org.apache.xpath.internal.operations.Bool;
+
 import java.io.*;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
@@ -9,6 +11,8 @@ public class Main {
     private static boolean logToFile = true;
     private static boolean headless;
     private static boolean responderIsOn;
+    private static boolean directMessageReportIsOn;
+    private static String scheduleFile = "schedule.txt";    //todo add this to preferences
     private static String login;
     private static String password;
     private static Responder responder;
@@ -31,13 +35,14 @@ public class Main {
             responderThread.start();
         }
 
+        while (true){
+            Timer timer = new Timer(scheduleFile);
+            timer.waitForSchedule();
+            System.exit(1);
 
+        }
 
-        //start message listener
-
-            //program execution is supposed to happen here
-
-        log("server shutdown");
+        //log("server shutdown");   //todo uncomment
     }
 
     private static boolean loadPreferences() {
@@ -49,8 +54,10 @@ public class Main {
             logToFile = Boolean.valueOf(getPreference("logToFile"));
             headless= Boolean.valueOf(getPreference("headless"));
             responderIsOn = Boolean.valueOf(getPreference("responderIsOn"));
+            directMessageReportIsOn = Boolean.valueOf("directMessageReportIsOn");
             login = getPreference("login");
             password = getPreference("password");
+
         } catch (IOException e) {
             e.printStackTrace();
             return false;
@@ -105,7 +112,7 @@ public class Main {
         }
     }
 
-    public static boolean isLogToConsole() {
+    static boolean isLogToConsole() {
         return logToConsole;
     }
 

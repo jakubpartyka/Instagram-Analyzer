@@ -24,3 +24,103 @@
 [27-01-2020-07:41:29]: [SERVER]loading preferences from config file
 [27-01-2020-07:41:29]: [SERVER]preferences loaded successfully
 [27-01-2020-07:41:29]: [SERVER]starting web driver
+[27-01-2020-14:42:31]: [SERVER]server start
+[27-01-2020-14:42:31]: [SERVER]loading preferences from config file
+[27-01-2020-14:42:31]: [SERVER]preferences loaded successfully
+[27-01-2020-14:42:31]: [SERVER]server shutdown
+[27-01-2020-14:58:21]: [SERVER]server start
+[27-01-2020-14:58:21]: [SERVER]loading preferences from config file
+[27-01-2020-14:58:21]: [SERVER]preferences loaded successfully
+[27-01-2020-14:58:21]:  [Timer]file not found: scheduleFile.txt
+[27-01-2020-14:58:44]: [SERVER]server start
+[27-01-2020-14:58:44]: [SERVER]loading preferences from config file
+[27-01-2020-14:58:44]: [SERVER]preferences loaded successfully
+[27-01-2020-14:58:44]:  [Timer]file not found: /Users/admin/IdeaProjects/Instagram-Analyzer/scheduleFile.txt
+[27-01-2020-14:58:56]: [SERVER]server start
+[27-01-2020-14:58:56]: [SERVER]loading preferences from config file
+[27-01-2020-14:58:56]: [SERVER]preferences loaded successfully
+[27-01-2020-15:11:47]: [SERVER]server start
+[27-01-2020-15:11:47]: [SERVER]loading preferences from config file
+[27-01-2020-15:11:47]: [SERVER]preferences loaded successfully
+[27-01-2020-15:11:47]:  [Timer]schedule file was read properly: Sunday 18:00
+[27-01-2020-15:11:47]:  [Timer]trying to parse schedule
+[27-01-2020-15:25:21]: [SERVER]server start
+[27-01-2020-15:25:21]: [SERVER]loading preferences from config file
+[27-01-2020-15:25:21]: [SERVER]preferences loaded successfully
+[27-01-2020-15:25:21]:  [Timer]schedule file was read properly: Sunday 18:00
+[27-01-2020-15:25:21]:  [Timer]trying to parse schedule
+[27-01-2020-15:25:21]:  [Timer]schedule parsed correctly
+[27-01-2020-15:25:21]:  [Timer]Timer initialized correctly
+[27-01-2020-15:25:28]: [SERVER]server start
+[27-01-2020-15:25:28]: [SERVER]loading preferences from config file
+[27-01-2020-15:25:28]: [SERVER]preferences loaded successfully
+[27-01-2020-15:25:28]:  [Timer]schedule file was read properly: Sunday 18:00
+[27-01-2020-15:25:28]:  [Timer]trying to parse schedule
+[27-01-2020-15:25:28]:  [Timer]schedule parsed correctly
+[27-01-2020-15:25:28]:  [Timer]Timer initialized correctly
+[27-01-2020-15:26:17]: [SERVER]server start
+[27-01-2020-15:26:17]: [SERVER]loading preferences from config file
+[27-01-2020-15:26:17]: [SERVER]preferences loaded successfully
+[27-01-2020-15:26:17]:  [Timer]schedule file was read properly: Sunday 18:00
+[27-01-2020-15:26:17]:  [Timer]trying to parse schedule
+[27-01-2020-15:26:17]:  [Timer]schedule parsed correctly
+[27-01-2020-15:26:17]:  [Timer]Timer initialized correctly
+[27-01-2020-15:28:34]: [SERVER]server start
+[27-01-2020-15:28:34]: [SERVER]loading preferences from config file
+[27-01-2020-15:28:35]: [SERVER]preferences loaded successfully
+[27-01-2020-15:28:35]:  [Timer]schedule file was read properly: Sunday 18:00
+[27-01-2020-15:28:35]:  [Timer]trying to parse schedule
+[27-01-2020-15:28:35]:  [Timer]schedule parsed correctly
+[27-01-2020-15:28:35]:  [Timer]Timer initialized correctly
+[27-01-2020-15:30:28]: [SERVER]server start
+[27-01-2020-15:30:28]: [SERVER]loading preferences from config file
+[27-01-2020-15:30:28]: [SERVER]preferences loaded successfully
+[27-01-2020-15:30:28]:  [Timer]schedule file was read properly: Sunday 18:00
+[27-01-2020-15:30:28]:  [Timer]trying to parse schedule
+[27-01-2020-15:30:28]:  [Timer]schedule parsed correctly
+[27-01-2020-15:30:28]:  [Timer]Timer initialized correctly
+[27-01-2020-15:31:46]: [SERVER]server start
+[27-01-2020-15:31:46]: [SERVER]loading preferences from config file
+[27-01-2020-15:31:47]: [SERVER]preferences loaded successfully
+[27-01-2020-15:31:47]:  [Timer]schedule file was read properly: Sunday 18:00
+[27-01-2020-15:31:47]:  [Timer]trying to parse schedule
+[27-01-2020-15:31:47]:  [Timer]schedule parsed correctly
+[27-01-2020-15:31:47]:  [Timer]Timer initialized correctly
+[27-01-2020-15:32:07]: [SERVER]server start
+[27-01-2020-15:32:07]: [SERVER]loading preferences from config file
+[27-01-2020-15:32:07]: [SERVER]preferences loaded successfully
+[27-01-2020-15:32:07]:  [Timer]schedule file was read properly: Sunday 18:00
+[27-01-2020-15:32:07]:  [Timer]trying to parse schedule
+[27-01-2020-15:32:08]:  [Timer]schedule parsed correctly
+[27-01-2020-15:32:08]:  [Timer]Timer initialized correctly
+[27-01-2020-15:32:17]: [SERVER]server start
+[27-01-2020-15:32:17]: [SERVER]loading preferences from config file
+[27-01-2020-15:32:17]: [SERVER]preferences loaded successfully
+[27-01-2020-15:32:17]:  [Timer]schedule file was read properly: Sunday 18:00
+[27-01-2020-15:32:17]:  [Timer]trying to parse schedule
+[27-01-2020-15:32:17]:  [Timer]schedule parsed correctly
+[27-01-2020-15:32:17]:  [Timer]Timer initialized correctly
+[27-01-2020-15:42:33]: [SERVER]server start
+[27-01-2020-15:42:33]: [SERVER]loading preferences from config file
+[27-01-2020-15:42:33]: [SERVER]preferences loaded successfully
+[27-01-2020-15:42:33]:  [Timer]schedule file was read properly: monday 18:00
+[27-01-2020-15:42:33]:  [Timer]trying to parse schedule
+[27-01-2020-15:42:33]:  [Timer]schedule parsed correctly
+[27-01-2020-15:42:33]:  [Timer]Timer initialized correctly
+[27-01-2020-15:42:33]:  [Timer]sleeping thread until next post time
+[27-01-2020-15:42:53]: [SERVER]server start
+[27-01-2020-15:42:53]: [SERVER]loading preferences from config file
+[27-01-2020-15:42:53]: [SERVER]preferences loaded successfully
+[27-01-2020-15:42:53]:  [Timer]schedule file was read properly: monday 15:42
+[27-01-2020-15:42:53]:  [Timer]trying to parse schedule
+[27-01-2020-15:42:53]:  [Timer]schedule parsed correctly
+[27-01-2020-15:42:53]:  [Timer]Timer initialized correctly
+[27-01-2020-15:42:53]:  [Timer]sleeping thread until next post time
+[27-01-2020-15:43:03]: [SERVER]server start
+[27-01-2020-15:43:03]: [SERVER]loading preferences from config file
+[27-01-2020-15:43:03]: [SERVER]preferences loaded successfully
+[27-01-2020-15:43:03]:  [Timer]schedule file was read properly: monday 15:44
+[27-01-2020-15:43:03]:  [Timer]trying to parse schedule
+[27-01-2020-15:43:03]:  [Timer]schedule parsed correctly
+[27-01-2020-15:43:03]:  [Timer]Timer initialized correctly
+[27-01-2020-15:43:03]:  [Timer]sleeping thread until next post time

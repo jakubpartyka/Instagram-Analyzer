@@ -8,4 +8,5 @@
 <entry key="responderIsOn">false</entry>
 <entry key="headless">false</entry>
 <entry key="logToConsole">true</entry>
+<entry key="directMessageReportIsOn">false</entry>
 </properties>

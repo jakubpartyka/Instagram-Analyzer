@@ -15,14 +15,14 @@ public class Responder extends Messenger implements Runnable {
         log("thread started");
         try {
             driver.logIn();
+            //todo implement responder
         } catch (InterruptedException e) {
             log(e.getMessage());
             e.printStackTrace();
         }
-
     }
 
-    private static void log(String message) {
+    void log(String message) {
         //this function logs all actions performed by the program.
         if(Main.isLogToFile()){
             try {
