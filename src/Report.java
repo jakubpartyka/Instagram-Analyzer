@@ -13,14 +13,16 @@ import java.util.Date;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicReference;
 
+@SuppressWarnings("FieldCanBeLocal")
 class Report {
-    List<Profile> followers = new ArrayList<>();
+    private List<Profile> followers = new ArrayList<>();
 
-    SimpleDateFormat dateFormat = new SimpleDateFormat("DD.MM.YYYY HH:mm");
+    private SimpleDateFormat dateFormat = new SimpleDateFormat("DD.MM.YYYY HH:mm");
     private int mouseWheelValue = -30;
     private Profile target;
     private String status;
-    Date date;
+    private Date date;
+    private File outputFile;
     private boolean completed = false;
 
     Report(Profile target) {
@@ -153,10 +155,28 @@ class Report {
             log("report for: " + target + " was not completed successfully");
             return false;
         }
-        File outputFile = new File(directory + "/" + dateFormat.format(date) + ".txt");
+        outputFile = new File(directory + "/" + dateFormat.format(date) + ".txt");
         try {
             FileWriter fileWriter = new FileWriter(outputFile);
             fileWriter.write(this.toString());
+            fileWriter.close();
+            return true;
+        } catch (IOException e) {
+            log(e.getMessage());
+            log("failed to write report");
+            return false;
+        }
+    }
+
+    boolean appendToReport(String message){
+        if(!completed || outputFile == null){
+            log("report for: " + target + " was not completed successfully");
+            return false;
+        }
+        try {
+            FileWriter fileWriter = new FileWriter(outputFile,true);
+            fileWriter.write("\n\n\n" + message);
+            fileWriter.close();
             return true;
         } catch (IOException e) {
             log(e.getMessage());
@@ -193,5 +213,13 @@ class Report {
         AtomicReference<String> result = new AtomicReference<>("");
         followers.forEach(follower -> result.updateAndGet(v -> v + follower + "\n"));
         return result.get();
+    }
+
+    File getOutputFile() {
+        return outputFile;
+    }
+
+    List<Profile> getFollowers() {
+        return followers;
     }
 }

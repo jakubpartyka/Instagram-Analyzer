@@ -1,8 +1,10 @@
+import java.util.Objects;
+
 public class Profile {
     private String link;
     private String name;
-    Report currentReport;
-    Report previousReport;
+    private Report currentReport;
+    private Report previousReport;
 
     Profile(String link) {
         this.link = link;
@@ -15,18 +17,38 @@ public class Profile {
 
     @Override
     public String toString() {
-        return this.link + " name: " + this.name;
+        String n = "#" + this.name;
+        if(this.name == null)
+            n = "";
+        return this.link + n;
     }
 
     String getLink() {
         return link;
     }
 
-    public void setCurrentReport(Report currentReport) {
+    void setCurrentReport(Report currentReport) {
         this.currentReport = currentReport;
     }
 
-    public void setPreviousReport(Report previousReport) {
+    void setPreviousReport(Report previousReport) {
         this.previousReport = previousReport;
+    }
+
+    Report getCurrentReport() {
+        return currentReport;
+    }
+
+    Report getPreviousReport() {
+        return previousReport;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass())
+            return false;
+        Profile profile = (Profile) o;
+        return Objects.equals(this.link, profile.link);
     }
 }

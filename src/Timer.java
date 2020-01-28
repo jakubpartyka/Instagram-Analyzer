@@ -112,9 +112,9 @@ class Timer {
         int currentMinute = now.get(Calendar.MINUTE);
 
         //calculating sleep time
-        int thisHourInMilis = currentHour * 60 + currentMinute;
-        int scheduledTimeInMilis = scheduledHour * 60 + scheduledMinute;
-        diff = scheduledTimeInMilis - thisHourInMilis;
+        int thisHourInMillis = currentHour * 60 + currentMinute;
+        int scheduledTimeInMillis = scheduledHour * 60 + scheduledMinute;
+        diff = scheduledTimeInMillis - thisHourInMillis;
 
         log("sleeping thread until next post time");
 

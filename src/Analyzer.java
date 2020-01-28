@@ -5,6 +5,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.List;
 
+@SuppressWarnings("UnnecessaryReturnStatement")
 public class Analyzer {
     private InstagramDriver driver;
     private List<Profile> profiles;
@@ -47,11 +48,69 @@ public class Analyzer {
             System.out.println(message);
     }
 
+    @SuppressWarnings("UnnecessaryLocalVariable")
     private void analyze(Profile profile) {
         Report newReport = new Report(profile);
         try {
+            //generating new report
             newReport.generate(driver);
-            newReport.writeToFile(outputDir);
+
+            //saving new report to output file
+            if(newReport.writeToFile(outputDir))
+                log("report saved to: " + newReport.getOutputFile().getAbsolutePath());
+            else
+                log("failed to save report to file");
+
+            //setting new reports
+            if(profile.getCurrentReport() == null){
+                profile.setCurrentReport(newReport);
+            }
+            else {
+                profile.setPreviousReport(profile.getCurrentReport());
+                profile.setCurrentReport(newReport);
+            }
+
+            //check if two reports are present
+            if(profile.getPreviousReport() == null){
+                log("previous report for profile " + profile + " is empty");
+                return;
+            }
+            else {
+                //analyze current report compared to previous one
+                List<Profile> currentFollowers = profile.getCurrentReport().getFollowers();
+                List<Profile> previousFollowers = profile.getPreviousReport().getFollowers();
+                log("both followers list loaded, analyzing...");
+
+                List<Profile> newFollowers = currentFollowers;
+                newFollowers.removeAll(previousFollowers);
+
+                List<Profile> unFollowed = previousFollowers;
+                unFollowed.removeAll(currentFollowers);
+
+                if(newFollowers.size() != 0){
+                    StringBuilder result = new StringBuilder("new followers:");
+                    for (Profile newFollower : newFollowers) {
+                        result.append(newFollower.toString());
+                    }
+                    log(result.toString());
+                    if(profile.getCurrentReport().appendToReport(result.toString()))
+                        log("new followers appended successfully");
+                    else
+                        log("could not not append new followers");
+                }
+
+                if(unFollowed.size() != 0){
+                    StringBuilder result = new StringBuilder("people who un-followed you:");
+                    for (Profile unFollower : unFollowed) {
+                        result.append(unFollower.toString());
+                    }
+                    log(result.toString());
+                    if(profile.getCurrentReport().appendToReport(result.toString()))
+                        log("un-followers appended successfully");
+                    else
+                        log("could not append un-followers");
+                }
+            }
         } catch (InterruptedException e) {
             log("failed to generate report for profile " + profile);
             log(e.getMessage());
@@ -63,4 +122,6 @@ public class Analyzer {
             analyze(profile);
         }
     }
+
+    //todo important - load reports from directories
 }

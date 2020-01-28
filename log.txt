@@ -2117,3 +2117,70 @@ Session ID: b4c04316756fbff5dd1c735a5d8f3b17
 [28-01-2020-04:14:48]: [Report]date set to 28.01.2020 04:14
 [28-01-2020-04:14:48]: [Report]generating report completed
 [28-01-2020-04:14:48]:  [Timer]sleeping for 3 hours
+[28-01-2020-05:15:13]: [SERVER]server start
+[28-01-2020-05:15:13]: [SERVER]loading preferences from config file
+[28-01-2020-05:15:13]: [SERVER]preferences loaded successfully
+[28-01-2020-05:15:13]: [SERVER]reading profiles from file
+[28-01-2020-05:15:13]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[28-01-2020-05:15:13]: [SERVER]profiles loaded successfully
+[28-01-2020-05:15:13]:  [Timer]schedule file was read properly: monday 12:00
+[28-01-2020-05:15:13]:  [Timer]trying to parse schedule...
+[28-01-2020-05:15:13]:  [Timer]schedule parsed correctly
+[28-01-2020-05:15:13]:  [Timer]Timer initialized correctly
+[28-01-2020-05:15:15]: [DRIVER]logging in...
+[28-01-2020-05:15:20]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-05:15:21]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-05:15:21]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:23]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:23]: [Report]loading profiles
+[28-01-2020-05:15:24]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:24]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:24]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:25]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:25]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:25]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:26]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:26]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:27]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:27]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:27]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:28]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:28]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:29]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:29]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:29]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:30]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:30]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:30]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:31]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:31]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:31]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:32]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:32]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:33]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:33]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:34]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:34]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:34]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:35]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:35]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:36]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:36]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:36]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:37]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:37]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:37]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:38]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:38]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:38]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:39]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:39]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:40]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-05:15:40]: [Report]breaking loop because of fail count
+[28-01-2020-05:15:40]: [Report]loading profiles finished. Loaded profiles: 427
+[28-01-2020-05:15:43]: [Report]listing followers complete. Number of followers listed: 427
+[28-01-2020-05:15:43]: [Report]date set to 28.01.2020 05:15
+[28-01-2020-05:15:43]: [Report]generating report completed
+[28-01-2020-05:15:43]: [Analyze]report saved to: /Users/admin/IdeaProjects/Instagram-Analyzer/profiles/edity_tacohemingway/28.01.2020 05:15.txt
+[28-01-2020-05:15:43]: [Analyze]previous report for profile https://www.instagram.com/edity_tacohemingway/ name: null is empty
+[28-01-2020-05:15:43]:  [Timer]sleeping for 3 hours

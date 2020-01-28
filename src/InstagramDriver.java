@@ -50,7 +50,6 @@ public class InstagramDriver implements WebDriver, JavascriptExecutor {
         }
     }
 
-
     @Override
     public void get(String url) {
         log("navigating to " + url);
@@ -144,12 +143,14 @@ public class InstagramDriver implements WebDriver, JavascriptExecutor {
 
     @Override
     public Object executeScript(String script, Object... args) {
+        //override this method to execute java scripts
         JavascriptExecutor js = (JavascriptExecutor) driver;
         return js.executeScript(script,args);
     }
 
     @Override
     public Object executeAsyncScript(String script, Object... args) {
+        //override this method to execute java scripts
         JavascriptExecutor js = (JavascriptExecutor) driver;
         return js.executeScript(script,args);
     }
