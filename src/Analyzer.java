@@ -54,7 +54,6 @@ public class Analyzer {
             log("failed to generate report for profile " + profile);
             log(e.getMessage());
         }
-
     }
 
     void analyzeAll() {

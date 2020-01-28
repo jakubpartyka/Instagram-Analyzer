@@ -1,7 +1,5 @@
-import org.openqa.selenium.By;
+import org.openqa.selenium.*;
 import org.openqa.selenium.NoSuchElementException;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
@@ -10,7 +8,7 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-public class InstagramDriver implements WebDriver {
+public class InstagramDriver implements WebDriver, JavascriptExecutor {
     private WebDriver driver;
 
     InstagramDriver(){
@@ -27,7 +25,7 @@ public class InstagramDriver implements WebDriver {
     void logIn() throws InterruptedException {
         log("logging in...");
         driver.get("https://www.instagram.com/accounts/login/");
-
+        Thread.sleep(300);
         WebElement username = ((ChromeDriver)driver).findElementByXPath("//*[@name='username']");
         WebElement password = ((ChromeDriver)driver).findElementByXPath("//*[@name='password']");
         WebElement submit = ((ChromeDriver)driver).findElementByXPath("//*[@type='submit']");
@@ -35,6 +33,7 @@ public class InstagramDriver implements WebDriver {
         password.sendKeys(Main.getPassword());
         Thread.sleep(100);
         submit.click();
+        Thread.sleep(2000);             //wait for login
         denyNotifications();
     }
 
@@ -141,5 +140,17 @@ public class InstagramDriver implements WebDriver {
         }
         if (Main.isLogToConsole())
             System.out.println(message);
+    }
+
+    @Override
+    public Object executeScript(String script, Object... args) {
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        return js.executeScript(script,args);
+    }
+
+    @Override
+    public Object executeAsyncScript(String script, Object... args) {
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        return js.executeScript(script,args);
     }
 }

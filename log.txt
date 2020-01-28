@@ -265,3 +265,770 @@
 [27-01-2020-17:48:37]:  [Timer]Timer initialized correctly
 [27-01-2020-17:48:39]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
 [27-01-2020-17:48:41]:  [Timer]sleeping thread until next post time
+[27-01-2020-17:55:37]: [SERVER]server start
+[27-01-2020-17:55:37]: [SERVER]loading preferences from config file
+[27-01-2020-17:55:37]: [SERVER]preferences loaded successfully
+[27-01-2020-17:55:37]: [SERVER]reading profiles from file
+[27-01-2020-17:55:37]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[27-01-2020-17:55:37]: [SERVER]profiles loaded successfully
+[27-01-2020-17:55:37]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-17:55:37]:  [Timer]trying to parse schedule...
+[27-01-2020-17:55:37]:  [Timer]schedule parsed correctly
+[27-01-2020-17:55:37]:  [Timer]Timer initialized correctly
+[27-01-2020-17:55:38]: [DRIVER]logging in...
+[27-01-2020-17:56:01]: [SERVER]server start
+[27-01-2020-17:56:01]: [SERVER]loading preferences from config file
+[27-01-2020-17:56:01]: [SERVER]preferences loaded successfully
+[27-01-2020-17:56:01]: [SERVER]reading profiles from file
+[27-01-2020-17:56:01]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[27-01-2020-17:56:01]: [SERVER]profiles loaded successfully
+[27-01-2020-17:56:01]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-17:56:01]:  [Timer]trying to parse schedule...
+[27-01-2020-17:56:01]:  [Timer]schedule parsed correctly
+[27-01-2020-17:56:01]:  [Timer]Timer initialized correctly
+[27-01-2020-17:56:03]: [DRIVER]logging in...
+[27-01-2020-17:56:05]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[27-01-2020-17:56:06]:  [Timer]sleeping thread until next post time
+[27-01-2020-17:56:25]: [SERVER]server start
+[27-01-2020-17:56:25]: [SERVER]loading preferences from config file
+[27-01-2020-17:56:25]: [SERVER]preferences loaded successfully
+[27-01-2020-17:56:25]: [SERVER]reading profiles from file
+[27-01-2020-17:56:25]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[27-01-2020-17:56:25]: [SERVER]profiles loaded successfully
+[27-01-2020-17:56:25]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-17:56:25]:  [Timer]trying to parse schedule...
+[27-01-2020-17:56:25]:  [Timer]schedule parsed correctly
+[27-01-2020-17:56:25]:  [Timer]Timer initialized correctly
+[27-01-2020-17:56:27]: [DRIVER]logging in...
+[27-01-2020-17:57:22]: [SERVER]server start
+[27-01-2020-17:57:22]: [SERVER]loading preferences from config file
+[27-01-2020-17:57:22]: [SERVER]preferences loaded successfully
+[27-01-2020-17:57:22]: [SERVER]reading profiles from file
+[27-01-2020-17:57:22]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[27-01-2020-17:57:22]: [SERVER]profiles loaded successfully
+[27-01-2020-17:57:22]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-17:57:22]:  [Timer]trying to parse schedule...
+[27-01-2020-17:57:22]:  [Timer]schedule parsed correctly
+[27-01-2020-17:57:22]:  [Timer]Timer initialized correctly
+[27-01-2020-17:57:24]: [DRIVER]logging in...
+[27-01-2020-17:57:31]: [SERVER]server start
+[27-01-2020-17:57:31]: [SERVER]loading preferences from config file
+[27-01-2020-17:57:31]: [SERVER]preferences loaded successfully
+[27-01-2020-17:57:31]: [SERVER]reading profiles from file
+[27-01-2020-17:57:31]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[27-01-2020-17:57:31]: [SERVER]profiles loaded successfully
+[27-01-2020-17:57:31]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-17:57:31]:  [Timer]trying to parse schedule...
+[27-01-2020-17:57:31]:  [Timer]schedule parsed correctly
+[27-01-2020-17:57:31]:  [Timer]Timer initialized correctly
+[27-01-2020-17:57:33]: [DRIVER]logging in...
+[27-01-2020-17:57:35]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[27-01-2020-17:57:36]:  [Timer]sleeping thread until next post time
+[27-01-2020-17:57:59]: [SERVER]server start
+[27-01-2020-17:57:59]: [SERVER]loading preferences from config file
+[27-01-2020-17:57:59]: [SERVER]preferences loaded successfully
+[27-01-2020-17:57:59]: [SERVER]reading profiles from file
+[27-01-2020-17:57:59]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[27-01-2020-17:57:59]: [SERVER]profiles loaded successfully
+[27-01-2020-17:57:59]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-17:57:59]:  [Timer]trying to parse schedule...
+[27-01-2020-17:57:59]:  [Timer]schedule parsed correctly
+[27-01-2020-17:57:59]:  [Timer]Timer initialized correctly
+[27-01-2020-17:58:01]: [DRIVER]logging in...
+[27-01-2020-17:58:21]: [SERVER]server start
+[27-01-2020-17:58:21]: [SERVER]loading preferences from config file
+[27-01-2020-17:58:21]: [SERVER]preferences loaded successfully
+[27-01-2020-17:58:21]: [SERVER]reading profiles from file
+[27-01-2020-17:58:21]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[27-01-2020-17:58:21]: [SERVER]profiles loaded successfully
+[27-01-2020-17:58:21]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-17:58:21]:  [Timer]trying to parse schedule...
+[27-01-2020-17:58:21]:  [Timer]schedule parsed correctly
+[27-01-2020-17:58:21]:  [Timer]Timer initialized correctly
+[27-01-2020-17:58:23]: [DRIVER]logging in...
+[27-01-2020-17:58:42]: [SERVER]server start
+[27-01-2020-17:58:42]: [SERVER]loading preferences from config file
+[27-01-2020-17:58:42]: [SERVER]preferences loaded successfully
+[27-01-2020-17:58:42]: [SERVER]reading profiles from file
+[27-01-2020-17:58:42]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[27-01-2020-17:58:42]: [SERVER]profiles loaded successfully
+[27-01-2020-17:58:42]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-17:58:42]:  [Timer]trying to parse schedule...
+[27-01-2020-17:58:42]:  [Timer]schedule parsed correctly
+[27-01-2020-17:58:42]:  [Timer]Timer initialized correctly
+[27-01-2020-17:58:44]: [DRIVER]logging in...
+[27-01-2020-17:58:46]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[27-01-2020-17:58:47]:  [Timer]sleeping thread until next post time
+[27-01-2020-17:59:06]: [SERVER]server start
+[27-01-2020-17:59:06]: [SERVER]loading preferences from config file
+[27-01-2020-17:59:06]: [SERVER]preferences loaded successfully
+[27-01-2020-17:59:06]: [SERVER]reading profiles from file
+[27-01-2020-17:59:06]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[27-01-2020-17:59:06]: [SERVER]profiles loaded successfully
+[27-01-2020-17:59:06]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-17:59:06]:  [Timer]trying to parse schedule...
+[27-01-2020-17:59:06]:  [Timer]schedule parsed correctly
+[27-01-2020-17:59:06]:  [Timer]Timer initialized correctly
+[27-01-2020-17:59:08]: [DRIVER]logging in...
+[27-01-2020-17:59:12]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[27-01-2020-17:59:14]:  [Timer]sleeping thread until next post time
+[27-01-2020-18:22:34]: [SERVER]server start
+[27-01-2020-18:22:34]: [SERVER]loading preferences from config file
+[27-01-2020-18:22:34]: [SERVER]preferences loaded successfully
+[27-01-2020-18:22:34]: [SERVER]reading profiles from file
+[27-01-2020-18:22:34]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[27-01-2020-18:22:34]: [SERVER]profiles loaded successfully
+[27-01-2020-18:22:34]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-18:22:34]:  [Timer]trying to parse schedule...
+[27-01-2020-18:22:34]:  [Timer]schedule parsed correctly
+[27-01-2020-18:22:34]:  [Timer]Timer initialized correctly
+[27-01-2020-18:22:36]: [DRIVER]logging in...
+[27-01-2020-18:22:40]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[27-01-2020-18:22:41]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[27-01-2020-18:22:41]:  [Timer]sleeping thread until next post time
+[27-01-2020-18:30:15]: [SERVER]server start
+[27-01-2020-18:30:15]: [SERVER]loading preferences from config file
+[27-01-2020-18:30:15]: [SERVER]preferences loaded successfully
+[27-01-2020-18:30:15]: [SERVER]reading profiles from file
+[27-01-2020-18:30:15]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[27-01-2020-18:30:15]: [SERVER]profiles loaded successfully
+[27-01-2020-18:30:15]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-18:30:15]:  [Timer]trying to parse schedule...
+[27-01-2020-18:30:15]:  [Timer]schedule parsed correctly
+[27-01-2020-18:30:15]:  [Timer]Timer initialized correctly
+[27-01-2020-18:30:17]: [DRIVER]logging in...
+[27-01-2020-18:30:21]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[27-01-2020-18:30:22]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[27-01-2020-18:30:22]:  [Timer]sleeping thread until next post time
+[27-01-2020-19:55:45]: [SERVER]server start
+[27-01-2020-19:55:45]: [SERVER]loading preferences from config file
+[27-01-2020-19:55:45]: [SERVER]preferences loaded successfully
+[27-01-2020-19:55:45]: [SERVER]reading profiles from file
+[27-01-2020-19:55:45]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[27-01-2020-19:55:45]: [SERVER]profiles loaded successfully
+[27-01-2020-19:55:45]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-19:55:45]:  [Timer]trying to parse schedule...
+[27-01-2020-19:55:45]:  [Timer]schedule parsed correctly
+[27-01-2020-19:55:45]:  [Timer]Timer initialized correctly
+[27-01-2020-19:55:47]: [DRIVER]logging in...
+[27-01-2020-19:55:51]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[27-01-2020-19:55:52]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[27-01-2020-19:55:53]:  [Timer]sleeping thread until next post time
+[27-01-2020-20:00:00]: [SERVER]server start
+[27-01-2020-20:00:00]: [SERVER]loading preferences from config file
+[27-01-2020-20:00:00]: [SERVER]preferences loaded successfully
+[27-01-2020-20:00:00]: [SERVER]reading profiles from file
+[27-01-2020-20:00:00]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[27-01-2020-20:00:00]: [SERVER]profiles loaded successfully
+[27-01-2020-20:00:00]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-20:00:00]:  [Timer]trying to parse schedule...
+[27-01-2020-20:00:00]:  [Timer]schedule parsed correctly
+[27-01-2020-20:00:00]:  [Timer]Timer initialized correctly
+[27-01-2020-20:00:02]: [DRIVER]logging in...
+[27-01-2020-20:00:07]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[27-01-2020-20:00:08]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[27-01-2020-20:00:08]: [DRIVER]locating element by: By.xpath: //*[@class='                   Igw0E   rBNOH        eGOV_     ybXk5    _4EzTm                                                                                   XfCBB          HVWg4                 ']
+[27-01-2020-20:01:06]: [SERVER]server start
+[27-01-2020-20:01:06]: [SERVER]loading preferences from config file
+[27-01-2020-20:01:07]: [SERVER]preferences loaded successfully
+[27-01-2020-20:01:07]: [SERVER]reading profiles from file
+[27-01-2020-20:01:07]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[27-01-2020-20:01:07]: [SERVER]profiles loaded successfully
+[27-01-2020-20:01:07]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-20:01:07]:  [Timer]trying to parse schedule...
+[27-01-2020-20:01:07]:  [Timer]schedule parsed correctly
+[27-01-2020-20:01:07]:  [Timer]Timer initialized correctly
+[27-01-2020-20:01:08]: [DRIVER]logging in...
+[27-01-2020-20:01:13]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[27-01-2020-20:01:14]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[27-01-2020-20:01:14]: [DRIVER]locating element by: By.xpath: //*[@class='PZuss']
+[27-01-2020-20:02:03]: [SERVER]server start
+[27-01-2020-20:02:03]: [SERVER]loading preferences from config file
+[27-01-2020-20:02:03]: [SERVER]preferences loaded successfully
+[27-01-2020-20:02:03]: [SERVER]reading profiles from file
+[27-01-2020-20:02:03]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[27-01-2020-20:02:03]: [SERVER]profiles loaded successfully
+[27-01-2020-20:02:03]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-20:02:03]:  [Timer]trying to parse schedule...
+[27-01-2020-20:02:03]:  [Timer]schedule parsed correctly
+[27-01-2020-20:02:03]:  [Timer]Timer initialized correctly
+[27-01-2020-20:02:05]: [DRIVER]logging in...
+[27-01-2020-20:02:09]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[27-01-2020-20:02:10]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[27-01-2020-20:02:11]: [DRIVER]locating element by: By.xpath: //*[@class='PZuss']
+[27-01-2020-20:02:11]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[27-01-2020-20:04:21]: [SERVER]server start
+[27-01-2020-20:04:21]: [SERVER]loading preferences from config file
+[27-01-2020-20:04:21]: [SERVER]preferences loaded successfully
+[27-01-2020-20:04:21]: [SERVER]reading profiles from file
+[27-01-2020-20:04:21]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[27-01-2020-20:04:21]: [SERVER]profiles loaded successfully
+[27-01-2020-20:04:21]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-20:04:21]:  [Timer]trying to parse schedule...
+[27-01-2020-20:04:21]:  [Timer]schedule parsed correctly
+[27-01-2020-20:04:21]:  [Timer]Timer initialized correctly
+[27-01-2020-20:04:23]: [DRIVER]logging in...
+[27-01-2020-20:04:28]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[27-01-2020-20:04:29]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[27-01-2020-20:04:29]: [DRIVER]locating element by: By.xpath: //*[@class='PZuss']
+[27-01-2020-20:04:29]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[27-01-2020-20:05:34]: [SERVER]server start
+[27-01-2020-20:05:34]: [SERVER]loading preferences from config file
+[27-01-2020-20:05:35]: [SERVER]preferences loaded successfully
+[27-01-2020-20:05:35]: [SERVER]reading profiles from file
+[27-01-2020-20:05:35]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[27-01-2020-20:05:35]: [SERVER]profiles loaded successfully
+[27-01-2020-20:05:35]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-20:05:35]:  [Timer]trying to parse schedule...
+[27-01-2020-20:05:35]:  [Timer]schedule parsed correctly
+[27-01-2020-20:05:35]:  [Timer]Timer initialized correctly
+[27-01-2020-20:05:36]: [DRIVER]logging in...
+[27-01-2020-20:05:41]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[27-01-2020-20:05:42]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[27-01-2020-20:05:42]: [DRIVER]locating element by: By.xpath: //*[@class='PZuss']
+[27-01-2020-20:05:42]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[27-01-2020-20:12:27]: [SERVER]server start
+[27-01-2020-20:12:27]: [SERVER]loading preferences from config file
+[27-01-2020-20:12:27]: [SERVER]preferences loaded successfully
+[27-01-2020-20:12:27]: [SERVER]reading profiles from file
+[27-01-2020-20:12:27]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[27-01-2020-20:12:27]: [SERVER]profiles loaded successfully
+[27-01-2020-20:12:27]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-20:12:27]:  [Timer]trying to parse schedule...
+[27-01-2020-20:12:27]:  [Timer]schedule parsed correctly
+[27-01-2020-20:12:27]:  [Timer]Timer initialized correctly
+[27-01-2020-20:12:29]: [DRIVER]logging in...
+[27-01-2020-20:12:33]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[27-01-2020-20:12:34]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[27-01-2020-20:12:35]: [DRIVER]locating element by: By.xpath: //*[@class='PZuss']
+[27-01-2020-20:12:35]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[27-01-2020-20:12:35]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[27-01-2020-20:12:35]:  [Timer]sleeping thread until next post time
+[27-01-2020-20:13:49]: [SERVER]server start
+[27-01-2020-20:13:49]: [SERVER]loading preferences from config file
+[27-01-2020-20:13:49]: [SERVER]preferences loaded successfully
+[27-01-2020-20:13:49]: [SERVER]reading profiles from file
+[27-01-2020-20:13:49]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[27-01-2020-20:13:49]: [SERVER]profiles loaded successfully
+[27-01-2020-20:13:49]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-20:13:49]:  [Timer]trying to parse schedule...
+[27-01-2020-20:13:49]:  [Timer]schedule parsed correctly
+[27-01-2020-20:13:49]:  [Timer]Timer initialized correctly
+[27-01-2020-20:13:51]: [DRIVER]logging in...
+[27-01-2020-20:13:56]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[27-01-2020-20:13:57]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[27-01-2020-20:13:58]: [DRIVER]locating element by: By.xpath: //*[@class='PZuss']
+[27-01-2020-20:13:58]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[27-01-2020-20:13:58]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[27-01-2020-20:13:58]:  [Timer]sleeping thread until next post time
+[27-01-2020-20:14:45]: [SERVER]server start
+[27-01-2020-20:14:45]: [SERVER]loading preferences from config file
+[27-01-2020-20:14:45]: [SERVER]preferences loaded successfully
+[27-01-2020-20:14:45]: [SERVER]reading profiles from file
+[27-01-2020-20:14:45]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[27-01-2020-20:14:45]: [SERVER]profiles loaded successfully
+[27-01-2020-20:14:45]:  [Timer]schedule file was read properly: monday 12:00
+[27-01-2020-20:14:45]:  [Timer]trying to parse schedule...
+[27-01-2020-20:14:45]:  [Timer]schedule parsed correctly
+[27-01-2020-20:14:45]:  [Timer]Timer initialized correctly
+[27-01-2020-20:14:47]: [DRIVER]logging in...
+[27-01-2020-20:14:51]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[27-01-2020-20:14:52]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[27-01-2020-20:14:53]: [DRIVER]locating element by: By.xpath: //*[@class='PZuss']
+[27-01-2020-20:14:53]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[27-01-2020-20:14:53]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[27-01-2020-20:14:53]:  [Timer]sleeping thread until next post time
+[28-01-2020-02:18:53]: [SERVER]server start
+[28-01-2020-02:18:53]: [SERVER]loading preferences from config file
+[28-01-2020-02:18:53]: [SERVER]preferences loaded successfully
+[28-01-2020-02:18:53]: [SERVER]reading profiles from file
+[28-01-2020-02:18:53]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[28-01-2020-02:18:53]: [SERVER]profiles loaded successfully
+[28-01-2020-02:18:53]:  [Timer]schedule file was read properly: monday 12:00
+[28-01-2020-02:18:53]:  [Timer]trying to parse schedule...
+[28-01-2020-02:18:53]:  [Timer]schedule parsed correctly
+[28-01-2020-02:18:53]:  [Timer]Timer initialized correctly
+[28-01-2020-02:18:55]: [DRIVER]logging in...
+[28-01-2020-02:19:00]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-02:19:03]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-02:19:04]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:19:04]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:19:04]:  [Timer]sleeping for 3 hours
+[28-01-2020-02:25:09]: [SERVER]server start
+[28-01-2020-02:25:09]: [SERVER]loading preferences from config file
+[28-01-2020-02:25:09]: [SERVER]preferences loaded successfully
+[28-01-2020-02:25:09]: [SERVER]reading profiles from file
+[28-01-2020-02:25:09]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[28-01-2020-02:25:09]: [SERVER]profiles loaded successfully
+[28-01-2020-02:25:09]:  [Timer]schedule file was read properly: monday 12:00
+[28-01-2020-02:25:09]:  [Timer]trying to parse schedule...
+[28-01-2020-02:25:09]:  [Timer]schedule parsed correctly
+[28-01-2020-02:25:09]:  [Timer]Timer initialized correctly
+[28-01-2020-02:25:11]: [DRIVER]logging in...
+[28-01-2020-02:25:15]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-02:25:16]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-02:25:17]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:25:17]: [Report]no profiles were  found - account may be private
+[28-01-2020-02:25:17]: [Report]setting status to private
+[28-01-2020-02:25:17]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:25:17]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:25:17]:  [Timer]sleeping for 3 hours
+[28-01-2020-02:26:11]: [SERVER]server start
+[28-01-2020-02:26:11]: [SERVER]loading preferences from config file
+[28-01-2020-02:26:11]: [SERVER]preferences loaded successfully
+[28-01-2020-02:26:11]: [SERVER]reading profiles from file
+[28-01-2020-02:26:11]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[28-01-2020-02:26:11]: [SERVER]profiles loaded successfully
+[28-01-2020-02:26:11]:  [Timer]schedule file was read properly: monday 12:00
+[28-01-2020-02:26:11]:  [Timer]trying to parse schedule...
+[28-01-2020-02:26:11]:  [Timer]schedule parsed correctly
+[28-01-2020-02:26:11]:  [Timer]Timer initialized correctly
+[28-01-2020-02:26:13]: [DRIVER]logging in...
+[28-01-2020-02:26:17]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-02:26:18]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-02:26:18]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:26:18]: [Report]no profiles were  found - account may be private
+[28-01-2020-02:26:18]: [Report]setting status to private
+[28-01-2020-02:26:18]:  [Timer]sleeping for 3 hours
+[28-01-2020-02:27:18]: [SERVER]server start
+[28-01-2020-02:27:18]: [SERVER]loading preferences from config file
+[28-01-2020-02:27:18]: [SERVER]preferences loaded successfully
+[28-01-2020-02:27:18]: [SERVER]reading profiles from file
+[28-01-2020-02:27:18]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[28-01-2020-02:27:18]: [SERVER]profiles loaded successfully
+[28-01-2020-02:27:18]:  [Timer]schedule file was read properly: monday 12:00
+[28-01-2020-02:27:18]:  [Timer]trying to parse schedule...
+[28-01-2020-02:27:18]:  [Timer]schedule parsed correctly
+[28-01-2020-02:27:18]:  [Timer]Timer initialized correctly
+[28-01-2020-02:27:20]: [DRIVER]logging in...
+[28-01-2020-02:27:24]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-02:27:25]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-02:27:26]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:27:28]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:27:28]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:27:28]:  [Timer]sleeping for 3 hours
+[28-01-2020-02:28:59]: [SERVER]server start
+[28-01-2020-02:28:59]: [SERVER]loading preferences from config file
+[28-01-2020-02:28:59]: [SERVER]preferences loaded successfully
+[28-01-2020-02:28:59]: [SERVER]reading profiles from file
+[28-01-2020-02:28:59]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[28-01-2020-02:28:59]: [SERVER]profiles loaded successfully
+[28-01-2020-02:28:59]:  [Timer]schedule file was read properly: monday 12:00
+[28-01-2020-02:28:59]:  [Timer]trying to parse schedule...
+[28-01-2020-02:28:59]:  [Timer]schedule parsed correctly
+[28-01-2020-02:28:59]:  [Timer]Timer initialized correctly
+[28-01-2020-02:29:00]: [DRIVER]logging in...
+[28-01-2020-02:29:05]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-02:29:06]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-02:29:06]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:29:09]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:29:09]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:29:09]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:29:09]:  [Timer]sleeping for 3 hours
+[28-01-2020-02:29:33]: [SERVER]server start
+[28-01-2020-02:29:33]: [SERVER]loading preferences from config file
+[28-01-2020-02:29:33]: [SERVER]preferences loaded successfully
+[28-01-2020-02:29:33]: [SERVER]reading profiles from file
+[28-01-2020-02:29:33]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[28-01-2020-02:29:33]: [SERVER]profiles loaded successfully
+[28-01-2020-02:29:33]:  [Timer]schedule file was read properly: monday 12:00
+[28-01-2020-02:29:33]:  [Timer]trying to parse schedule...
+[28-01-2020-02:29:33]:  [Timer]schedule parsed correctly
+[28-01-2020-02:29:33]:  [Timer]Timer initialized correctly
+[28-01-2020-02:29:34]: [DRIVER]logging in...
+[28-01-2020-02:29:38]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-02:29:40]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-02:29:40]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:29:40]: [Report]no profiles were  found - account may be private
+[28-01-2020-02:29:40]: [Report]no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='FPmhX notranslate  _0imsa ']"}
+  (Session info: chrome=79.0.3945.130)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'POLO-1058.local', ip: 'fe80:0:0:0:1cbb:7497:f80a:a2a3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.130, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: /var/folders/c7/db9wjkc973z...}, goog:chromeOptions: {debuggerAddress: localhost:59671}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4a1e38589bc9c9f1302f72c4d2aa2c41
+*** Element info: {Using=xpath, value=//*[@class='FPmhX notranslate  _0imsa ']}
+[28-01-2020-02:29:40]: [Report]setting status to private
+[28-01-2020-02:29:40]:  [Timer]sleeping for 3 hours
+[28-01-2020-02:30:13]: [SERVER]server start
+[28-01-2020-02:30:13]: [SERVER]loading preferences from config file
+[28-01-2020-02:30:13]: [SERVER]preferences loaded successfully
+[28-01-2020-02:30:13]: [SERVER]reading profiles from file
+[28-01-2020-02:30:13]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[28-01-2020-02:30:13]: [SERVER]profiles loaded successfully
+[28-01-2020-02:30:13]:  [Timer]schedule file was read properly: monday 12:00
+[28-01-2020-02:30:13]:  [Timer]trying to parse schedule...
+[28-01-2020-02:30:13]:  [Timer]schedule parsed correctly
+[28-01-2020-02:30:13]:  [Timer]Timer initialized correctly
+[28-01-2020-02:30:15]: [DRIVER]logging in...
+[28-01-2020-02:30:19]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-02:30:20]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-02:30:20]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:30:22]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:30:22]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:30:22]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:30:22]:  [Timer]sleeping for 3 hours
+[28-01-2020-02:31:22]: [SERVER]server start
+[28-01-2020-02:31:22]: [SERVER]loading preferences from config file
+[28-01-2020-02:31:22]: [SERVER]preferences loaded successfully
+[28-01-2020-02:31:22]: [SERVER]reading profiles from file
+[28-01-2020-02:31:22]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[28-01-2020-02:31:22]: [SERVER]profiles loaded successfully
+[28-01-2020-02:31:22]:  [Timer]schedule file was read properly: monday 12:00
+[28-01-2020-02:31:22]:  [Timer]trying to parse schedule...
+[28-01-2020-02:31:22]:  [Timer]schedule parsed correctly
+[28-01-2020-02:31:22]:  [Timer]Timer initialized correctly
+[28-01-2020-02:31:23]: [DRIVER]logging in...
+[28-01-2020-02:31:27]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-02:31:28]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-02:31:29]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:31:29]: [Report]no profiles were  found - account may be private
+[28-01-2020-02:31:29]: [Report]no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='FPmhX notranslate  _0imsa ']"}
+  (Session info: chrome=79.0.3945.130)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'POLO-1058.local', ip: 'fe80:0:0:0:1cbb:7497:f80a:a2a3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.130, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: /var/folders/c7/db9wjkc973z...}, goog:chromeOptions: {debuggerAddress: localhost:59870}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b4c04316756fbff5dd1c735a5d8f3b17
+*** Element info: {Using=xpath, value=//*[@class='FPmhX notranslate  _0imsa ']}
+[28-01-2020-02:31:29]: [Report]setting status to private
+[28-01-2020-02:31:29]:  [Timer]sleeping for 3 hours
+[28-01-2020-02:33:42]: [SERVER]server start
+[28-01-2020-02:33:42]: [SERVER]loading preferences from config file
+[28-01-2020-02:33:42]: [SERVER]preferences loaded successfully
+[28-01-2020-02:33:42]: [SERVER]reading profiles from file
+[28-01-2020-02:33:42]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[28-01-2020-02:33:42]: [SERVER]profiles loaded successfully
+[28-01-2020-02:33:42]:  [Timer]schedule file was read properly: monday 12:00
+[28-01-2020-02:33:42]:  [Timer]trying to parse schedule...
+[28-01-2020-02:33:42]:  [Timer]schedule parsed correctly
+[28-01-2020-02:33:42]:  [Timer]Timer initialized correctly
+[28-01-2020-02:33:43]: [DRIVER]logging in...
+[28-01-2020-02:33:48]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-02:33:48]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-02:33:49]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:33:51]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:33:51]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:33:51]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:33:51]:  [Timer]sleeping for 3 hours
+[28-01-2020-02:34:37]: [SERVER]server start
+[28-01-2020-02:34:37]: [SERVER]loading preferences from config file
+[28-01-2020-02:34:37]: [SERVER]preferences loaded successfully
+[28-01-2020-02:34:37]: [SERVER]reading profiles from file
+[28-01-2020-02:34:37]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[28-01-2020-02:34:37]: [SERVER]profiles loaded successfully
+[28-01-2020-02:34:37]:  [Timer]schedule file was read properly: monday 12:00
+[28-01-2020-02:34:37]:  [Timer]trying to parse schedule...
+[28-01-2020-02:34:38]:  [Timer]schedule parsed correctly
+[28-01-2020-02:34:38]:  [Timer]Timer initialized correctly
+[28-01-2020-02:34:39]: [DRIVER]logging in...
+[28-01-2020-02:34:43]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-02:34:44]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-02:34:45]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:34:47]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:34:47]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:34:47]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:34:47]:  [Timer]sleeping for 3 hours
+[28-01-2020-02:36:43]: [SERVER]server start
+[28-01-2020-02:36:43]: [SERVER]loading preferences from config file
+[28-01-2020-02:36:43]: [SERVER]preferences loaded successfully
+[28-01-2020-02:36:43]: [SERVER]reading profiles from file
+[28-01-2020-02:36:43]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[28-01-2020-02:36:43]: [SERVER]profiles loaded successfully
+[28-01-2020-02:36:43]:  [Timer]schedule file was read properly: monday 12:00
+[28-01-2020-02:36:43]:  [Timer]trying to parse schedule...
+[28-01-2020-02:36:43]:  [Timer]schedule parsed correctly
+[28-01-2020-02:36:43]:  [Timer]Timer initialized correctly
+[28-01-2020-02:36:45]: [DRIVER]logging in...
+[28-01-2020-02:36:49]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-02:36:50]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-02:36:50]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:36:52]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:36:53]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:36:53]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:36:53]:  [Timer]sleeping for 3 hours
+[28-01-2020-02:37:14]: [SERVER]server start
+[28-01-2020-02:37:14]: [SERVER]loading preferences from config file
+[28-01-2020-02:37:14]: [SERVER]preferences loaded successfully
+[28-01-2020-02:37:14]: [SERVER]reading profiles from file
+[28-01-2020-02:37:14]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[28-01-2020-02:37:14]: [SERVER]profiles loaded successfully
+[28-01-2020-02:37:14]:  [Timer]schedule file was read properly: monday 12:00
+[28-01-2020-02:37:14]:  [Timer]trying to parse schedule...
+[28-01-2020-02:37:14]:  [Timer]schedule parsed correctly
+[28-01-2020-02:37:14]:  [Timer]Timer initialized correctly
+[28-01-2020-02:37:15]: [DRIVER]logging in...
+[28-01-2020-02:37:19]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-02:37:20]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-02:37:21]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:37:23]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:37:23]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:37:23]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:37:23]:  [Timer]sleeping for 3 hours
+[28-01-2020-02:40:06]: [SERVER]server start
+[28-01-2020-02:40:06]: [SERVER]loading preferences from config file
+[28-01-2020-02:40:06]: [SERVER]preferences loaded successfully
+[28-01-2020-02:40:06]: [SERVER]reading profiles from file
+[28-01-2020-02:40:06]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[28-01-2020-02:40:06]: [SERVER]profiles loaded successfully
+[28-01-2020-02:40:06]:  [Timer]schedule file was read properly: monday 12:00
+[28-01-2020-02:40:06]:  [Timer]trying to parse schedule...
+[28-01-2020-02:40:06]:  [Timer]schedule parsed correctly
+[28-01-2020-02:40:06]:  [Timer]Timer initialized correctly
+[28-01-2020-02:40:08]: [DRIVER]logging in...
+[28-01-2020-02:40:12]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-02:40:14]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-02:40:14]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:40:14]: [DRIVER]locating element by: By.xpath: //*[@class='sqdOP  L3NKy   y3zKF     ']
+[28-01-2020-02:40:20]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:40:20]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:40:20]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:40:20]:  [Timer]sleeping for 3 hours
+[28-01-2020-02:44:19]: [SERVER]server start
+[28-01-2020-02:44:19]: [SERVER]loading preferences from config file
+[28-01-2020-02:44:19]: [SERVER]preferences loaded successfully
+[28-01-2020-02:44:19]: [SERVER]reading profiles from file
+[28-01-2020-02:44:19]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[28-01-2020-02:44:19]: [SERVER]profiles loaded successfully
+[28-01-2020-02:44:19]:  [Timer]schedule file was read properly: monday 12:00
+[28-01-2020-02:44:19]:  [Timer]trying to parse schedule...
+[28-01-2020-02:44:19]:  [Timer]schedule parsed correctly
+[28-01-2020-02:44:19]:  [Timer]Timer initialized correctly
+[28-01-2020-02:44:21]: [DRIVER]logging in...
+[28-01-2020-02:44:25]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-02:44:26]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-02:44:26]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:44:30]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:44:30]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:44:30]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:44:30]:  [Timer]sleeping for 3 hours
+[28-01-2020-02:48:07]: [SERVER]server start
+[28-01-2020-02:48:07]: [SERVER]loading preferences from config file
+[28-01-2020-02:48:08]: [SERVER]preferences loaded successfully
+[28-01-2020-02:48:08]: [SERVER]reading profiles from file
+[28-01-2020-02:48:08]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[28-01-2020-02:48:08]: [SERVER]profiles loaded successfully
+[28-01-2020-02:48:08]:  [Timer]schedule file was read properly: monday 12:00
+[28-01-2020-02:48:08]:  [Timer]trying to parse schedule...
+[28-01-2020-02:48:08]:  [Timer]schedule parsed correctly
+[28-01-2020-02:48:08]:  [Timer]Timer initialized correctly
+[28-01-2020-02:48:09]: [DRIVER]logging in...
+[28-01-2020-02:48:13]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-02:48:14]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-02:48:15]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:48:17]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:48:17]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:48:17]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:48:17]:  [Timer]sleeping for 3 hours
+[28-01-2020-02:48:58]: [SERVER]server start
+[28-01-2020-02:48:58]: [SERVER]loading preferences from config file
+[28-01-2020-02:48:58]: [SERVER]preferences loaded successfully
+[28-01-2020-02:48:58]: [SERVER]reading profiles from file
+[28-01-2020-02:48:58]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[28-01-2020-02:48:58]: [SERVER]profiles loaded successfully
+[28-01-2020-02:48:58]:  [Timer]schedule file was read properly: monday 12:00
+[28-01-2020-02:48:58]:  [Timer]trying to parse schedule...
+[28-01-2020-02:48:58]:  [Timer]schedule parsed correctly
+[28-01-2020-02:48:58]:  [Timer]Timer initialized correctly
+[28-01-2020-02:49:00]: [DRIVER]logging in...
+[28-01-2020-02:49:04]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-02:49:05]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-02:49:06]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:49:07]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:49:07]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:49:08]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:49:08]:  [Timer]sleeping for 3 hours
+[28-01-2020-02:49:28]: [SERVER]server start
+[28-01-2020-02:49:28]: [SERVER]loading preferences from config file
+[28-01-2020-02:49:28]: [SERVER]preferences loaded successfully
+[28-01-2020-02:49:28]: [SERVER]reading profiles from file
+[28-01-2020-02:49:28]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[28-01-2020-02:49:28]: [SERVER]profiles loaded successfully
+[28-01-2020-02:49:28]:  [Timer]schedule file was read properly: monday 12:00
+[28-01-2020-02:49:28]:  [Timer]trying to parse schedule...
+[28-01-2020-02:49:28]:  [Timer]schedule parsed correctly
+[28-01-2020-02:49:28]:  [Timer]Timer initialized correctly
+[28-01-2020-02:49:30]: [DRIVER]logging in...
+[28-01-2020-02:49:35]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-02:49:36]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-02:49:36]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:49:38]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:49:38]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:49:38]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:49:38]:  [Timer]sleeping for 3 hours
+[28-01-2020-02:50:22]: [SERVER]server start
+[28-01-2020-02:50:22]: [SERVER]loading preferences from config file
+[28-01-2020-02:50:22]: [SERVER]preferences loaded successfully
+[28-01-2020-02:50:22]: [SERVER]reading profiles from file
+[28-01-2020-02:50:22]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[28-01-2020-02:50:22]: [SERVER]profiles loaded successfully
+[28-01-2020-02:50:22]:  [Timer]schedule file was read properly: monday 12:00
+[28-01-2020-02:50:22]:  [Timer]trying to parse schedule...
+[28-01-2020-02:50:23]:  [Timer]schedule parsed correctly
+[28-01-2020-02:50:23]:  [Timer]Timer initialized correctly
+[28-01-2020-02:50:24]: [DRIVER]logging in...
+[28-01-2020-02:50:28]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-02:50:29]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-02:50:30]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:50:32]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:50:32]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:50:32]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:50:32]:  [Timer]sleeping for 3 hours
+[28-01-2020-02:51:15]: [SERVER]server start
+[28-01-2020-02:51:15]: [SERVER]loading preferences from config file
+[28-01-2020-02:51:15]: [SERVER]preferences loaded successfully
+[28-01-2020-02:51:15]: [SERVER]reading profiles from file
+[28-01-2020-02:51:15]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[28-01-2020-02:51:15]: [SERVER]profiles loaded successfully
+[28-01-2020-02:51:15]:  [Timer]schedule file was read properly: monday 12:00
+[28-01-2020-02:51:15]:  [Timer]trying to parse schedule...
+[28-01-2020-02:51:16]:  [Timer]schedule parsed correctly
+[28-01-2020-02:51:16]:  [Timer]Timer initialized correctly
+[28-01-2020-02:51:17]: [DRIVER]logging in...
+[28-01-2020-02:51:21]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-02:51:22]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-02:51:23]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:51:25]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:51:25]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:51:25]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:51:25]:  [Timer]sleeping for 3 hours
+[28-01-2020-02:51:51]: [SERVER]server start
+[28-01-2020-02:51:51]: [SERVER]loading preferences from config file
+[28-01-2020-02:51:51]: [SERVER]preferences loaded successfully
+[28-01-2020-02:51:51]: [SERVER]reading profiles from file
+[28-01-2020-02:51:51]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[28-01-2020-02:51:51]: [SERVER]profiles loaded successfully
+[28-01-2020-02:51:51]:  [Timer]schedule file was read properly: monday 12:00
+[28-01-2020-02:51:51]:  [Timer]trying to parse schedule...
+[28-01-2020-02:51:51]:  [Timer]schedule parsed correctly
+[28-01-2020-02:51:51]:  [Timer]Timer initialized correctly
+[28-01-2020-02:51:52]: [DRIVER]logging in...
+[28-01-2020-02:51:56]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-02:51:57]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-02:51:58]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:52:00]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:52:00]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:52:01]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa']
+[28-01-2020-02:52:01]:  [Timer]sleeping for 3 hours
+[28-01-2020-02:52:36]: [SERVER]server start
+[28-01-2020-02:52:36]: [SERVER]loading preferences from config file
+[28-01-2020-02:52:36]: [SERVER]preferences loaded successfully
+[28-01-2020-02:52:36]: [SERVER]reading profiles from file
+[28-01-2020-02:52:36]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[28-01-2020-02:52:36]: [SERVER]profiles loaded successfully
+[28-01-2020-02:52:36]:  [Timer]schedule file was read properly: monday 12:00
+[28-01-2020-02:52:36]:  [Timer]trying to parse schedule...
+[28-01-2020-02:52:36]:  [Timer]schedule parsed correctly
+[28-01-2020-02:52:36]:  [Timer]Timer initialized correctly
+[28-01-2020-02:52:37]: [DRIVER]logging in...
+[28-01-2020-02:52:41]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-02:52:42]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-02:52:43]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:52:45]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:52:45]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:52:45]:  [Timer]sleeping for 3 hours
+[28-01-2020-02:53:34]: [SERVER]server start
+[28-01-2020-02:53:34]: [SERVER]loading preferences from config file
+[28-01-2020-02:53:34]: [SERVER]preferences loaded successfully
+[28-01-2020-02:53:34]: [SERVER]reading profiles from file
+[28-01-2020-02:53:34]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[28-01-2020-02:53:34]: [SERVER]profiles loaded successfully
+[28-01-2020-02:53:34]:  [Timer]schedule file was read properly: monday 12:00
+[28-01-2020-02:53:34]:  [Timer]trying to parse schedule...
+[28-01-2020-02:53:34]:  [Timer]schedule parsed correctly
+[28-01-2020-02:53:34]:  [Timer]Timer initialized correctly
+[28-01-2020-02:53:36]: [DRIVER]logging in...
+[28-01-2020-02:53:40]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-02:53:41]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-02:53:41]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:53:43]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:53:44]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:53:44]:  [Timer]sleeping for 3 hours
+[28-01-2020-02:54:27]: [SERVER]server start
+[28-01-2020-02:54:27]: [SERVER]loading preferences from config file
+[28-01-2020-02:54:27]: [SERVER]preferences loaded successfully
+[28-01-2020-02:54:27]: [SERVER]reading profiles from file
+[28-01-2020-02:54:27]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[28-01-2020-02:54:27]: [SERVER]profiles loaded successfully
+[28-01-2020-02:54:27]:  [Timer]schedule file was read properly: monday 12:00
+[28-01-2020-02:54:27]:  [Timer]trying to parse schedule...
+[28-01-2020-02:54:27]:  [Timer]schedule parsed correctly
+[28-01-2020-02:54:27]:  [Timer]Timer initialized correctly
+[28-01-2020-02:54:28]: [DRIVER]logging in...
+[28-01-2020-02:54:33]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-02:54:34]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-02:54:35]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:54:36]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:54:37]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:54:37]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:54:38]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:54:38]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:54:38]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:54:39]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:54:39]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:54:39]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:54:40]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:54:40]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:54:41]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:54:41]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:54:41]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:54:42]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:54:42]:  [Timer]sleeping for 3 hours
+[28-01-2020-02:55:53]: [SERVER]server start
+[28-01-2020-02:55:53]: [SERVER]loading preferences from config file
+[28-01-2020-02:55:53]: [SERVER]preferences loaded successfully
+[28-01-2020-02:55:53]: [SERVER]reading profiles from file
+[28-01-2020-02:55:53]: [SERVER]added https://www.instagram.com/edity_tacohemingway/ name: null
+[28-01-2020-02:55:53]: [SERVER]profiles loaded successfully
+[28-01-2020-02:55:53]:  [Timer]schedule file was read properly: monday 12:00
+[28-01-2020-02:55:53]:  [Timer]trying to parse schedule...
+[28-01-2020-02:55:54]:  [Timer]schedule parsed correctly
+[28-01-2020-02:55:54]:  [Timer]Timer initialized correctly
+[28-01-2020-02:55:55]: [DRIVER]logging in...
+[28-01-2020-02:55:59]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-02:56:00]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-02:56:01]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:03]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:03]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:03]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:04]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:04]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:04]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:05]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:05]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:06]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:06]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:06]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:07]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:07]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:08]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:08]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:08]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:09]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:09]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:09]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:10]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:10]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:10]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:11]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:11]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:12]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:12]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:12]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:13]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:13]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:14]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:14]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:14]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:15]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:15]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:15]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:16]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:16]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:17]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:17]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:17]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:18]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-02:56:18]:  [Timer]sleeping for 3 hours

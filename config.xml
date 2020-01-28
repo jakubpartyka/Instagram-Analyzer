@@ -3,8 +3,8 @@
 <properties>
 <comment>Configuration file</comment>
 <entry key="logToFile">true</entry>
-<entry key="login">login</entry>
-<entry key="password">password</entry>
+<entry key="login">insta.analyze.2020</entry>
+<entry key="password">Tusa3469755</entry>
 <entry key="responderIsOn">false</entry>
 <entry key="headless">false</entry>
 <entry key="logToConsole">true</entry>
