@@ -8,6 +8,7 @@ import java.util.List;
 public class Analyzer {
     private InstagramDriver driver;
     private List<Profile> profiles;
+    private File outputDir;
 
     public Analyzer(InstagramDriver driver, List<Profile> profiles) {
         this.driver = driver;
@@ -18,7 +19,7 @@ public class Analyzer {
     private void createOutputDirectories() {
         for (Profile profile : profiles) {
             String dirName = profile.getLink().substring(26);
-            File outputDir = new File("profiles/" + dirName + "/");
+            outputDir = new File("profiles/" + dirName + "/");
             if(!outputDir.exists()){
                 if(outputDir.mkdir())
                     log("created new output directory: " + outputDir.getAbsolutePath());
@@ -50,6 +51,7 @@ public class Analyzer {
         Report newReport = new Report(profile);
         try {
             newReport.generate(driver);
+            newReport.writeToFile(outputDir);
         } catch (InterruptedException e) {
             log("failed to generate report for profile " + profile);
             log(e.getMessage());

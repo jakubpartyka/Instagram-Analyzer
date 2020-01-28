@@ -3,6 +3,7 @@ import org.openqa.selenium.Point;
 
 import java.awt.*;
 import java.awt.event.InputEvent;
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
@@ -10,6 +11,7 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
+import java.util.concurrent.atomic.AtomicReference;
 
 class Report {
     List<Profile> followers = new ArrayList<>();
@@ -19,6 +21,7 @@ class Report {
     private Profile target;
     private String status;
     Date date;
+    private boolean completed = false;
 
     Report(Profile target) {
         this.target = target;
@@ -119,7 +122,7 @@ class Report {
                     }
                 }
             }
-            if(failCounter == 10) {
+            if(failCounter > 10) {
                 log("breaking loop because of fail count");
                 break;              //if 10 fails occurs there's a different problem and loop should be exited
             }
@@ -135,6 +138,7 @@ class Report {
         });
         log("listing followers complete. Number of followers listed: " + this.followers.size());
 
+        completed = true;
         setDateNow();   //set the date of report. This should be the last instruction in this method
         log("generating report completed");
     }
@@ -142,6 +146,23 @@ class Report {
     private void setDateNow() {
         this.date = Calendar.getInstance().getTime();
         log("date set to " + dateFormat.format(date));
+    }
+
+    boolean writeToFile(File directory){
+        if(!completed){
+            log("report for: " + target + " was not completed successfully");
+            return false;
+        }
+        File outputFile = new File(directory + "/" + dateFormat.format(date) + ".txt");
+        try {
+            FileWriter fileWriter = new FileWriter(outputFile);
+            fileWriter.write(this.toString());
+            return true;
+        } catch (IOException e) {
+            log(e.getMessage());
+            log("failed to write report");
+            return false;
+        }
     }
 
     private static void log(String message) {
@@ -165,5 +186,12 @@ class Report {
     private void setStatus(String status) {
         log("setting status to " + status);
         this.status = status;
+    }
+
+    @Override
+    public String toString() {
+        AtomicReference<String> result = new AtomicReference<>("");
+        followers.forEach(follower -> result.updateAndGet(v -> v + follower + "\n"));
+        return result.get();
     }
 }
