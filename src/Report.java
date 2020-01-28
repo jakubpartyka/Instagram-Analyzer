@@ -17,7 +17,7 @@ import java.util.concurrent.atomic.AtomicReference;
 class Report {
     private List<Profile> followers = new ArrayList<>();
 
-    private SimpleDateFormat dateFormat = new SimpleDateFormat("DD.MM.YYYY HH:mm");
+    private SimpleDateFormat dateFormat = new SimpleDateFormat("YYYY.MM.DD HH:mm");
     private int mouseWheelValue = -30;
     private Profile target;
     private String status;
@@ -135,10 +135,8 @@ class Report {
             String link = profile.getAttribute("href");
             //name location could be handled here
             this.followers.add(new Profile(link));      //adding to report list
-            if(Main.isLogToConsole())
-                System.out.println("added: " + link);
         });
-        log("listing followers complete. Number of followers listed: " + this.followers.size());
+        log("listing followers complete. Added " + this.followers.size() + " profiles");
 
         completed = true;
         setDateNow();   //set the date of report. This should be the last instruction in this method

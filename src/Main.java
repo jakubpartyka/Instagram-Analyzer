@@ -47,14 +47,21 @@ public class Main {
 
         Timer timer = new Timer(scheduleFile);
         InstagramDriver driver;
+        //main loop;
         while (true){
             try {
+                //test
                 driver = new InstagramDriver();
                 Analyzer analyzer = new Analyzer(driver, profiles);          //every next iteration profiles list will be updated
                 analyzer.analyzeAll();
+                //test end
+
+                driver.close();
 
                 timer.waitForSchedule();                                    //sleep until next report
 
+                driver = new InstagramDriver();
+                //Analyzer analyzer = new Analyzer(driver, profiles);          //every next iteration profiles list will be updated
                 analyzer.analyzeAll();
 
                 driver.close();

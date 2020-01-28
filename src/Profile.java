@@ -68,6 +68,7 @@ public class Profile {
 
             File currentReportFile = new File(results.get(0));
             BufferedReader reader = new BufferedReader(new FileReader(currentReportFile));
+            Main.log("loading last saved: " + currentReportFile.getAbsolutePath());
             String line = reader.readLine();
             while (!line.equals("###")) {
                 if (line.contains("#")) {
@@ -96,10 +97,10 @@ public class Profile {
                     }
                     Profile prof = new Profile(line);
                     currentReport.getFollowers().add(prof);
-                    Main.log("added to report: " + prof);
                 }
                 line = reader.readLine();
             }
+            Main.log("added " + currentReport.getFollowers().size() + " profiles to report");
 
         } catch (IOException e) {
             Main.log(e.getMessage());

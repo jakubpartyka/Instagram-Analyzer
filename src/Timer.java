@@ -98,9 +98,8 @@ class Timer {
             dayString = daysOfWeek[currentDay];
         }
 
-        //on the post day
+        //on the report day
 
-        //calculating time between now and closes post time
         int diff;               //sleep time in seconds
 
         //setting scheduled time for sleep calculation
@@ -116,7 +115,7 @@ class Timer {
         int scheduledTimeInMillis = scheduledHour * 60 + scheduledMinute;
         diff = scheduledTimeInMillis - thisHourInMillis;
 
-        log("sleeping thread until next post time");
+        log("sleeping thread until next report");
 
         //sleeping until next post time
         try {
@@ -137,7 +136,6 @@ class Timer {
         }
     }
 
-
     private static void log(String message) {
         //this function logs all actions performed by the program.
         if(Main.isLogToFile()){
@@ -155,4 +153,6 @@ class Timer {
         if (Main.isLogToConsole())
             System.out.println(message);
     }
+
+    //todo better fail counter ! (expected result)
 }

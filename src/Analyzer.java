@@ -1,7 +1,10 @@
+import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
+
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
 
@@ -77,18 +80,18 @@ public class Analyzer {
             }
             else {
                 //analyze current report compared to previous one
-                List<Profile> currentFollowers = profile.getCurrentReport().getFollowers();
-                List<Profile> previousFollowers = profile.getPreviousReport().getFollowers();
+                List<Profile> currentFollowers = new ArrayList<>(profile.getCurrentReport().getFollowers());
+                List<Profile> previousFollowers = new ArrayList<>(profile.getPreviousReport().getFollowers());
                 log("both followers list loaded, analyzing...");
 
-                List<Profile> newFollowers = currentFollowers;
+                List<Profile> newFollowers = new ArrayList<>(currentFollowers);
                 newFollowers.removeAll(previousFollowers);
 
                 List<Profile> unFollowed = previousFollowers;
                 unFollowed.removeAll(currentFollowers);
 
                 if(newFollowers.size() != 0){
-                    StringBuilder result = new StringBuilder("new followers:");
+                    StringBuilder result = new StringBuilder("new followers:\n");
                     for (Profile newFollower : newFollowers) {
                         result.append(newFollower.toString()).append("\n");
                     }
@@ -122,6 +125,4 @@ public class Analyzer {
             analyze(profile);
         }
     }
-
-    //todo important - load reports from directories
 }
