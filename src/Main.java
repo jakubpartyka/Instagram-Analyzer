@@ -1,3 +1,5 @@
+import org.omg.PortableServer.THREAD_POLICY_ID;
+
 import java.io.*;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -46,19 +48,25 @@ public class Main {
         Timer timer = new Timer(scheduleFile);
         InstagramDriver driver;
         while (true){
-            System.exit(1); //todo wyjebac
-            driver = new InstagramDriver();
-            Analyzer analyzer = new Analyzer(driver,profiles);          //every next iteration profiles list will be updated
-            analyzer.analyzeAll();
+            try {
+                driver = new InstagramDriver();
+                Analyzer analyzer = new Analyzer(driver, profiles);          //every next iteration profiles list will be updated
+                analyzer.analyzeAll();
 
-            timer.waitForSchedule();                                    //sleep until next report
+                timer.waitForSchedule();                                    //sleep until next report
 
-            analyzer.analyzeAll();
+                analyzer.analyzeAll();
 
-            driver.close();
+                driver.close();
+            }
+            catch (Exception e){
+                log("FATAL ERROR");
+                log(e.getMessage());
+                log("FATAL ERROR");
+                break;
+            }
         }
-
-        //log("server shutdown");   //todo uncomment later
+        log("server shutdown");
     }
 
     private static boolean loadProfiles() {

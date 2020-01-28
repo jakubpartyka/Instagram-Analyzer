@@ -23,18 +23,24 @@ public class InstagramDriver implements WebDriver, JavascriptExecutor {
     }
 
     void logIn() throws InterruptedException {
-        log("logging in...");
-        driver.get("https://www.instagram.com/accounts/login/");
-        Thread.sleep(300);
-        WebElement username = ((ChromeDriver)driver).findElementByXPath("//*[@name='username']");
-        WebElement password = ((ChromeDriver)driver).findElementByXPath("//*[@name='password']");
-        WebElement submit = ((ChromeDriver)driver).findElementByXPath("//*[@type='submit']");
-        username.sendKeys(Main.getLogin());
-        password.sendKeys(Main.getPassword());
-        Thread.sleep(100);
-        submit.click();
-        Thread.sleep(2000);             //wait for login
-        denyNotifications();
+        try {
+            log("logging in...");
+            driver.get("https://www.instagram.com/accounts/login/");
+            Thread.sleep(300);
+            WebElement username = ((ChromeDriver) driver).findElementByXPath("//*[@name='username']");
+            WebElement password = ((ChromeDriver) driver).findElementByXPath("//*[@name='password']");
+            WebElement submit = ((ChromeDriver) driver).findElementByXPath("//*[@type='submit']");
+            username.sendKeys(Main.getLogin());
+            password.sendKeys(Main.getPassword());
+            Thread.sleep(100);
+            submit.click();
+            Thread.sleep(2000);             //wait for login
+            denyNotifications();
+        }
+        catch (NoSuchElementException e){
+            log(e.getMessage());
+            log("could not log in - session may already be authorized");
+        }
     }
 
     private void denyNotifications() {
