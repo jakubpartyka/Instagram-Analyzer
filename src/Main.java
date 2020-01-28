@@ -1,5 +1,3 @@
-import com.sun.org.apache.xpath.internal.operations.Bool;
-
 import java.io.*;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -46,10 +44,10 @@ public class Main {
         }
 
         Timer timer = new Timer(scheduleFile);
-        InstagramDriver driver = new InstagramDriver();
-
+        InstagramDriver driver;
         while (true){
-            //todo do not open the driver at the beginning but on every iteration
+            System.exit(1); //todo wyjebac
+            driver = new InstagramDriver();
             Analyzer analyzer = new Analyzer(driver,profiles);          //every next iteration profiles list will be updated
             analyzer.analyzeAll();
 
@@ -57,7 +55,7 @@ public class Main {
 
             analyzer.analyzeAll();
 
-
+            driver.close();
         }
 
         //log("server shutdown");   //todo uncomment later
@@ -88,6 +86,7 @@ public class Main {
                 }
                 line = reader.readLine();
             }
+            profiles.forEach(Profile::loadReports);
 
             if(profiles.size() == 0){
                 log("no profiles were loaded from file");
@@ -154,7 +153,7 @@ public class Main {
         catch(Exception ignored) {}
     }
 
-    private static void log(String message) {
+    static void log(String message) {
         //this function logs all actions performed by the program.
         if (logToConsole)
             System.out.println(message);

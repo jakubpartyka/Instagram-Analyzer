@@ -159,6 +159,7 @@ class Report {
         try {
             FileWriter fileWriter = new FileWriter(outputFile);
             fileWriter.write(this.toString());
+            fileWriter.write("###");            //end of follower list
             fileWriter.close();
             return true;
         } catch (IOException e) {
