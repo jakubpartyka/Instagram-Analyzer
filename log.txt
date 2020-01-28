@@ -3839,3 +3839,1928 @@ Session ID: 10c8fd45a50d22a91442e75668137143
 *** Element info: {Using=xpath, value=//*[@name='username']}
 [28-01-2020-06:32:15]: [SERVER]FATAL ERROR
 [28-01-2020-06:32:15]: [SERVER]server shutdown
+[28-01-2020-06:34:41]: [SERVER]server start
+[28-01-2020-06:34:41]: [SERVER]loading preferences from config file
+[28-01-2020-06:34:41]: [SERVER]preferences loaded successfully
+[28-01-2020-06:34:41]: [SERVER]reading profiles from file
+[28-01-2020-06:34:41]: [SERVER]added https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/werni100000o/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/czaplinka/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/cateroms/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/natan_golebiewski/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/michalina_ci/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/xmint_water/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/tymciu_szymciu/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/zuziaa499/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/joahana_jo/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/madzia.osk/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_suzie.escobar_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/kakussssss/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/wiktoria9760/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/multitapety/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/lyrivm_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/hania_blach/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/grucus_prywatnie/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/madziula_kowalczyk/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/anetyzm_art_gwozdz/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_rxexd.priv/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/grupa_fanow_rapu_z_pl/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/gaba.melon/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/starenowememy/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/memotarka/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/discoboru_official/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/bedoesfp_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/mazharali940/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/fansonafide_taco_and_quebo/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/ziolownicy_malika/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/michaelavixq/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/bibulka88/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/marta_piwonska_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/tacohemingway_fans515/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/xteresa_02/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/weronikagurynow/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_xsandraaax/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/franek_jedziniak/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/wielmozna_kasia/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/haniar_pv/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_rxexd/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/hubert.szczepaniak.969/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/hombre__triste/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/janekleliwa/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/__w__i__k__i__/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/iwaszkiewicz8/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/way_x_siadlo/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/lipa.fnpg/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/weronikafabisiak/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/sunsetlocker/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/janlenar/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/dominika_witczakk/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/kasika8989/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/kartky_puste/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/d.kiec/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/quaz1_com/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/dobre_leczo/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/w_iki_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_mery_u_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/majaswiglo/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/__quazi_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/kc.tuskoo_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/wiktoria2665/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/memy_z_intermetu/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/zuza_600_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/2suchan2/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/annakrawiec/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/jwgroup_centrumodszkodowan/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/__maja_pv_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/noraahmed9085/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_hania.q/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/oli_is_a_peach/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/mana_lania_ania/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/quebona.krzysztof/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/alajedrusik/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/wiktorkrasnodebski/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/kronika_baleckiej/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/marysia_marchewka/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/dobra_dusza/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/mokrykosk69/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/only.szczesniak_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/anthonyy1899/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/bokdanhaidari/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/dajwode/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/team_kartky/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/engineyabike/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/n.atka.xd/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/titek_memes/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/nata.lia9918/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/queba_hombrefp/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/dzikirap/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/kisiel_sa/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/olamlicka/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_priv_jululu_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/polski_rap_fp/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/asiiaa2019/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/pauliszek123/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/kubiszzzzz/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/idzdalejpl/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_amelka_slazykkk/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/taco.nafide_fans/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/legion.app/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/maja.qwp/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/koziarafp/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/zenitalny/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/dagmara_x_x_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/olawetoszka/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/innaaosoba56/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/z4l3sky/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/a.jagielskaa/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/pruszkowskaa/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/tac0hem/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/ma.karoll/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/medyeslemmouhamed/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/lonaxik/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/felix_i_karmadla_kotana_zawsze/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/nataliaduda83/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_polskie_rap_plyty_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/anitaparlicka/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/horses_is_my_life_j.z/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/anika.1996__/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/quefestival_fanpage/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/quebo.natalia/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/thisbedoes/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/pewca_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/wiktoria_lorek/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/xxwerusx/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/gabiszon.prywatnie/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/paulinalysio/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/zovamp/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/kina.idk/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/roch_lys/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/anotherjokemurray/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/gorka4175/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/a_srodecka/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/letnie_warszawskie_plasy/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/lenakornacka19/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/wiktoria_trzeba/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/monikakwiecien.16/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/v_i.c.q.y/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/klaudia_rombel/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/edity_polskirap_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/x_zofiy_x/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/loszki_krzycha/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/rogalska.karolina/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/taco.hemingway.fp/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/pat.mach93/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/taco_hem_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/fevigiusz11/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/oliwia_jaskowska/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/nie_wnikaj_na_dobre/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_szpakusimba_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/rap_x_fanpage/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/zabrockazuzanna/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/igalis.fanpage/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/rebeccawusu50/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/memownia_darmowe_memy/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/zofii_a/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/alusieq_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/kuba_peksa/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/memowy_man/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/kanarku13x/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/shicaush/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/aga_agnieszka_agusia/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/ajmjakub/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/matthew_krzywin/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/fani.roxy.laury/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/krewetka_16/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/zajebisciex/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/maciek.nieumiec/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/malysz60/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/q_u_e_b_o_n_a_f_i_d_e/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/hotelmarmur/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/szymonkipka/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/d_wera_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/__karola_13__/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/kordi251/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/goralek_16/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/souppub/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/x.xhania_pv/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/matilsw/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/qubik115/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/d_a_m_a_n_e_k/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/fifi_fanpage_900729/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/hajpman_fans/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/tomaszkominiak/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/vogelpawel/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/zuzannazabrocka/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/martyna_mkplay/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/ucierany_kremik/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/tacohemingway.fans/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/w.b.kostecka/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/pikana__/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/princedon935/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/darknes766/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/taco_hemingwayy/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/kamiltoczekxd/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/xfactorpromotion/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/najlepsze_rap_cytaty/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/rzeczy_nieuchwytne/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/klaudia_2115_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/fani_taconafide/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/vegeta_2020/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/n.inglot/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_fanpageigora__/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/horemski/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/kamilabartosik_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_marceline_2115/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/daniel__popielarczyk/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/szlugi_i_egzotyka/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/wiqtoriaax/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/taco__hemingway/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/zawieszo0ne/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/xtacohemingway/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/xaq_4224/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/rapfans_pl/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/xxpapaczo_21savage/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/kakla_a/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/wajgga/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/klaudia_smielak/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_____ftw______/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/mazurenko_oliwier/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/erico_97_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/4_po_dmt/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/sory.pomylka/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/iiiiihdhdjdk/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/e_x_i_m_i_a/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/nowa_rapgra/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/kamil_jaszczurowski/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_wiki_wiczka_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/janeczq28/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/ejtynoniewiem/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/taki_ziomus/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/wiwibuczynska/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/taco_fp_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/twojababciamilosci/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/asiaaaaszczecinska/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/rjulx/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/20_stalkerka_06/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_tacohemingway/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/r.rozalka/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/micha_l_zaborowski/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/maciek_malek_69/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/http.hania_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/asikxzhz/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/xjvlszesx/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/kubus_glebocki/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/1408_w/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/quebo._.fans/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/___idzsieumyjlam0____/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/elixir_by_domwodki/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/life_is_strange_here/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/talarekola/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/damianwiecek65/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/promo_insta_24/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/blooocha/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_julululululululu_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/annowak27/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/mchalkonkurs/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/sagittarius_440/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_ktoskogonieobchodzisz_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/deszcznabetonie.taco/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/fanirapu.of/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_karolina_kolasa_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/bedi_fani/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/withered7flower/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/wieckosia_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/rapfans_official2/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/walaszekasia/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/wixa_2115.synku/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/z.bartczak05/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/wercik183/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/quebo.hemingway/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/rapfans_official/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_milenajestem_ok/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/zuziaa_4/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/in322ka/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/iqual_offset/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/quebonafidex/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/carola_131/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/choinska.a/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/carolina.fotograf/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/czajkowsk.aa/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/i_novvacka/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_werka_x_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/witold.witkowski.142/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_twojaherbatka_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/quebo.nafide/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/michal.kuc.7/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/f_i_f_i_19/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/cytaty_of_hemingway/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/que_bonafide.fp/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/tacohemingway__/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/nie_znany_717/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/dzemik_wariat/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/xskovvronx/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/xjolkex/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_wiktoria.187/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/stkam99/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/green_johny_182/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/adrian_piasta/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/this_is_polish_rap/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/maciek.kubina/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/przemektocki/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_m0zdzynska_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/impuls_nerwowy/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/mikolaj.woznica00/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/tornek_olejnik/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/hubertq_09/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/taco_que/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/sylwia.jr/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/wilsonlisalisa19/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/filip_szczesniak_fans/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/memki_memeszki_memes/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/filipo.szczesniako/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/kraashai/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/riyal_ansari_007/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_ol88a_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/hubercik_m/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_s_amu_x/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/fiksu_synku/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/little_russian1/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/julcia__jdk/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/kacperq69xd_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/2016szymon/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/asiax123/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/humorek.pl/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/olgusia.x/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_quedits_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/parzelskax/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/twoj_ziomekkkk/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/zofiakluczyk/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/nie_aktywnedx/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/my_my_ka/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/stunna60s/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/monixwilk/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/szkatula_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/quebo_i_taco/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/jank_papryk/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/k.krezolek/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/hemingwayetacosa/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/hemingway.fp/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/mati23kluba/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/sara.warpas/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/lemon_pl_2009/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/bairagi4295/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/gulbshahkhan/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/yasinjhlandri/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/latka_s/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/oski_str33t_workout/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/rapix_pl/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/wattpad.pr/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/e.madrawska/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/mhmwdhmdfhym/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/likeasweeydream/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/bernadinebamouni/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/taco.hemingway.fanpage/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_k_domagala_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/arkadiuszpiorkowski03/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/famemmainfo/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/wiktoria_klodzinska______96/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/klaudiapiotrak/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/nulantafrackiewicz/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_123.lol.321_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/teraz_ja_nie_paniemaju/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/ibrahim.143.delen07/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/memymemy168/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_aniae/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/bedoesgangg__/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/00jack.hemi00/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/peaches.and.apples/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/postirol_zyciem/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/everybody_diesintheirdreams/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/natakxp/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/alexander_krokos/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/zniechecenie__/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/fajne_klapki/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/michalstaszuk/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/stanislawsky_yt/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/natalia_piecha/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/szczesniaaak._/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/cecelinka19/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/lufapytanie/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/eta_anton/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/the.gloved.one.mj/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/krystynawolnik/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/taco_hemingwayfp2/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/natalia.vxvx/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/k_grabowskii/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/darix_a/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/wolnikk.pv/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/___.ksiezniczka.___/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/fast_rap_news/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/zamkniete_konto_333/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/anikusiaa_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/szymon0ah/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/tyska.2115/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/rwhn244/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_michal_wagner_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/hanianepora/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/fortnite_2k19xddd/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/wojtya777/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/adriana_xd___/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/r___7891/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/cytaty_zeamsone_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/shubhamraanaa/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/dzwonie_do_bociana_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/szczesniak_filip/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/kald.mnab/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/szczesniak_fp/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/stasiaksamuel2006/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/dx_borucki/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/taco_hemingwayfp/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/wudpeka_w1/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/lenavxv_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_.my._.outline._/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/klaudiaskorupska8/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_nilsaa__/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/magdarozowa/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_ania.synku_/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/upartosc/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/sanjeevpatel95/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/_szczesniakk/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/amy.lestrange/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/taconafide_fans_pl/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/michal80741/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/wolniknatalia/
+[28-01-2020-06:34:41]: [SERVER]added to report: https://www.instagram.com/paulinawolnik_/
+[28-01-2020-06:34:41]: [SERVER]profiles loaded successfully
+[28-01-2020-06:34:41]:  [Timer]schedule file was read properly: Tuesday 06:32
+[28-01-2020-06:34:41]:  [Timer]trying to parse schedule...
+[28-01-2020-06:34:41]:  [Timer]schedule parsed correctly
+[28-01-2020-06:34:41]:  [Timer]Timer initialized correctly
+[28-01-2020-06:34:43]: [DRIVER]logging in...
+[28-01-2020-06:34:47]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-06:34:48]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-06:34:49]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:34:51]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:34:51]: [Report]loading profiles
+[28-01-2020-06:34:52]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:34:52]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:34:53]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:34:53]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:34:53]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:34:54]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:34:54]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:34:54]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:34:55]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:34:55]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:34:56]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:34:56]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:34:56]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:34:57]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:34:57]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:34:57]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:34:58]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:34:58]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:34:59]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:34:59]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:34:59]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:35:00]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:35:00]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:35:01]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:35:01]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:35:01]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:35:02]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:35:02]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:35:03]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:35:03]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:35:03]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:35:04]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:35:04]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:35:04]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:35:05]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:35:05]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:35:06]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:35:06]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:35:06]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:35:07]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:35:07]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:35:07]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:35:08]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:35:08]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:35:08]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:35:08]: [Report]breaking loop because of fail count
+[28-01-2020-06:35:08]: [Report]loading profiles finished. Loaded profiles: 427
+[28-01-2020-06:35:12]: [Report]listing followers complete. Number of followers listed: 427
+[28-01-2020-06:35:12]: [Report]date set to 28.01.2020 06:35
+[28-01-2020-06:35:12]: [Report]generating report completed
+[28-01-2020-06:35:12]: [Analyze]report saved to: /Users/admin/IdeaProjects/Instagram-Analyzer/profiles/edity_tacohemingway/28.01.2020 06:35.txt
+[28-01-2020-06:35:12]: [Analyze]both followers list loaded, analyzing...
+[28-01-2020-06:35:12]: [Analyze]people who un-followed you:https://www.instagram.com/werni100000o/https://www.instagram.com/czaplinka/https://www.instagram.com/cateroms/https://www.instagram.com/natan_golebiewski/https://www.instagram.com/michalina_ci/https://www.instagram.com/xmint_water/https://www.instagram.com/tymciu_szymciu/https://www.instagram.com/zuziaa499/https://www.instagram.com/joahana_jo/https://www.instagram.com/madzia.osk/https://www.instagram.com/_suzie.escobar_/https://www.instagram.com/kakussssss/https://www.instagram.com/wiktoria9760/https://www.instagram.com/multitapety/https://www.instagram.com/lyrivm_/https://www.instagram.com/hania_blach/https://www.instagram.com/grucus_prywatnie/https://www.instagram.com/madziula_kowalczyk/https://www.instagram.com/anetyzm_art_gwozdz/https://www.instagram.com/_rxexd.priv/https://www.instagram.com/grupa_fanow_rapu_z_pl/https://www.instagram.com/gaba.melon/https://www.instagram.com/starenowememy/https://www.instagram.com/memotarka/https://www.instagram.com/discoboru_official/https://www.instagram.com/bedoesfp_/https://www.instagram.com/mazharali940/https://www.instagram.com/fansonafide_taco_and_quebo/https://www.instagram.com/ziolownicy_malika/https://www.instagram.com/michaelavixq/https://www.instagram.com/bibulka88/https://www.instagram.com/marta_piwonska_/https://www.instagram.com/tacohemingway_fans515/https://www.instagram.com/xteresa_02/https://www.instagram.com/weronikagurynow/https://www.instagram.com/_xsandraaax/https://www.instagram.com/franek_jedziniak/https://www.instagram.com/wielmozna_kasia/https://www.instagram.com/haniar_pv/https://www.instagram.com/_rxexd/https://www.instagram.com/hubert.szczepaniak.969/https://www.instagram.com/hombre__triste/https://www.instagram.com/janekleliwa/https://www.instagram.com/__w__i__k__i__/https://www.instagram.com/iwaszkiewicz8/https://www.instagram.com/way_x_siadlo/https://www.instagram.com/lipa.fnpg/https://www.instagram.com/weronikafabisiak/https://www.instagram.com/sunsetlocker/https://www.instagram.com/janlenar/https://www.instagram.com/dominika_witczakk/https://www.instagram.com/kasika8989/https://www.instagram.com/kartky_puste/https://www.instagram.com/d.kiec/https://www.instagram.com/quaz1_com/https://www.instagram.com/dobre_leczo/https://www.instagram.com/w_iki_/https://www.instagram.com/_mery_u_/https://www.instagram.com/majaswiglo/https://www.instagram.com/__quazi_/https://www.instagram.com/kc.tuskoo_/https://www.instagram.com/wiktoria2665/https://www.instagram.com/memy_z_intermetu/https://www.instagram.com/zuza_600_/https://www.instagram.com/2suchan2/https://www.instagram.com/annakrawiec/https://www.instagram.com/jwgroup_centrumodszkodowan/https://www.instagram.com/__maja_pv_/https://www.instagram.com/noraahmed9085/https://www.instagram.com/_hania.q/https://www.instagram.com/oli_is_a_peach/https://www.instagram.com/mana_lania_ania/https://www.instagram.com/quebona.krzysztof/https://www.instagram.com/alajedrusik/https://www.instagram.com/wiktorkrasnodebski/https://www.instagram.com/kronika_baleckiej/https://www.instagram.com/marysia_marchewka/https://www.instagram.com/dobra_dusza/https://www.instagram.com/mokrykosk69/https://www.instagram.com/only.szczesniak_/https://www.instagram.com/anthonyy1899/https://www.instagram.com/bokdanhaidari/https://www.instagram.com/dajwode/https://www.instagram.com/team_kartky/https://www.instagram.com/engineyabike/https://www.instagram.com/n.atka.xd/https://www.instagram.com/titek_memes/https://www.instagram.com/nata.lia9918/https://www.instagram.com/queba_hombrefp/https://www.instagram.com/dzikirap/https://www.instagram.com/kisiel_sa/https://www.instagram.com/olamlicka/https://www.instagram.com/_priv_jululu_/https://www.instagram.com/polski_rap_fp/https://www.instagram.com/asiiaa2019/https://www.instagram.com/pauliszek123/https://www.instagram.com/kubiszzzzz/https://www.instagram.com/idzdalejpl/https://www.instagram.com/_amelka_slazykkk/https://www.instagram.com/taco.nafide_fans/https://www.instagram.com/legion.app/https://www.instagram.com/maja.qwp/https://www.instagram.com/koziarafp/https://www.instagram.com/zenitalny/https://www.instagram.com/dagmara_x_x_/https://www.instagram.com/olawetoszka/https://www.instagram.com/innaaosoba56/https://www.instagram.com/z4l3sky/https://www.instagram.com/a.jagielskaa/https://www.instagram.com/pruszkowskaa/https://www.instagram.com/tac0hem/https://www.instagram.com/ma.karoll/https://www.instagram.com/medyeslemmouhamed/https://www.instagram.com/lonaxik/https://www.instagram.com/felix_i_karmadla_kotana_zawsze/https://www.instagram.com/nataliaduda83/https://www.instagram.com/_polskie_rap_plyty_/https://www.instagram.com/anitaparlicka/https://www.instagram.com/horses_is_my_life_j.z/https://www.instagram.com/anika.1996__/https://www.instagram.com/quefestival_fanpage/https://www.instagram.com/quebo.natalia/https://www.instagram.com/thisbedoes/https://www.instagram.com/pewca_/https://www.instagram.com/wiktoria_lorek/https://www.instagram.com/xxwerusx/https://www.instagram.com/gabiszon.prywatnie/https://www.instagram.com/paulinalysio/https://www.instagram.com/zovamp/https://www.instagram.com/kina.idk/https://www.instagram.com/roch_lys/https://www.instagram.com/anotherjokemurray/https://www.instagram.com/gorka4175/https://www.instagram.com/a_srodecka/https://www.instagram.com/letnie_warszawskie_plasy/https://www.instagram.com/lenakornacka19/https://www.instagram.com/wiktoria_trzeba/https://www.instagram.com/monikakwiecien.16/https://www.instagram.com/v_i.c.q.y/https://www.instagram.com/klaudia_rombel/https://www.instagram.com/edity_polskirap_/https://www.instagram.com/x_zofiy_x/https://www.instagram.com/loszki_krzycha/https://www.instagram.com/rogalska.karolina/https://www.instagram.com/taco.hemingway.fp/https://www.instagram.com/pat.mach93/https://www.instagram.com/taco_hem_/https://www.instagram.com/fevigiusz11/https://www.instagram.com/oliwia_jaskowska/https://www.instagram.com/nie_wnikaj_na_dobre/https://www.instagram.com/_szpakusimba_/https://www.instagram.com/rap_x_fanpage/https://www.instagram.com/zabrockazuzanna/https://www.instagram.com/igalis.fanpage/https://www.instagram.com/rebeccawusu50/https://www.instagram.com/memownia_darmowe_memy/https://www.instagram.com/zofii_a/https://www.instagram.com/alusieq_/https://www.instagram.com/kuba_peksa/https://www.instagram.com/memowy_man/https://www.instagram.com/kanarku13x/https://www.instagram.com/shicaush/https://www.instagram.com/aga_agnieszka_agusia/https://www.instagram.com/ajmjakub/https://www.instagram.com/matthew_krzywin/https://www.instagram.com/fani.roxy.laury/https://www.instagram.com/krewetka_16/https://www.instagram.com/zajebisciex/https://www.instagram.com/maciek.nieumiec/https://www.instagram.com/malysz60/https://www.instagram.com/q_u_e_b_o_n_a_f_i_d_e/https://www.instagram.com/hotelmarmur/https://www.instagram.com/szymonkipka/https://www.instagram.com/d_wera_/https://www.instagram.com/__karola_13__/https://www.instagram.com/kordi251/https://www.instagram.com/goralek_16/https://www.instagram.com/souppub/https://www.instagram.com/x.xhania_pv/https://www.instagram.com/matilsw/https://www.instagram.com/qubik115/https://www.instagram.com/d_a_m_a_n_e_k/https://www.instagram.com/fifi_fanpage_900729/https://www.instagram.com/hajpman_fans/https://www.instagram.com/tomaszkominiak/https://www.instagram.com/vogelpawel/https://www.instagram.com/zuzannazabrocka/https://www.instagram.com/martyna_mkplay/https://www.instagram.com/ucierany_kremik/https://www.instagram.com/tacohemingway.fans/https://www.instagram.com/w.b.kostecka/https://www.instagram.com/pikana__/https://www.instagram.com/princedon935/https://www.instagram.com/darknes766/https://www.instagram.com/taco_hemingwayy/https://www.instagram.com/kamiltoczekxd/https://www.instagram.com/xfactorpromotion/https://www.instagram.com/najlepsze_rap_cytaty/https://www.instagram.com/rzeczy_nieuchwytne/https://www.instagram.com/klaudia_2115_/https://www.instagram.com/fani_taconafide/https://www.instagram.com/vegeta_2020/https://www.instagram.com/n.inglot/https://www.instagram.com/_fanpageigora__/https://www.instagram.com/horemski/https://www.instagram.com/kamilabartosik_/https://www.instagram.com/_marceline_2115/https://www.instagram.com/daniel__popielarczyk/https://www.instagram.com/szlugi_i_egzotyka/https://www.instagram.com/wiqtoriaax/https://www.instagram.com/taco__hemingway/https://www.instagram.com/zawieszo0ne/https://www.instagram.com/xtacohemingway/https://www.instagram.com/xaq_4224/https://www.instagram.com/rapfans_pl/https://www.instagram.com/xxpapaczo_21savage/https://www.instagram.com/kakla_a/https://www.instagram.com/wajgga/https://www.instagram.com/klaudia_smielak/https://www.instagram.com/_____ftw______/https://www.instagram.com/mazurenko_oliwier/https://www.instagram.com/erico_97_/https://www.instagram.com/4_po_dmt/https://www.instagram.com/sory.pomylka/https://www.instagram.com/iiiiihdhdjdk/https://www.instagram.com/e_x_i_m_i_a/https://www.instagram.com/nowa_rapgra/https://www.instagram.com/kamil_jaszczurowski/https://www.instagram.com/_wiki_wiczka_/https://www.instagram.com/janeczq28/https://www.instagram.com/ejtynoniewiem/https://www.instagram.com/taki_ziomus/https://www.instagram.com/wiwibuczynska/https://www.instagram.com/taco_fp_/https://www.instagram.com/twojababciamilosci/https://www.instagram.com/asiaaaaszczecinska/https://www.instagram.com/rjulx/https://www.instagram.com/20_stalkerka_06/https://www.instagram.com/_tacohemingway/https://www.instagram.com/r.rozalka/https://www.instagram.com/micha_l_zaborowski/https://www.instagram.com/maciek_malek_69/https://www.instagram.com/http.hania_/https://www.instagram.com/asikxzhz/https://www.instagram.com/xjvlszesx/https://www.instagram.com/kubus_glebocki/https://www.instagram.com/1408_w/https://www.instagram.com/quebo._.fans/https://www.instagram.com/___idzsieumyjlam0____/https://www.instagram.com/elixir_by_domwodki/https://www.instagram.com/life_is_strange_here/https://www.instagram.com/talarekola/https://www.instagram.com/damianwiecek65/https://www.instagram.com/promo_insta_24/https://www.instagram.com/blooocha/https://www.instagram.com/_julululululululu_/https://www.instagram.com/annowak27/https://www.instagram.com/mchalkonkurs/https://www.instagram.com/sagittarius_440/https://www.instagram.com/_ktoskogonieobchodzisz_/https://www.instagram.com/deszcznabetonie.taco/https://www.instagram.com/fanirapu.of/https://www.instagram.com/_karolina_kolasa_/https://www.instagram.com/bedi_fani/https://www.instagram.com/withered7flower/https://www.instagram.com/wieckosia_/https://www.instagram.com/rapfans_official2/https://www.instagram.com/walaszekasia/https://www.instagram.com/wixa_2115.synku/https://www.instagram.com/z.bartczak05/https://www.instagram.com/wercik183/https://www.instagram.com/quebo.hemingway/https://www.instagram.com/rapfans_official/https://www.instagram.com/_milenajestem_ok/https://www.instagram.com/zuziaa_4/https://www.instagram.com/in322ka/https://www.instagram.com/iqual_offset/https://www.instagram.com/quebonafidex/https://www.instagram.com/carola_131/https://www.instagram.com/choinska.a/https://www.instagram.com/carolina.fotograf/https://www.instagram.com/czajkowsk.aa/https://www.instagram.com/i_novvacka/https://www.instagram.com/_werka_x_/https://www.instagram.com/witold.witkowski.142/https://www.instagram.com/_twojaherbatka_/https://www.instagram.com/quebo.nafide/https://www.instagram.com/michal.kuc.7/https://www.instagram.com/f_i_f_i_19/https://www.instagram.com/cytaty_of_hemingway/https://www.instagram.com/que_bonafide.fp/https://www.instagram.com/tacohemingway__/https://www.instagram.com/nie_znany_717/https://www.instagram.com/dzemik_wariat/https://www.instagram.com/xskovvronx/https://www.instagram.com/xjolkex/https://www.instagram.com/_wiktoria.187/https://www.instagram.com/stkam99/https://www.instagram.com/green_johny_182/https://www.instagram.com/adrian_piasta/https://www.instagram.com/this_is_polish_rap/https://www.instagram.com/maciek.kubina/https://www.instagram.com/przemektocki/https://www.instagram.com/_m0zdzynska_/https://www.instagram.com/impuls_nerwowy/https://www.instagram.com/mikolaj.woznica00/https://www.instagram.com/tornek_olejnik/https://www.instagram.com/hubertq_09/https://www.instagram.com/taco_que/https://www.instagram.com/sylwia.jr/https://www.instagram.com/wilsonlisalisa19/https://www.instagram.com/filip_szczesniak_fans/https://www.instagram.com/memki_memeszki_memes/https://www.instagram.com/filipo.szczesniako/https://www.instagram.com/kraashai/https://www.instagram.com/riyal_ansari_007/https://www.instagram.com/_ol88a_/https://www.instagram.com/hubercik_m/https://www.instagram.com/_s_amu_x/https://www.instagram.com/fiksu_synku/https://www.instagram.com/little_russian1/https://www.instagram.com/julcia__jdk/https://www.instagram.com/kacperq69xd_/https://www.instagram.com/2016szymon/https://www.instagram.com/asiax123/https://www.instagram.com/humorek.pl/https://www.instagram.com/olgusia.x/https://www.instagram.com/_quedits_/https://www.instagram.com/parzelskax/https://www.instagram.com/twoj_ziomekkkk/https://www.instagram.com/zofiakluczyk/https://www.instagram.com/nie_aktywnedx/https://www.instagram.com/my_my_ka/https://www.instagram.com/stunna60s/https://www.instagram.com/monixwilk/https://www.instagram.com/szkatula_/https://www.instagram.com/quebo_i_taco/https://www.instagram.com/jank_papryk/https://www.instagram.com/k.krezolek/https://www.instagram.com/hemingwayetacosa/https://www.instagram.com/hemingway.fp/https://www.instagram.com/mati23kluba/https://www.instagram.com/sara.warpas/https://www.instagram.com/lemon_pl_2009/https://www.instagram.com/bairagi4295/https://www.instagram.com/gulbshahkhan/https://www.instagram.com/yasinjhlandri/https://www.instagram.com/latka_s/https://www.instagram.com/oski_str33t_workout/https://www.instagram.com/rapix_pl/https://www.instagram.com/wattpad.pr/https://www.instagram.com/e.madrawska/https://www.instagram.com/mhmwdhmdfhym/https://www.instagram.com/likeasweeydream/https://www.instagram.com/bernadinebamouni/https://www.instagram.com/taco.hemingway.fanpage/https://www.instagram.com/_k_domagala_/https://www.instagram.com/arkadiuszpiorkowski03/https://www.instagram.com/famemmainfo/https://www.instagram.com/wiktoria_klodzinska______96/https://www.instagram.com/klaudiapiotrak/https://www.instagram.com/nulantafrackiewicz/https://www.instagram.com/_123.lol.321_/https://www.instagram.com/teraz_ja_nie_paniemaju/https://www.instagram.com/ibrahim.143.delen07/https://www.instagram.com/memymemy168/https://www.instagram.com/_aniae/https://www.instagram.com/bedoesgangg__/https://www.instagram.com/00jack.hemi00/https://www.instagram.com/peaches.and.apples/https://www.instagram.com/postirol_zyciem/https://www.instagram.com/everybody_diesintheirdreams/https://www.instagram.com/natakxp/https://www.instagram.com/alexander_krokos/https://www.instagram.com/zniechecenie__/https://www.instagram.com/fajne_klapki/https://www.instagram.com/michalstaszuk/https://www.instagram.com/stanislawsky_yt/https://www.instagram.com/natalia_piecha/https://www.instagram.com/szczesniaaak._/https://www.instagram.com/cecelinka19/https://www.instagram.com/lufapytanie/https://www.instagram.com/eta_anton/https://www.instagram.com/the.gloved.one.mj/https://www.instagram.com/krystynawolnik/https://www.instagram.com/taco_hemingwayfp2/https://www.instagram.com/natalia.vxvx/https://www.instagram.com/k_grabowskii/https://www.instagram.com/darix_a/https://www.instagram.com/wolnikk.pv/https://www.instagram.com/___.ksiezniczka.___/https://www.instagram.com/fast_rap_news/https://www.instagram.com/zamkniete_konto_333/https://www.instagram.com/anikusiaa_/https://www.instagram.com/szymon0ah/https://www.instagram.com/tyska.2115/https://www.instagram.com/rwhn244/https://www.instagram.com/_michal_wagner_/https://www.instagram.com/hanianepora/https://www.instagram.com/fortnite_2k19xddd/https://www.instagram.com/wojtya777/https://www.instagram.com/adriana_xd___/https://www.instagram.com/r___7891/https://www.instagram.com/cytaty_zeamsone_/https://www.instagram.com/shubhamraanaa/https://www.instagram.com/dzwonie_do_bociana_/https://www.instagram.com/szczesniak_filip/https://www.instagram.com/kald.mnab/https://www.instagram.com/szczesniak_fp/https://www.instagram.com/stasiaksamuel2006/https://www.instagram.com/dx_borucki/https://www.instagram.com/taco_hemingwayfp/https://www.instagram.com/wudpeka_w1/https://www.instagram.com/lenavxv_/https://www.instagram.com/_.my._.outline._/https://www.instagram.com/klaudiaskorupska8/https://www.instagram.com/_nilsaa__/https://www.instagram.com/magdarozowa/https://www.instagram.com/_ania.synku_/https://www.instagram.com/upartosc/https://www.instagram.com/sanjeevpatel95/https://www.instagram.com/_szczesniakk/https://www.instagram.com/amy.lestrange/https://www.instagram.com/taconafide_fans_pl/https://www.instagram.com/michal80741/https://www.instagram.com/wolniknatalia/https://www.instagram.com/paulinawolnik_/
+[28-01-2020-06:35:12]: [Analyze]un-followers appended successfully
+[28-01-2020-06:35:12]:  [Timer]sleeping thread until next post time
+[28-01-2020-06:37:49]: [SERVER]server start
+[28-01-2020-06:37:49]: [SERVER]loading preferences from config file
+[28-01-2020-06:37:49]: [SERVER]preferences loaded successfully
+[28-01-2020-06:37:49]: [SERVER]reading profiles from file
+[28-01-2020-06:37:49]: [SERVER]added https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/werni100000o/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/czaplinka/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/cateroms/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/natan_golebiewski/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/michalina_ci/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/xmint_water/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/tymciu_szymciu/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/zuziaa499/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/joahana_jo/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/madzia.osk/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_suzie.escobar_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/kakussssss/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/wiktoria9760/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/multitapety/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/lyrivm_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/hania_blach/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/grucus_prywatnie/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/madziula_kowalczyk/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/anetyzm_art_gwozdz/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_rxexd.priv/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/grupa_fanow_rapu_z_pl/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/gaba.melon/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/starenowememy/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/memotarka/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/discoboru_official/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/bedoesfp_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/mazharali940/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/fansonafide_taco_and_quebo/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/ziolownicy_malika/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/michaelavixq/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/bibulka88/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/marta_piwonska_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/tacohemingway_fans515/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/xteresa_02/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/weronikagurynow/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_xsandraaax/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/franek_jedziniak/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/wielmozna_kasia/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/haniar_pv/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_rxexd/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/hubert.szczepaniak.969/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/hombre__triste/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/janekleliwa/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/__w__i__k__i__/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/iwaszkiewicz8/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/way_x_siadlo/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/lipa.fnpg/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/weronikafabisiak/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/sunsetlocker/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/janlenar/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/dominika_witczakk/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/kasika8989/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/kartky_puste/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/d.kiec/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/quaz1_com/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/dobre_leczo/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/w_iki_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_mery_u_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/majaswiglo/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/__quazi_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/kc.tuskoo_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/wiktoria2665/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/memy_z_intermetu/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/zuza_600_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/2suchan2/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/annakrawiec/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/jwgroup_centrumodszkodowan/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/__maja_pv_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/noraahmed9085/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_hania.q/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/oli_is_a_peach/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/mana_lania_ania/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/quebona.krzysztof/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/alajedrusik/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/wiktorkrasnodebski/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/kronika_baleckiej/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/marysia_marchewka/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/dobra_dusza/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/mokrykosk69/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/only.szczesniak_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/anthonyy1899/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/bokdanhaidari/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/dajwode/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/team_kartky/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/engineyabike/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/n.atka.xd/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/titek_memes/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/nata.lia9918/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/queba_hombrefp/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/dzikirap/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/kisiel_sa/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/olamlicka/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_priv_jululu_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/polski_rap_fp/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/asiiaa2019/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/pauliszek123/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/kubiszzzzz/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/idzdalejpl/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_amelka_slazykkk/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/taco.nafide_fans/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/legion.app/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/maja.qwp/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/koziarafp/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/zenitalny/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/dagmara_x_x_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/olawetoszka/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/innaaosoba56/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/z4l3sky/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/a.jagielskaa/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/pruszkowskaa/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/tac0hem/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/ma.karoll/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/medyeslemmouhamed/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/lonaxik/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/felix_i_karmadla_kotana_zawsze/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/nataliaduda83/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_polskie_rap_plyty_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/anitaparlicka/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/horses_is_my_life_j.z/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/anika.1996__/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/quefestival_fanpage/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/quebo.natalia/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/thisbedoes/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/pewca_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/wiktoria_lorek/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/xxwerusx/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/gabiszon.prywatnie/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/paulinalysio/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/zovamp/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/kina.idk/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/roch_lys/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/anotherjokemurray/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/gorka4175/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/a_srodecka/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/letnie_warszawskie_plasy/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/lenakornacka19/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/wiktoria_trzeba/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/monikakwiecien.16/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/v_i.c.q.y/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/klaudia_rombel/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/edity_polskirap_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/x_zofiy_x/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/loszki_krzycha/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/rogalska.karolina/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/taco.hemingway.fp/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/pat.mach93/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/taco_hem_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/fevigiusz11/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/oliwia_jaskowska/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/nie_wnikaj_na_dobre/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_szpakusimba_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/rap_x_fanpage/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/zabrockazuzanna/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/igalis.fanpage/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/rebeccawusu50/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/memownia_darmowe_memy/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/zofii_a/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/alusieq_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/kuba_peksa/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/memowy_man/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/kanarku13x/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/shicaush/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/aga_agnieszka_agusia/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/ajmjakub/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/matthew_krzywin/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/fani.roxy.laury/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/krewetka_16/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/zajebisciex/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/maciek.nieumiec/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/malysz60/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/q_u_e_b_o_n_a_f_i_d_e/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/hotelmarmur/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/szymonkipka/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/d_wera_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/__karola_13__/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/kordi251/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/goralek_16/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/souppub/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/x.xhania_pv/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/matilsw/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/qubik115/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/d_a_m_a_n_e_k/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/fifi_fanpage_900729/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/hajpman_fans/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/tomaszkominiak/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/vogelpawel/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/zuzannazabrocka/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/martyna_mkplay/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/ucierany_kremik/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/tacohemingway.fans/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/w.b.kostecka/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/pikana__/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/princedon935/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/darknes766/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/taco_hemingwayy/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/kamiltoczekxd/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/xfactorpromotion/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/najlepsze_rap_cytaty/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/rzeczy_nieuchwytne/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/klaudia_2115_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/fani_taconafide/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/vegeta_2020/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/n.inglot/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_fanpageigora__/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/horemski/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/kamilabartosik_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_marceline_2115/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/daniel__popielarczyk/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/szlugi_i_egzotyka/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/wiqtoriaax/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/taco__hemingway/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/zawieszo0ne/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/xtacohemingway/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/xaq_4224/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/rapfans_pl/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/xxpapaczo_21savage/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/kakla_a/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/wajgga/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/klaudia_smielak/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_____ftw______/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/mazurenko_oliwier/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/erico_97_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/4_po_dmt/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/sory.pomylka/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/iiiiihdhdjdk/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/e_x_i_m_i_a/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/nowa_rapgra/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/kamil_jaszczurowski/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_wiki_wiczka_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/janeczq28/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/ejtynoniewiem/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/taki_ziomus/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/wiwibuczynska/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/taco_fp_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/twojababciamilosci/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/asiaaaaszczecinska/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/rjulx/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/20_stalkerka_06/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_tacohemingway/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/r.rozalka/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/micha_l_zaborowski/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/maciek_malek_69/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/http.hania_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/asikxzhz/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/xjvlszesx/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/kubus_glebocki/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/1408_w/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/quebo._.fans/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/___idzsieumyjlam0____/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/elixir_by_domwodki/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/life_is_strange_here/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/talarekola/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/damianwiecek65/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/promo_insta_24/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/blooocha/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_julululululululu_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/annowak27/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/mchalkonkurs/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/sagittarius_440/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_ktoskogonieobchodzisz_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/deszcznabetonie.taco/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/fanirapu.of/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_karolina_kolasa_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/bedi_fani/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/withered7flower/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/wieckosia_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/rapfans_official2/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/walaszekasia/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/wixa_2115.synku/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/z.bartczak05/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/wercik183/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/quebo.hemingway/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/rapfans_official/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_milenajestem_ok/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/zuziaa_4/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/in322ka/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/iqual_offset/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/quebonafidex/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/carola_131/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/choinska.a/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/carolina.fotograf/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/czajkowsk.aa/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/i_novvacka/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_werka_x_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/witold.witkowski.142/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_twojaherbatka_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/quebo.nafide/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/michal.kuc.7/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/f_i_f_i_19/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/cytaty_of_hemingway/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/que_bonafide.fp/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/tacohemingway__/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/nie_znany_717/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/dzemik_wariat/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/xskovvronx/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/xjolkex/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_wiktoria.187/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/stkam99/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/green_johny_182/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/adrian_piasta/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/this_is_polish_rap/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/maciek.kubina/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/przemektocki/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_m0zdzynska_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/impuls_nerwowy/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/mikolaj.woznica00/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/tornek_olejnik/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/hubertq_09/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/taco_que/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/sylwia.jr/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/wilsonlisalisa19/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/filip_szczesniak_fans/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/memki_memeszki_memes/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/filipo.szczesniako/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/kraashai/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/riyal_ansari_007/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_ol88a_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/hubercik_m/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_s_amu_x/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/fiksu_synku/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/little_russian1/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/julcia__jdk/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/kacperq69xd_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/2016szymon/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/asiax123/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/humorek.pl/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/olgusia.x/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_quedits_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/parzelskax/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/twoj_ziomekkkk/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/zofiakluczyk/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/nie_aktywnedx/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/my_my_ka/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/stunna60s/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/monixwilk/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/szkatula_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/quebo_i_taco/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/jank_papryk/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/k.krezolek/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/hemingwayetacosa/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/hemingway.fp/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/mati23kluba/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/sara.warpas/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/lemon_pl_2009/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/bairagi4295/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/gulbshahkhan/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/yasinjhlandri/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/latka_s/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/oski_str33t_workout/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/rapix_pl/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/wattpad.pr/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/e.madrawska/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/mhmwdhmdfhym/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/likeasweeydream/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/bernadinebamouni/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/taco.hemingway.fanpage/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_k_domagala_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/arkadiuszpiorkowski03/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/famemmainfo/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/wiktoria_klodzinska______96/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/klaudiapiotrak/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/nulantafrackiewicz/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_123.lol.321_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/teraz_ja_nie_paniemaju/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/ibrahim.143.delen07/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/memymemy168/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_aniae/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/bedoesgangg__/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/00jack.hemi00/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/peaches.and.apples/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/postirol_zyciem/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/everybody_diesintheirdreams/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/natakxp/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/alexander_krokos/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/zniechecenie__/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/fajne_klapki/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/michalstaszuk/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/stanislawsky_yt/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/natalia_piecha/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/szczesniaaak._/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/cecelinka19/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/lufapytanie/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/eta_anton/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/the.gloved.one.mj/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/krystynawolnik/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/taco_hemingwayfp2/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/natalia.vxvx/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/k_grabowskii/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/darix_a/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/wolnikk.pv/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/___.ksiezniczka.___/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/fast_rap_news/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/zamkniete_konto_333/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/anikusiaa_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/szymon0ah/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/tyska.2115/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/rwhn244/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_michal_wagner_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/hanianepora/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/fortnite_2k19xddd/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/wojtya777/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/adriana_xd___/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/r___7891/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/cytaty_zeamsone_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/shubhamraanaa/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/dzwonie_do_bociana_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/szczesniak_filip/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/kald.mnab/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/szczesniak_fp/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/stasiaksamuel2006/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/dx_borucki/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/taco_hemingwayfp/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/wudpeka_w1/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/lenavxv_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_.my._.outline._/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/klaudiaskorupska8/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_nilsaa__/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/magdarozowa/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_ania.synku_/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/upartosc/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/sanjeevpatel95/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/_szczesniakk/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/amy.lestrange/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/taconafide_fans_pl/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/michal80741/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/wolniknatalia/
+[28-01-2020-06:37:49]: [SERVER]added to report: https://www.instagram.com/paulinawolnik_/
+[28-01-2020-06:37:49]: [SERVER]profiles loaded successfully
+[28-01-2020-06:37:49]:  [Timer]schedule file was read properly: Tuesday 06:32
+[28-01-2020-06:37:49]:  [Timer]trying to parse schedule...
+[28-01-2020-06:37:49]:  [Timer]schedule parsed correctly
+[28-01-2020-06:37:49]:  [Timer]Timer initialized correctly
+[28-01-2020-06:37:51]: [DRIVER]logging in...
+[28-01-2020-06:37:55]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-06:37:56]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-06:37:56]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:37:57]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:37:59]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:37:59]: [Report]loading profiles
+[28-01-2020-06:37:59]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:00]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:00]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:01]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:01]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:01]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:02]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:02]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:03]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:03]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:03]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:04]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:04]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:04]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:05]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:05]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:06]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:06]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:06]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:07]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:07]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:08]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:08]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:08]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:09]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:09]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:09]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:10]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:10]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:11]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:11]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:11]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:12]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:12]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:12]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:13]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:13]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:14]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:14]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:14]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:15]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:15]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:15]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:16]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:16]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:16]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:38:16]: [Report]breaking loop because of fail count
+[28-01-2020-06:38:16]: [Report]loading profiles finished. Loaded profiles: 427
+[28-01-2020-06:38:20]: [Report]listing followers complete. Number of followers listed: 427
+[28-01-2020-06:38:20]: [Report]date set to 28.01.2020 06:38
+[28-01-2020-06:38:20]: [Report]generating report completed
+[28-01-2020-06:38:20]: [Analyze]report saved to: /Users/admin/IdeaProjects/Instagram-Analyzer/profiles/edity_tacohemingway/28.01.2020 06:38.txt
+[28-01-2020-06:38:20]: [Analyze]both followers list loaded, analyzing...
+[28-01-2020-06:38:20]: [Analyze]people who un-followed you:
+https://www.instagram.com/werni100000o/https://www.instagram.com/czaplinka/https://www.instagram.com/cateroms/https://www.instagram.com/natan_golebiewski/https://www.instagram.com/michalina_ci/https://www.instagram.com/xmint_water/https://www.instagram.com/tymciu_szymciu/https://www.instagram.com/zuziaa499/https://www.instagram.com/joahana_jo/https://www.instagram.com/madzia.osk/https://www.instagram.com/_suzie.escobar_/https://www.instagram.com/kakussssss/https://www.instagram.com/wiktoria9760/https://www.instagram.com/multitapety/https://www.instagram.com/lyrivm_/https://www.instagram.com/hania_blach/https://www.instagram.com/grucus_prywatnie/https://www.instagram.com/madziula_kowalczyk/https://www.instagram.com/anetyzm_art_gwozdz/https://www.instagram.com/_rxexd.priv/https://www.instagram.com/grupa_fanow_rapu_z_pl/https://www.instagram.com/gaba.melon/https://www.instagram.com/starenowememy/https://www.instagram.com/memotarka/https://www.instagram.com/discoboru_official/https://www.instagram.com/bedoesfp_/https://www.instagram.com/mazharali940/https://www.instagram.com/fansonafide_taco_and_quebo/https://www.instagram.com/ziolownicy_malika/https://www.instagram.com/michaelavixq/https://www.instagram.com/bibulka88/https://www.instagram.com/marta_piwonska_/https://www.instagram.com/tacohemingway_fans515/https://www.instagram.com/xteresa_02/https://www.instagram.com/weronikagurynow/https://www.instagram.com/_xsandraaax/https://www.instagram.com/franek_jedziniak/https://www.instagram.com/wielmozna_kasia/https://www.instagram.com/haniar_pv/https://www.instagram.com/_rxexd/https://www.instagram.com/hubert.szczepaniak.969/https://www.instagram.com/hombre__triste/https://www.instagram.com/janekleliwa/https://www.instagram.com/__w__i__k__i__/https://www.instagram.com/iwaszkiewicz8/https://www.instagram.com/way_x_siadlo/https://www.instagram.com/lipa.fnpg/https://www.instagram.com/weronikafabisiak/https://www.instagram.com/sunsetlocker/https://www.instagram.com/janlenar/https://www.instagram.com/dominika_witczakk/https://www.instagram.com/kasika8989/https://www.instagram.com/kartky_puste/https://www.instagram.com/d.kiec/https://www.instagram.com/quaz1_com/https://www.instagram.com/dobre_leczo/https://www.instagram.com/w_iki_/https://www.instagram.com/_mery_u_/https://www.instagram.com/majaswiglo/https://www.instagram.com/__quazi_/https://www.instagram.com/kc.tuskoo_/https://www.instagram.com/wiktoria2665/https://www.instagram.com/memy_z_intermetu/https://www.instagram.com/zuza_600_/https://www.instagram.com/2suchan2/https://www.instagram.com/annakrawiec/https://www.instagram.com/jwgroup_centrumodszkodowan/https://www.instagram.com/__maja_pv_/https://www.instagram.com/noraahmed9085/https://www.instagram.com/_hania.q/https://www.instagram.com/oli_is_a_peach/https://www.instagram.com/mana_lania_ania/https://www.instagram.com/quebona.krzysztof/https://www.instagram.com/alajedrusik/https://www.instagram.com/wiktorkrasnodebski/https://www.instagram.com/kronika_baleckiej/https://www.instagram.com/marysia_marchewka/https://www.instagram.com/dobra_dusza/https://www.instagram.com/mokrykosk69/https://www.instagram.com/only.szczesniak_/https://www.instagram.com/anthonyy1899/https://www.instagram.com/bokdanhaidari/https://www.instagram.com/dajwode/https://www.instagram.com/team_kartky/https://www.instagram.com/engineyabike/https://www.instagram.com/n.atka.xd/https://www.instagram.com/titek_memes/https://www.instagram.com/nata.lia9918/https://www.instagram.com/queba_hombrefp/https://www.instagram.com/dzikirap/https://www.instagram.com/kisiel_sa/https://www.instagram.com/olamlicka/https://www.instagram.com/_priv_jululu_/https://www.instagram.com/polski_rap_fp/https://www.instagram.com/asiiaa2019/https://www.instagram.com/pauliszek123/https://www.instagram.com/kubiszzzzz/https://www.instagram.com/idzdalejpl/https://www.instagram.com/_amelka_slazykkk/https://www.instagram.com/taco.nafide_fans/https://www.instagram.com/legion.app/https://www.instagram.com/maja.qwp/https://www.instagram.com/koziarafp/https://www.instagram.com/zenitalny/https://www.instagram.com/dagmara_x_x_/https://www.instagram.com/olawetoszka/https://www.instagram.com/innaaosoba56/https://www.instagram.com/z4l3sky/https://www.instagram.com/a.jagielskaa/https://www.instagram.com/pruszkowskaa/https://www.instagram.com/tac0hem/https://www.instagram.com/ma.karoll/https://www.instagram.com/medyeslemmouhamed/https://www.instagram.com/lonaxik/https://www.instagram.com/felix_i_karmadla_kotana_zawsze/https://www.instagram.com/nataliaduda83/https://www.instagram.com/_polskie_rap_plyty_/https://www.instagram.com/anitaparlicka/https://www.instagram.com/horses_is_my_life_j.z/https://www.instagram.com/anika.1996__/https://www.instagram.com/quefestival_fanpage/https://www.instagram.com/quebo.natalia/https://www.instagram.com/thisbedoes/https://www.instagram.com/pewca_/https://www.instagram.com/wiktoria_lorek/https://www.instagram.com/xxwerusx/https://www.instagram.com/gabiszon.prywatnie/https://www.instagram.com/paulinalysio/https://www.instagram.com/zovamp/https://www.instagram.com/kina.idk/https://www.instagram.com/roch_lys/https://www.instagram.com/anotherjokemurray/https://www.instagram.com/gorka4175/https://www.instagram.com/a_srodecka/https://www.instagram.com/letnie_warszawskie_plasy/https://www.instagram.com/lenakornacka19/https://www.instagram.com/wiktoria_trzeba/https://www.instagram.com/monikakwiecien.16/https://www.instagram.com/v_i.c.q.y/https://www.instagram.com/klaudia_rombel/https://www.instagram.com/edity_polskirap_/https://www.instagram.com/x_zofiy_x/https://www.instagram.com/loszki_krzycha/https://www.instagram.com/rogalska.karolina/https://www.instagram.com/taco.hemingway.fp/https://www.instagram.com/pat.mach93/https://www.instagram.com/taco_hem_/https://www.instagram.com/fevigiusz11/https://www.instagram.com/oliwia_jaskowska/https://www.instagram.com/nie_wnikaj_na_dobre/https://www.instagram.com/_szpakusimba_/https://www.instagram.com/rap_x_fanpage/https://www.instagram.com/zabrockazuzanna/https://www.instagram.com/igalis.fanpage/https://www.instagram.com/rebeccawusu50/https://www.instagram.com/memownia_darmowe_memy/https://www.instagram.com/zofii_a/https://www.instagram.com/alusieq_/https://www.instagram.com/kuba_peksa/https://www.instagram.com/memowy_man/https://www.instagram.com/kanarku13x/https://www.instagram.com/shicaush/https://www.instagram.com/aga_agnieszka_agusia/https://www.instagram.com/ajmjakub/https://www.instagram.com/matthew_krzywin/https://www.instagram.com/fani.roxy.laury/https://www.instagram.com/krewetka_16/https://www.instagram.com/zajebisciex/https://www.instagram.com/maciek.nieumiec/https://www.instagram.com/malysz60/https://www.instagram.com/q_u_e_b_o_n_a_f_i_d_e/https://www.instagram.com/hotelmarmur/https://www.instagram.com/szymonkipka/https://www.instagram.com/d_wera_/https://www.instagram.com/__karola_13__/https://www.instagram.com/kordi251/https://www.instagram.com/goralek_16/https://www.instagram.com/souppub/https://www.instagram.com/x.xhania_pv/https://www.instagram.com/matilsw/https://www.instagram.com/qubik115/https://www.instagram.com/d_a_m_a_n_e_k/https://www.instagram.com/fifi_fanpage_900729/https://www.instagram.com/hajpman_fans/https://www.instagram.com/tomaszkominiak/https://www.instagram.com/vogelpawel/https://www.instagram.com/zuzannazabrocka/https://www.instagram.com/martyna_mkplay/https://www.instagram.com/ucierany_kremik/https://www.instagram.com/tacohemingway.fans/https://www.instagram.com/w.b.kostecka/https://www.instagram.com/pikana__/https://www.instagram.com/princedon935/https://www.instagram.com/darknes766/https://www.instagram.com/taco_hemingwayy/https://www.instagram.com/kamiltoczekxd/https://www.instagram.com/xfactorpromotion/https://www.instagram.com/najlepsze_rap_cytaty/https://www.instagram.com/rzeczy_nieuchwytne/https://www.instagram.com/klaudia_2115_/https://www.instagram.com/fani_taconafide/https://www.instagram.com/vegeta_2020/https://www.instagram.com/n.inglot/https://www.instagram.com/_fanpageigora__/https://www.instagram.com/horemski/https://www.instagram.com/kamilabartosik_/https://www.instagram.com/_marceline_2115/https://www.instagram.com/daniel__popielarczyk/https://www.instagram.com/szlugi_i_egzotyka/https://www.instagram.com/wiqtoriaax/https://www.instagram.com/taco__hemingway/https://www.instagram.com/zawieszo0ne/https://www.instagram.com/xtacohemingway/https://www.instagram.com/xaq_4224/https://www.instagram.com/rapfans_pl/https://www.instagram.com/xxpapaczo_21savage/https://www.instagram.com/kakla_a/https://www.instagram.com/wajgga/https://www.instagram.com/klaudia_smielak/https://www.instagram.com/_____ftw______/https://www.instagram.com/mazurenko_oliwier/https://www.instagram.com/erico_97_/https://www.instagram.com/4_po_dmt/https://www.instagram.com/sory.pomylka/https://www.instagram.com/iiiiihdhdjdk/https://www.instagram.com/e_x_i_m_i_a/https://www.instagram.com/nowa_rapgra/https://www.instagram.com/kamil_jaszczurowski/https://www.instagram.com/_wiki_wiczka_/https://www.instagram.com/janeczq28/https://www.instagram.com/ejtynoniewiem/https://www.instagram.com/taki_ziomus/https://www.instagram.com/wiwibuczynska/https://www.instagram.com/taco_fp_/https://www.instagram.com/twojababciamilosci/https://www.instagram.com/asiaaaaszczecinska/https://www.instagram.com/rjulx/https://www.instagram.com/20_stalkerka_06/https://www.instagram.com/_tacohemingway/https://www.instagram.com/r.rozalka/https://www.instagram.com/micha_l_zaborowski/https://www.instagram.com/maciek_malek_69/https://www.instagram.com/http.hania_/https://www.instagram.com/asikxzhz/https://www.instagram.com/xjvlszesx/https://www.instagram.com/kubus_glebocki/https://www.instagram.com/1408_w/https://www.instagram.com/quebo._.fans/https://www.instagram.com/___idzsieumyjlam0____/https://www.instagram.com/elixir_by_domwodki/https://www.instagram.com/life_is_strange_here/https://www.instagram.com/talarekola/https://www.instagram.com/damianwiecek65/https://www.instagram.com/promo_insta_24/https://www.instagram.com/blooocha/https://www.instagram.com/_julululululululu_/https://www.instagram.com/annowak27/https://www.instagram.com/mchalkonkurs/https://www.instagram.com/sagittarius_440/https://www.instagram.com/_ktoskogonieobchodzisz_/https://www.instagram.com/deszcznabetonie.taco/https://www.instagram.com/fanirapu.of/https://www.instagram.com/_karolina_kolasa_/https://www.instagram.com/bedi_fani/https://www.instagram.com/withered7flower/https://www.instagram.com/wieckosia_/https://www.instagram.com/rapfans_official2/https://www.instagram.com/walaszekasia/https://www.instagram.com/wixa_2115.synku/https://www.instagram.com/z.bartczak05/https://www.instagram.com/wercik183/https://www.instagram.com/quebo.hemingway/https://www.instagram.com/rapfans_official/https://www.instagram.com/_milenajestem_ok/https://www.instagram.com/zuziaa_4/https://www.instagram.com/in322ka/https://www.instagram.com/iqual_offset/https://www.instagram.com/quebonafidex/https://www.instagram.com/carola_131/https://www.instagram.com/choinska.a/https://www.instagram.com/carolina.fotograf/https://www.instagram.com/czajkowsk.aa/https://www.instagram.com/i_novvacka/https://www.instagram.com/_werka_x_/https://www.instagram.com/witold.witkowski.142/https://www.instagram.com/_twojaherbatka_/https://www.instagram.com/quebo.nafide/https://www.instagram.com/michal.kuc.7/https://www.instagram.com/f_i_f_i_19/https://www.instagram.com/cytaty_of_hemingway/https://www.instagram.com/que_bonafide.fp/https://www.instagram.com/tacohemingway__/https://www.instagram.com/nie_znany_717/https://www.instagram.com/dzemik_wariat/https://www.instagram.com/xskovvronx/https://www.instagram.com/xjolkex/https://www.instagram.com/_wiktoria.187/https://www.instagram.com/stkam99/https://www.instagram.com/green_johny_182/https://www.instagram.com/adrian_piasta/https://www.instagram.com/this_is_polish_rap/https://www.instagram.com/maciek.kubina/https://www.instagram.com/przemektocki/https://www.instagram.com/_m0zdzynska_/https://www.instagram.com/impuls_nerwowy/https://www.instagram.com/mikolaj.woznica00/https://www.instagram.com/tornek_olejnik/https://www.instagram.com/hubertq_09/https://www.instagram.com/taco_que/https://www.instagram.com/sylwia.jr/https://www.instagram.com/wilsonlisalisa19/https://www.instagram.com/filip_szczesniak_fans/https://www.instagram.com/memki_memeszki_memes/https://www.instagram.com/filipo.szczesniako/https://www.instagram.com/kraashai/https://www.instagram.com/riyal_ansari_007/https://www.instagram.com/_ol88a_/https://www.instagram.com/hubercik_m/https://www.instagram.com/_s_amu_x/https://www.instagram.com/fiksu_synku/https://www.instagram.com/little_russian1/https://www.instagram.com/julcia__jdk/https://www.instagram.com/kacperq69xd_/https://www.instagram.com/2016szymon/https://www.instagram.com/asiax123/https://www.instagram.com/humorek.pl/https://www.instagram.com/olgusia.x/https://www.instagram.com/_quedits_/https://www.instagram.com/parzelskax/https://www.instagram.com/twoj_ziomekkkk/https://www.instagram.com/zofiakluczyk/https://www.instagram.com/nie_aktywnedx/https://www.instagram.com/my_my_ka/https://www.instagram.com/stunna60s/https://www.instagram.com/monixwilk/https://www.instagram.com/szkatula_/https://www.instagram.com/quebo_i_taco/https://www.instagram.com/jank_papryk/https://www.instagram.com/k.krezolek/https://www.instagram.com/hemingwayetacosa/https://www.instagram.com/hemingway.fp/https://www.instagram.com/mati23kluba/https://www.instagram.com/sara.warpas/https://www.instagram.com/lemon_pl_2009/https://www.instagram.com/bairagi4295/https://www.instagram.com/gulbshahkhan/https://www.instagram.com/yasinjhlandri/https://www.instagram.com/latka_s/https://www.instagram.com/oski_str33t_workout/https://www.instagram.com/rapix_pl/https://www.instagram.com/wattpad.pr/https://www.instagram.com/e.madrawska/https://www.instagram.com/mhmwdhmdfhym/https://www.instagram.com/likeasweeydream/https://www.instagram.com/bernadinebamouni/https://www.instagram.com/taco.hemingway.fanpage/https://www.instagram.com/_k_domagala_/https://www.instagram.com/arkadiuszpiorkowski03/https://www.instagram.com/famemmainfo/https://www.instagram.com/wiktoria_klodzinska______96/https://www.instagram.com/klaudiapiotrak/https://www.instagram.com/nulantafrackiewicz/https://www.instagram.com/_123.lol.321_/https://www.instagram.com/teraz_ja_nie_paniemaju/https://www.instagram.com/ibrahim.143.delen07/https://www.instagram.com/memymemy168/https://www.instagram.com/_aniae/https://www.instagram.com/bedoesgangg__/https://www.instagram.com/00jack.hemi00/https://www.instagram.com/peaches.and.apples/https://www.instagram.com/postirol_zyciem/https://www.instagram.com/everybody_diesintheirdreams/https://www.instagram.com/natakxp/https://www.instagram.com/alexander_krokos/https://www.instagram.com/zniechecenie__/https://www.instagram.com/fajne_klapki/https://www.instagram.com/michalstaszuk/https://www.instagram.com/stanislawsky_yt/https://www.instagram.com/natalia_piecha/https://www.instagram.com/szczesniaaak._/https://www.instagram.com/cecelinka19/https://www.instagram.com/lufapytanie/https://www.instagram.com/eta_anton/https://www.instagram.com/the.gloved.one.mj/https://www.instagram.com/krystynawolnik/https://www.instagram.com/taco_hemingwayfp2/https://www.instagram.com/natalia.vxvx/https://www.instagram.com/k_grabowskii/https://www.instagram.com/darix_a/https://www.instagram.com/wolnikk.pv/https://www.instagram.com/___.ksiezniczka.___/https://www.instagram.com/fast_rap_news/https://www.instagram.com/zamkniete_konto_333/https://www.instagram.com/anikusiaa_/https://www.instagram.com/szymon0ah/https://www.instagram.com/tyska.2115/https://www.instagram.com/rwhn244/https://www.instagram.com/_michal_wagner_/https://www.instagram.com/hanianepora/https://www.instagram.com/fortnite_2k19xddd/https://www.instagram.com/wojtya777/https://www.instagram.com/adriana_xd___/https://www.instagram.com/r___7891/https://www.instagram.com/cytaty_zeamsone_/https://www.instagram.com/shubhamraanaa/https://www.instagram.com/dzwonie_do_bociana_/https://www.instagram.com/szczesniak_filip/https://www.instagram.com/kald.mnab/https://www.instagram.com/szczesniak_fp/https://www.instagram.com/stasiaksamuel2006/https://www.instagram.com/dx_borucki/https://www.instagram.com/taco_hemingwayfp/https://www.instagram.com/wudpeka_w1/https://www.instagram.com/lenavxv_/https://www.instagram.com/_.my._.outline._/https://www.instagram.com/klaudiaskorupska8/https://www.instagram.com/_nilsaa__/https://www.instagram.com/magdarozowa/https://www.instagram.com/_ania.synku_/https://www.instagram.com/upartosc/https://www.instagram.com/sanjeevpatel95/https://www.instagram.com/_szczesniakk/https://www.instagram.com/amy.lestrange/https://www.instagram.com/taconafide_fans_pl/https://www.instagram.com/michal80741/https://www.instagram.com/wolniknatalia/https://www.instagram.com/paulinawolnik_/
+[28-01-2020-06:38:20]: [Analyze]un-followers appended successfully
+[28-01-2020-06:38:20]:  [Timer]sleeping thread until next post time
+[28-01-2020-06:39:07]: [SERVER]server start
+[28-01-2020-06:39:07]: [SERVER]loading preferences from config file
+[28-01-2020-06:39:07]: [SERVER]preferences loaded successfully
+[28-01-2020-06:39:07]: [SERVER]reading profiles from file
+[28-01-2020-06:39:07]: [SERVER]added https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/werni100000o/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/czaplinka/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/cateroms/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/natan_golebiewski/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/michalina_ci/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/xmint_water/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/tymciu_szymciu/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/zuziaa499/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/joahana_jo/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/madzia.osk/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_suzie.escobar_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/kakussssss/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/wiktoria9760/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/multitapety/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/lyrivm_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/hania_blach/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/grucus_prywatnie/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/madziula_kowalczyk/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/anetyzm_art_gwozdz/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_rxexd.priv/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/grupa_fanow_rapu_z_pl/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/gaba.melon/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/starenowememy/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/memotarka/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/discoboru_official/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/bedoesfp_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/mazharali940/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/fansonafide_taco_and_quebo/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/ziolownicy_malika/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/michaelavixq/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/bibulka88/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/marta_piwonska_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/tacohemingway_fans515/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/xteresa_02/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/weronikagurynow/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_xsandraaax/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/franek_jedziniak/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/wielmozna_kasia/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/haniar_pv/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_rxexd/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/hubert.szczepaniak.969/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/hombre__triste/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/janekleliwa/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/__w__i__k__i__/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/iwaszkiewicz8/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/way_x_siadlo/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/lipa.fnpg/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/weronikafabisiak/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/sunsetlocker/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/janlenar/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/dominika_witczakk/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/kasika8989/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/kartky_puste/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/d.kiec/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/quaz1_com/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/dobre_leczo/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/w_iki_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_mery_u_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/majaswiglo/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/__quazi_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/kc.tuskoo_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/wiktoria2665/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/memy_z_intermetu/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/zuza_600_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/2suchan2/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/annakrawiec/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/jwgroup_centrumodszkodowan/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/__maja_pv_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/noraahmed9085/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_hania.q/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/oli_is_a_peach/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/mana_lania_ania/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/quebona.krzysztof/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/alajedrusik/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/wiktorkrasnodebski/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/kronika_baleckiej/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/marysia_marchewka/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/dobra_dusza/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/mokrykosk69/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/only.szczesniak_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/anthonyy1899/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/bokdanhaidari/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/dajwode/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/team_kartky/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/engineyabike/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/n.atka.xd/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/titek_memes/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/nata.lia9918/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/queba_hombrefp/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/dzikirap/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/kisiel_sa/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/olamlicka/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_priv_jululu_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/polski_rap_fp/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/asiiaa2019/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/pauliszek123/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/kubiszzzzz/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/idzdalejpl/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_amelka_slazykkk/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/taco.nafide_fans/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/legion.app/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/maja.qwp/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/koziarafp/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/zenitalny/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/dagmara_x_x_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/olawetoszka/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/innaaosoba56/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/z4l3sky/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/a.jagielskaa/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/pruszkowskaa/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/tac0hem/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/ma.karoll/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/medyeslemmouhamed/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/lonaxik/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/felix_i_karmadla_kotana_zawsze/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/nataliaduda83/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_polskie_rap_plyty_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/anitaparlicka/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/horses_is_my_life_j.z/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/anika.1996__/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/quefestival_fanpage/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/quebo.natalia/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/thisbedoes/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/pewca_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/wiktoria_lorek/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/xxwerusx/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/gabiszon.prywatnie/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/paulinalysio/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/zovamp/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/kina.idk/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/roch_lys/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/anotherjokemurray/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/gorka4175/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/a_srodecka/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/letnie_warszawskie_plasy/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/lenakornacka19/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/wiktoria_trzeba/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/monikakwiecien.16/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/v_i.c.q.y/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/klaudia_rombel/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/edity_polskirap_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/x_zofiy_x/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/loszki_krzycha/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/rogalska.karolina/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/taco.hemingway.fp/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/pat.mach93/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/taco_hem_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/fevigiusz11/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/oliwia_jaskowska/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/nie_wnikaj_na_dobre/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_szpakusimba_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/rap_x_fanpage/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/zabrockazuzanna/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/igalis.fanpage/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/rebeccawusu50/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/memownia_darmowe_memy/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/zofii_a/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/alusieq_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/kuba_peksa/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/memowy_man/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/kanarku13x/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/shicaush/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/aga_agnieszka_agusia/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/ajmjakub/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/matthew_krzywin/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/fani.roxy.laury/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/krewetka_16/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/zajebisciex/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/maciek.nieumiec/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/malysz60/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/q_u_e_b_o_n_a_f_i_d_e/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/hotelmarmur/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/szymonkipka/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/d_wera_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/__karola_13__/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/kordi251/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/goralek_16/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/souppub/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/x.xhania_pv/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/matilsw/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/qubik115/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/d_a_m_a_n_e_k/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/fifi_fanpage_900729/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/hajpman_fans/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/tomaszkominiak/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/vogelpawel/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/zuzannazabrocka/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/martyna_mkplay/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/ucierany_kremik/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/tacohemingway.fans/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/w.b.kostecka/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/pikana__/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/princedon935/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/darknes766/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/taco_hemingwayy/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/kamiltoczekxd/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/xfactorpromotion/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/najlepsze_rap_cytaty/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/rzeczy_nieuchwytne/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/klaudia_2115_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/fani_taconafide/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/vegeta_2020/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/n.inglot/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_fanpageigora__/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/horemski/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/kamilabartosik_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_marceline_2115/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/daniel__popielarczyk/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/szlugi_i_egzotyka/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/wiqtoriaax/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/taco__hemingway/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/zawieszo0ne/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/xtacohemingway/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/xaq_4224/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/rapfans_pl/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/xxpapaczo_21savage/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/kakla_a/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/wajgga/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/klaudia_smielak/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_____ftw______/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/mazurenko_oliwier/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/erico_97_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/4_po_dmt/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/sory.pomylka/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/iiiiihdhdjdk/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/e_x_i_m_i_a/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/nowa_rapgra/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/kamil_jaszczurowski/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_wiki_wiczka_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/janeczq28/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/ejtynoniewiem/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/taki_ziomus/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/wiwibuczynska/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/taco_fp_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/twojababciamilosci/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/asiaaaaszczecinska/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/rjulx/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/20_stalkerka_06/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_tacohemingway/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/r.rozalka/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/micha_l_zaborowski/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/maciek_malek_69/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/http.hania_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/asikxzhz/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/xjvlszesx/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/kubus_glebocki/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/1408_w/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/quebo._.fans/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/___idzsieumyjlam0____/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/elixir_by_domwodki/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/life_is_strange_here/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/talarekola/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/damianwiecek65/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/promo_insta_24/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/blooocha/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_julululululululu_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/annowak27/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/mchalkonkurs/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/sagittarius_440/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_ktoskogonieobchodzisz_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/deszcznabetonie.taco/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/fanirapu.of/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_karolina_kolasa_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/bedi_fani/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/withered7flower/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/wieckosia_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/rapfans_official2/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/walaszekasia/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/wixa_2115.synku/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/z.bartczak05/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/wercik183/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/quebo.hemingway/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/rapfans_official/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_milenajestem_ok/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/zuziaa_4/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/in322ka/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/iqual_offset/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/quebonafidex/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/carola_131/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/choinska.a/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/carolina.fotograf/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/czajkowsk.aa/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/i_novvacka/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_werka_x_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/witold.witkowski.142/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_twojaherbatka_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/quebo.nafide/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/michal.kuc.7/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/f_i_f_i_19/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/cytaty_of_hemingway/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/que_bonafide.fp/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/tacohemingway__/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/nie_znany_717/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/dzemik_wariat/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/xskovvronx/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/xjolkex/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_wiktoria.187/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/stkam99/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/green_johny_182/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/adrian_piasta/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/this_is_polish_rap/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/maciek.kubina/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/przemektocki/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_m0zdzynska_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/impuls_nerwowy/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/mikolaj.woznica00/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/tornek_olejnik/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/hubertq_09/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/taco_que/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/sylwia.jr/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/wilsonlisalisa19/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/filip_szczesniak_fans/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/memki_memeszki_memes/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/filipo.szczesniako/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/kraashai/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/riyal_ansari_007/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_ol88a_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/hubercik_m/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_s_amu_x/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/fiksu_synku/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/little_russian1/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/julcia__jdk/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/kacperq69xd_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/2016szymon/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/asiax123/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/humorek.pl/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/olgusia.x/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_quedits_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/parzelskax/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/twoj_ziomekkkk/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/zofiakluczyk/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/nie_aktywnedx/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/my_my_ka/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/stunna60s/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/monixwilk/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/szkatula_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/quebo_i_taco/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/jank_papryk/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/k.krezolek/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/hemingwayetacosa/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/hemingway.fp/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/mati23kluba/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/sara.warpas/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/lemon_pl_2009/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/bairagi4295/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/gulbshahkhan/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/yasinjhlandri/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/latka_s/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/oski_str33t_workout/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/rapix_pl/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/wattpad.pr/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/e.madrawska/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/mhmwdhmdfhym/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/likeasweeydream/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/bernadinebamouni/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/taco.hemingway.fanpage/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_k_domagala_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/arkadiuszpiorkowski03/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/famemmainfo/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/wiktoria_klodzinska______96/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/klaudiapiotrak/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/nulantafrackiewicz/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_123.lol.321_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/teraz_ja_nie_paniemaju/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/ibrahim.143.delen07/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/memymemy168/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_aniae/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/bedoesgangg__/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/00jack.hemi00/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/peaches.and.apples/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/postirol_zyciem/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/everybody_diesintheirdreams/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/natakxp/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/alexander_krokos/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/zniechecenie__/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/fajne_klapki/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/michalstaszuk/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/stanislawsky_yt/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/natalia_piecha/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/szczesniaaak._/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/cecelinka19/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/lufapytanie/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/eta_anton/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/the.gloved.one.mj/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/krystynawolnik/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/taco_hemingwayfp2/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/natalia.vxvx/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/k_grabowskii/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/darix_a/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/wolnikk.pv/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/___.ksiezniczka.___/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/fast_rap_news/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/zamkniete_konto_333/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/anikusiaa_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/szymon0ah/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/tyska.2115/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/rwhn244/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_michal_wagner_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/hanianepora/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/fortnite_2k19xddd/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/wojtya777/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/adriana_xd___/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/r___7891/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/cytaty_zeamsone_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/shubhamraanaa/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/dzwonie_do_bociana_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/szczesniak_filip/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/kald.mnab/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/szczesniak_fp/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/stasiaksamuel2006/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/dx_borucki/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/taco_hemingwayfp/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/wudpeka_w1/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/lenavxv_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_.my._.outline._/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/klaudiaskorupska8/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_nilsaa__/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/magdarozowa/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_ania.synku_/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/upartosc/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/sanjeevpatel95/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/_szczesniakk/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/amy.lestrange/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/taconafide_fans_pl/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/michal80741/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/wolniknatalia/
+[28-01-2020-06:39:07]: [SERVER]added to report: https://www.instagram.com/paulinawolnik_/
+[28-01-2020-06:39:07]: [SERVER]profiles loaded successfully
+[28-01-2020-06:39:07]:  [Timer]schedule file was read properly: Tuesday 06:32
+[28-01-2020-06:39:07]:  [Timer]trying to parse schedule...
+[28-01-2020-06:39:07]:  [Timer]schedule parsed correctly
+[28-01-2020-06:39:07]:  [Timer]Timer initialized correctly
+[28-01-2020-06:39:08]: [DRIVER]logging in...
+[28-01-2020-06:39:12]: [DRIVER]navigating to https://www.instagram.com/edity_tacohemingway/
+[28-01-2020-06:39:13]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-06:39:14]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:16]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:16]: [Report]loading profiles
+[28-01-2020-06:39:16]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:17]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:17]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:17]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:18]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:18]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:19]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:19]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:19]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:20]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:20]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:20]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:21]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:21]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:22]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:22]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:22]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:23]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:23]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:24]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:24]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:24]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:25]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:25]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:26]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:26]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:26]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:27]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:27]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:28]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:28]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:28]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:29]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:29]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:29]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:30]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:30]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:30]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:31]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:31]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:32]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:32]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:32]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:33]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:33]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-06:39:33]: [Report]breaking loop because of fail count
+[28-01-2020-06:39:33]: [Report]loading profiles finished. Loaded profiles: 427
+[28-01-2020-06:39:37]: [Report]listing followers complete. Number of followers listed: 427
+[28-01-2020-06:39:37]: [Report]date set to 28.01.2020 06:39
+[28-01-2020-06:39:37]: [Report]generating report completed
+[28-01-2020-06:39:37]: [Analyze]report saved to: /Users/admin/IdeaProjects/Instagram-Analyzer/profiles/edity_tacohemingway/28.01.2020 06:39.txt
+[28-01-2020-06:39:37]: [Analyze]both followers list loaded, analyzing...
+[28-01-2020-06:39:37]: [Analyze]people who un-followed you:
+https://www.instagram.com/werni100000o/
+https://www.instagram.com/czaplinka/
+https://www.instagram.com/cateroms/
+https://www.instagram.com/natan_golebiewski/
+https://www.instagram.com/michalina_ci/
+https://www.instagram.com/xmint_water/
+https://www.instagram.com/tymciu_szymciu/
+https://www.instagram.com/zuziaa499/
+https://www.instagram.com/joahana_jo/
+https://www.instagram.com/madzia.osk/
+https://www.instagram.com/_suzie.escobar_/
+https://www.instagram.com/kakussssss/
+https://www.instagram.com/wiktoria9760/
+https://www.instagram.com/multitapety/
+https://www.instagram.com/lyrivm_/
+https://www.instagram.com/hania_blach/
+https://www.instagram.com/grucus_prywatnie/
+https://www.instagram.com/madziula_kowalczyk/
+https://www.instagram.com/anetyzm_art_gwozdz/
+https://www.instagram.com/_rxexd.priv/
+https://www.instagram.com/grupa_fanow_rapu_z_pl/
+https://www.instagram.com/gaba.melon/
+https://www.instagram.com/starenowememy/
+https://www.instagram.com/memotarka/
+https://www.instagram.com/discoboru_official/
+https://www.instagram.com/bedoesfp_/
+https://www.instagram.com/mazharali940/
+https://www.instagram.com/fansonafide_taco_and_quebo/
+https://www.instagram.com/ziolownicy_malika/
+https://www.instagram.com/michaelavixq/
+https://www.instagram.com/bibulka88/
+https://www.instagram.com/marta_piwonska_/
+https://www.instagram.com/tacohemingway_fans515/
+https://www.instagram.com/xteresa_02/
+https://www.instagram.com/weronikagurynow/
+https://www.instagram.com/_xsandraaax/
+https://www.instagram.com/franek_jedziniak/
+https://www.instagram.com/wielmozna_kasia/
+https://www.instagram.com/haniar_pv/
+https://www.instagram.com/_rxexd/
+https://www.instagram.com/hubert.szczepaniak.969/
+https://www.instagram.com/hombre__triste/
+https://www.instagram.com/janekleliwa/
+https://www.instagram.com/__w__i__k__i__/
+https://www.instagram.com/iwaszkiewicz8/
+https://www.instagram.com/way_x_siadlo/
+https://www.instagram.com/lipa.fnpg/
+https://www.instagram.com/weronikafabisiak/
+https://www.instagram.com/sunsetlocker/
+https://www.instagram.com/janlenar/
+https://www.instagram.com/dominika_witczakk/
+https://www.instagram.com/kasika8989/
+https://www.instagram.com/kartky_puste/
+https://www.instagram.com/d.kiec/
+https://www.instagram.com/quaz1_com/
+https://www.instagram.com/dobre_leczo/
+https://www.instagram.com/w_iki_/
+https://www.instagram.com/_mery_u_/
+https://www.instagram.com/majaswiglo/
+https://www.instagram.com/__quazi_/
+https://www.instagram.com/kc.tuskoo_/
+https://www.instagram.com/wiktoria2665/
+https://www.instagram.com/memy_z_intermetu/
+https://www.instagram.com/zuza_600_/
+https://www.instagram.com/2suchan2/
+https://www.instagram.com/annakrawiec/
+https://www.instagram.com/jwgroup_centrumodszkodowan/
+https://www.instagram.com/__maja_pv_/
+https://www.instagram.com/noraahmed9085/
+https://www.instagram.com/_hania.q/
+https://www.instagram.com/oli_is_a_peach/
+https://www.instagram.com/mana_lania_ania/
+https://www.instagram.com/quebona.krzysztof/
+https://www.instagram.com/alajedrusik/
+https://www.instagram.com/wiktorkrasnodebski/
+https://www.instagram.com/kronika_baleckiej/
+https://www.instagram.com/marysia_marchewka/
+https://www.instagram.com/dobra_dusza/
+https://www.instagram.com/mokrykosk69/
+https://www.instagram.com/only.szczesniak_/
+https://www.instagram.com/anthonyy1899/
+https://www.instagram.com/bokdanhaidari/
+https://www.instagram.com/dajwode/
+https://www.instagram.com/team_kartky/
+https://www.instagram.com/engineyabike/
+https://www.instagram.com/n.atka.xd/
+https://www.instagram.com/titek_memes/
+https://www.instagram.com/nata.lia9918/
+https://www.instagram.com/queba_hombrefp/
+https://www.instagram.com/dzikirap/
+https://www.instagram.com/kisiel_sa/
+https://www.instagram.com/olamlicka/
+https://www.instagram.com/_priv_jululu_/
+https://www.instagram.com/polski_rap_fp/
+https://www.instagram.com/asiiaa2019/
+https://www.instagram.com/pauliszek123/
+https://www.instagram.com/kubiszzzzz/
+https://www.instagram.com/idzdalejpl/
+https://www.instagram.com/_amelka_slazykkk/
+https://www.instagram.com/taco.nafide_fans/
+https://www.instagram.com/legion.app/
+https://www.instagram.com/maja.qwp/
+https://www.instagram.com/koziarafp/
+https://www.instagram.com/zenitalny/
+https://www.instagram.com/dagmara_x_x_/
+https://www.instagram.com/olawetoszka/
+https://www.instagram.com/innaaosoba56/
+https://www.instagram.com/z4l3sky/
+https://www.instagram.com/a.jagielskaa/
+https://www.instagram.com/pruszkowskaa/
+https://www.instagram.com/tac0hem/
+https://www.instagram.com/ma.karoll/
+https://www.instagram.com/medyeslemmouhamed/
+https://www.instagram.com/lonaxik/
+https://www.instagram.com/felix_i_karmadla_kotana_zawsze/
+https://www.instagram.com/nataliaduda83/
+https://www.instagram.com/_polskie_rap_plyty_/
+https://www.instagram.com/anitaparlicka/
+https://www.instagram.com/horses_is_my_life_j.z/
+https://www.instagram.com/anika.1996__/
+https://www.instagram.com/quefestival_fanpage/
+https://www.instagram.com/quebo.natalia/
+https://www.instagram.com/thisbedoes/
+https://www.instagram.com/pewca_/
+https://www.instagram.com/wiktoria_lorek/
+https://www.instagram.com/xxwerusx/
+https://www.instagram.com/gabiszon.prywatnie/
+https://www.instagram.com/paulinalysio/
+https://www.instagram.com/zovamp/
+https://www.instagram.com/kina.idk/
+https://www.instagram.com/roch_lys/
+https://www.instagram.com/anotherjokemurray/
+https://www.instagram.com/gorka4175/
+https://www.instagram.com/a_srodecka/
+https://www.instagram.com/letnie_warszawskie_plasy/
+https://www.instagram.com/lenakornacka19/
+https://www.instagram.com/wiktoria_trzeba/
+https://www.instagram.com/monikakwiecien.16/
+https://www.instagram.com/v_i.c.q.y/
+https://www.instagram.com/klaudia_rombel/
+https://www.instagram.com/edity_polskirap_/
+https://www.instagram.com/x_zofiy_x/
+https://www.instagram.com/loszki_krzycha/
+https://www.instagram.com/rogalska.karolina/
+https://www.instagram.com/taco.hemingway.fp/
+https://www.instagram.com/pat.mach93/
+https://www.instagram.com/taco_hem_/
+https://www.instagram.com/fevigiusz11/
+https://www.instagram.com/oliwia_jaskowska/
+https://www.instagram.com/nie_wnikaj_na_dobre/
+https://www.instagram.com/_szpakusimba_/
+https://www.instagram.com/rap_x_fanpage/
+https://www.instagram.com/zabrockazuzanna/
+https://www.instagram.com/igalis.fanpage/
+https://www.instagram.com/rebeccawusu50/
+https://www.instagram.com/memownia_darmowe_memy/
+https://www.instagram.com/zofii_a/
+https://www.instagram.com/alusieq_/
+https://www.instagram.com/kuba_peksa/
+https://www.instagram.com/memowy_man/
+https://www.instagram.com/kanarku13x/
+https://www.instagram.com/shicaush/
+https://www.instagram.com/aga_agnieszka_agusia/
+https://www.instagram.com/ajmjakub/
+https://www.instagram.com/matthew_krzywin/
+https://www.instagram.com/fani.roxy.laury/
+https://www.instagram.com/krewetka_16/
+https://www.instagram.com/zajebisciex/
+https://www.instagram.com/maciek.nieumiec/
+https://www.instagram.com/malysz60/
+https://www.instagram.com/q_u_e_b_o_n_a_f_i_d_e/
+https://www.instagram.com/hotelmarmur/
+https://www.instagram.com/szymonkipka/
+https://www.instagram.com/d_wera_/
+https://www.instagram.com/__karola_13__/
+https://www.instagram.com/kordi251/
+https://www.instagram.com/goralek_16/
+https://www.instagram.com/souppub/
+https://www.instagram.com/x.xhania_pv/
+https://www.instagram.com/matilsw/
+https://www.instagram.com/qubik115/
+https://www.instagram.com/d_a_m_a_n_e_k/
+https://www.instagram.com/fifi_fanpage_900729/
+https://www.instagram.com/hajpman_fans/
+https://www.instagram.com/tomaszkominiak/
+https://www.instagram.com/vogelpawel/
+https://www.instagram.com/zuzannazabrocka/
+https://www.instagram.com/martyna_mkplay/
+https://www.instagram.com/ucierany_kremik/
+https://www.instagram.com/tacohemingway.fans/
+https://www.instagram.com/w.b.kostecka/
+https://www.instagram.com/pikana__/
+https://www.instagram.com/princedon935/
+https://www.instagram.com/darknes766/
+https://www.instagram.com/taco_hemingwayy/
+https://www.instagram.com/kamiltoczekxd/
+https://www.instagram.com/xfactorpromotion/
+https://www.instagram.com/najlepsze_rap_cytaty/
+https://www.instagram.com/rzeczy_nieuchwytne/
+https://www.instagram.com/klaudia_2115_/
+https://www.instagram.com/fani_taconafide/
+https://www.instagram.com/vegeta_2020/
+https://www.instagram.com/n.inglot/
+https://www.instagram.com/_fanpageigora__/
+https://www.instagram.com/horemski/
+https://www.instagram.com/kamilabartosik_/
+https://www.instagram.com/_marceline_2115/
+https://www.instagram.com/daniel__popielarczyk/
+https://www.instagram.com/szlugi_i_egzotyka/
+https://www.instagram.com/wiqtoriaax/
+https://www.instagram.com/taco__hemingway/
+https://www.instagram.com/zawieszo0ne/
+https://www.instagram.com/xtacohemingway/
+https://www.instagram.com/xaq_4224/
+https://www.instagram.com/rapfans_pl/
+https://www.instagram.com/xxpapaczo_21savage/
+https://www.instagram.com/kakla_a/
+https://www.instagram.com/wajgga/
+https://www.instagram.com/klaudia_smielak/
+https://www.instagram.com/_____ftw______/
+https://www.instagram.com/mazurenko_oliwier/
+https://www.instagram.com/erico_97_/
+https://www.instagram.com/4_po_dmt/
+https://www.instagram.com/sory.pomylka/
+https://www.instagram.com/iiiiihdhdjdk/
+https://www.instagram.com/e_x_i_m_i_a/
+https://www.instagram.com/nowa_rapgra/
+https://www.instagram.com/kamil_jaszczurowski/
+https://www.instagram.com/_wiki_wiczka_/
+https://www.instagram.com/janeczq28/
+https://www.instagram.com/ejtynoniewiem/
+https://www.instagram.com/taki_ziomus/
+https://www.instagram.com/wiwibuczynska/
+https://www.instagram.com/taco_fp_/
+https://www.instagram.com/twojababciamilosci/
+https://www.instagram.com/asiaaaaszczecinska/
+https://www.instagram.com/rjulx/
+https://www.instagram.com/20_stalkerka_06/
+https://www.instagram.com/_tacohemingway/
+https://www.instagram.com/r.rozalka/
+https://www.instagram.com/micha_l_zaborowski/
+https://www.instagram.com/maciek_malek_69/
+https://www.instagram.com/http.hania_/
+https://www.instagram.com/asikxzhz/
+https://www.instagram.com/xjvlszesx/
+https://www.instagram.com/kubus_glebocki/
+https://www.instagram.com/1408_w/
+https://www.instagram.com/quebo._.fans/
+https://www.instagram.com/___idzsieumyjlam0____/
+https://www.instagram.com/elixir_by_domwodki/
+https://www.instagram.com/life_is_strange_here/
+https://www.instagram.com/talarekola/
+https://www.instagram.com/damianwiecek65/
+https://www.instagram.com/promo_insta_24/
+https://www.instagram.com/blooocha/
+https://www.instagram.com/_julululululululu_/
+https://www.instagram.com/annowak27/
+https://www.instagram.com/mchalkonkurs/
+https://www.instagram.com/sagittarius_440/
+https://www.instagram.com/_ktoskogonieobchodzisz_/
+https://www.instagram.com/deszcznabetonie.taco/
+https://www.instagram.com/fanirapu.of/
+https://www.instagram.com/_karolina_kolasa_/
+https://www.instagram.com/bedi_fani/
+https://www.instagram.com/withered7flower/
+https://www.instagram.com/wieckosia_/
+https://www.instagram.com/rapfans_official2/
+https://www.instagram.com/walaszekasia/
+https://www.instagram.com/wixa_2115.synku/
+https://www.instagram.com/z.bartczak05/
+https://www.instagram.com/wercik183/
+https://www.instagram.com/quebo.hemingway/
+https://www.instagram.com/rapfans_official/
+https://www.instagram.com/_milenajestem_ok/
+https://www.instagram.com/zuziaa_4/
+https://www.instagram.com/in322ka/
+https://www.instagram.com/iqual_offset/
+https://www.instagram.com/quebonafidex/
+https://www.instagram.com/carola_131/
+https://www.instagram.com/choinska.a/
+https://www.instagram.com/carolina.fotograf/
+https://www.instagram.com/czajkowsk.aa/
+https://www.instagram.com/i_novvacka/
+https://www.instagram.com/_werka_x_/
+https://www.instagram.com/witold.witkowski.142/
+https://www.instagram.com/_twojaherbatka_/
+https://www.instagram.com/quebo.nafide/
+https://www.instagram.com/michal.kuc.7/
+https://www.instagram.com/f_i_f_i_19/
+https://www.instagram.com/cytaty_of_hemingway/
+https://www.instagram.com/que_bonafide.fp/
+https://www.instagram.com/tacohemingway__/
+https://www.instagram.com/nie_znany_717/
+https://www.instagram.com/dzemik_wariat/
+https://www.instagram.com/xskovvronx/
+https://www.instagram.com/xjolkex/
+https://www.instagram.com/_wiktoria.187/
+https://www.instagram.com/stkam99/
+https://www.instagram.com/green_johny_182/
+https://www.instagram.com/adrian_piasta/
+https://www.instagram.com/this_is_polish_rap/
+https://www.instagram.com/maciek.kubina/
+https://www.instagram.com/przemektocki/
+https://www.instagram.com/_m0zdzynska_/
+https://www.instagram.com/impuls_nerwowy/
+https://www.instagram.com/mikolaj.woznica00/
+https://www.instagram.com/tornek_olejnik/
+https://www.instagram.com/hubertq_09/
+https://www.instagram.com/taco_que/
+https://www.instagram.com/sylwia.jr/
+https://www.instagram.com/wilsonlisalisa19/
+https://www.instagram.com/filip_szczesniak_fans/
+https://www.instagram.com/memki_memeszki_memes/
+https://www.instagram.com/filipo.szczesniako/
+https://www.instagram.com/kraashai/
+https://www.instagram.com/riyal_ansari_007/
+https://www.instagram.com/_ol88a_/
+https://www.instagram.com/hubercik_m/
+https://www.instagram.com/_s_amu_x/
+https://www.instagram.com/fiksu_synku/
+https://www.instagram.com/little_russian1/
+https://www.instagram.com/julcia__jdk/
+https://www.instagram.com/kacperq69xd_/
+https://www.instagram.com/2016szymon/
+https://www.instagram.com/asiax123/
+https://www.instagram.com/humorek.pl/
+https://www.instagram.com/olgusia.x/
+https://www.instagram.com/_quedits_/
+https://www.instagram.com/parzelskax/
+https://www.instagram.com/twoj_ziomekkkk/
+https://www.instagram.com/zofiakluczyk/
+https://www.instagram.com/nie_aktywnedx/
+https://www.instagram.com/my_my_ka/
+https://www.instagram.com/stunna60s/
+https://www.instagram.com/monixwilk/
+https://www.instagram.com/szkatula_/
+https://www.instagram.com/quebo_i_taco/
+https://www.instagram.com/jank_papryk/
+https://www.instagram.com/k.krezolek/
+https://www.instagram.com/hemingwayetacosa/
+https://www.instagram.com/hemingway.fp/
+https://www.instagram.com/mati23kluba/
+https://www.instagram.com/sara.warpas/
+https://www.instagram.com/lemon_pl_2009/
+https://www.instagram.com/bairagi4295/
+https://www.instagram.com/gulbshahkhan/
+https://www.instagram.com/yasinjhlandri/
+https://www.instagram.com/latka_s/
+https://www.instagram.com/oski_str33t_workout/
+https://www.instagram.com/rapix_pl/
+https://www.instagram.com/wattpad.pr/
+https://www.instagram.com/e.madrawska/
+https://www.instagram.com/mhmwdhmdfhym/
+https://www.instagram.com/likeasweeydream/
+https://www.instagram.com/bernadinebamouni/
+https://www.instagram.com/taco.hemingway.fanpage/
+https://www.instagram.com/_k_domagala_/
+https://www.instagram.com/arkadiuszpiorkowski03/
+https://www.instagram.com/famemmainfo/
+https://www.instagram.com/wiktoria_klodzinska______96/
+https://www.instagram.com/klaudiapiotrak/
+https://www.instagram.com/nulantafrackiewicz/
+https://www.instagram.com/_123.lol.321_/
+https://www.instagram.com/teraz_ja_nie_paniemaju/
+https://www.instagram.com/ibrahim.143.delen07/
+https://www.instagram.com/memymemy168/
+https://www.instagram.com/_aniae/
+https://www.instagram.com/bedoesgangg__/
+https://www.instagram.com/00jack.hemi00/
+https://www.instagram.com/peaches.and.apples/
+https://www.instagram.com/postirol_zyciem/
+https://www.instagram.com/everybody_diesintheirdreams/
+https://www.instagram.com/natakxp/
+https://www.instagram.com/alexander_krokos/
+https://www.instagram.com/zniechecenie__/
+https://www.instagram.com/fajne_klapki/
+https://www.instagram.com/michalstaszuk/
+https://www.instagram.com/stanislawsky_yt/
+https://www.instagram.com/natalia_piecha/
+https://www.instagram.com/szczesniaaak._/
+https://www.instagram.com/cecelinka19/
+https://www.instagram.com/lufapytanie/
+https://www.instagram.com/eta_anton/
+https://www.instagram.com/the.gloved.one.mj/
+https://www.instagram.com/krystynawolnik/
+https://www.instagram.com/taco_hemingwayfp2/
+https://www.instagram.com/natalia.vxvx/
+https://www.instagram.com/k_grabowskii/
+https://www.instagram.com/darix_a/
+https://www.instagram.com/wolnikk.pv/
+https://www.instagram.com/___.ksiezniczka.___/
+https://www.instagram.com/fast_rap_news/
+https://www.instagram.com/zamkniete_konto_333/
+https://www.instagram.com/anikusiaa_/
+https://www.instagram.com/szymon0ah/
+https://www.instagram.com/tyska.2115/
+https://www.instagram.com/rwhn244/
+https://www.instagram.com/_michal_wagner_/
+https://www.instagram.com/hanianepora/
+https://www.instagram.com/fortnite_2k19xddd/
+https://www.instagram.com/wojtya777/
+https://www.instagram.com/adriana_xd___/
+https://www.instagram.com/r___7891/
+https://www.instagram.com/cytaty_zeamsone_/
+https://www.instagram.com/shubhamraanaa/
+https://www.instagram.com/dzwonie_do_bociana_/
+https://www.instagram.com/szczesniak_filip/
+https://www.instagram.com/kald.mnab/
+https://www.instagram.com/szczesniak_fp/
+https://www.instagram.com/stasiaksamuel2006/
+https://www.instagram.com/dx_borucki/
+https://www.instagram.com/taco_hemingwayfp/
+https://www.instagram.com/wudpeka_w1/
+https://www.instagram.com/lenavxv_/
+https://www.instagram.com/_.my._.outline._/
+https://www.instagram.com/klaudiaskorupska8/
+https://www.instagram.com/_nilsaa__/
+https://www.instagram.com/magdarozowa/
+https://www.instagram.com/_ania.synku_/
+https://www.instagram.com/upartosc/
+https://www.instagram.com/sanjeevpatel95/
+https://www.instagram.com/_szczesniakk/
+https://www.instagram.com/amy.lestrange/
+https://www.instagram.com/taconafide_fans_pl/
+https://www.instagram.com/michal80741/
+https://www.instagram.com/wolniknatalia/
+https://www.instagram.com/paulinawolnik_/
+
+[28-01-2020-06:39:37]: [Analyze]un-followers appended successfully
+[28-01-2020-06:39:37]:  [Timer]sleeping thread until next post time

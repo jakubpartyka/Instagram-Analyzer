@@ -90,7 +90,7 @@ public class Analyzer {
                 if(newFollowers.size() != 0){
                     StringBuilder result = new StringBuilder("new followers:");
                     for (Profile newFollower : newFollowers) {
-                        result.append(newFollower.toString());
+                        result.append(newFollower.toString()).append("\n");
                     }
                     log(result.toString());
                     if(profile.getCurrentReport().appendToReport(result.toString()))
@@ -100,9 +100,9 @@ public class Analyzer {
                 }
 
                 if(unFollowed.size() != 0){
-                    StringBuilder result = new StringBuilder("people who un-followed you:");
+                    StringBuilder result = new StringBuilder("people who un-followed you:\n");
                     for (Profile unFollower : unFollowed) {
-                        result.append(unFollower.toString());
+                        result.append(unFollower.toString()).append("\n");
                     }
                     log(result.toString());
                     if(profile.getCurrentReport().appendToReport(result.toString()))
