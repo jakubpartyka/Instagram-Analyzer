@@ -14168,3 +14168,783 @@ https://www.instagram.com/paulinawolnik_/
 [28-01-2020-07:23:16]: [Analyze]un-followers appended successfully
 [28-01-2020-07:23:16]: [DRIVER]driver closing
 [28-01-2020-07:23:16]:  [Timer]sleeping thread until next report
+[28-01-2020-07:33:59]: [SERVER]server start
+[28-01-2020-07:33:59]: [SERVER]loading preferences from config file
+[28-01-2020-07:33:59]: [SERVER]preferences loaded successfully
+[28-01-2020-07:33:59]: [SERVER]reading profiles from file
+[28-01-2020-07:33:59]: [SERVER]added https://www.instagram.com/ive_pa/
+[28-01-2020-07:33:59]: [SERVER]/Users/admin/IdeaProjects/Instagram-Analyzer/profiles/ive_pa
+[28-01-2020-07:33:59]: [SERVER]could not load last report
+[28-01-2020-07:33:59]: [SERVER]profiles loaded successfully
+[28-01-2020-07:33:59]:  [Timer]schedule file was read properly: Tuesday 06:32
+[28-01-2020-07:33:59]:  [Timer]trying to parse schedule...
+[28-01-2020-07:33:59]:  [Timer]schedule parsed correctly
+[28-01-2020-07:33:59]:  [Timer]Timer initialized correctly
+[28-01-2020-07:34:01]: [Analyze]created new output directory: /Users/admin/IdeaProjects/Instagram-Analyzer/profiles/ive_pa
+[28-01-2020-07:34:01]: [DRIVER]logging in...
+[28-01-2020-07:34:05]: [DRIVER]navigating to https://www.instagram.com/ive_pa/
+[28-01-2020-07:34:07]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[28-01-2020-07:34:07]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:10]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:10]: [Report]loading profiles
+[28-01-2020-07:34:10]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:10]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:11]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:11]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:11]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:12]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:12]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:13]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:13]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:13]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:14]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:14]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:15]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:15]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:15]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:16]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:16]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:16]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:17]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:17]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:18]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:18]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:18]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:19]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:19]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:20]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:20]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:20]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:21]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:21]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:22]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:22]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:22]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:23]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:23]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:24]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:24]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:25]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:25]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:25]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:26]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:26]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:27]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:27]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:27]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:28]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:28]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:28]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:29]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:29]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:29]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:30]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:30]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:30]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:31]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:31]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:32]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:32]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:32]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:33]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:33]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[28-01-2020-07:34:33]: [Report]breaking loop because of fail count
+[28-01-2020-07:34:33]: [Report]loading profiles finished. Loaded profiles: 480
+[28-01-2020-07:34:37]: [Report]listing followers complete. Added 480 profiles
+[28-01-2020-07:34:37]: [Report]date set to 2020.01.28 07:34
+[28-01-2020-07:34:37]: [Report]generating report completed
+[28-01-2020-07:34:37]: [Analyze]report saved to: /Users/admin/IdeaProjects/Instagram-Analyzer/profiles/ive_pa/2020.01.28 07:34.txt
+[28-01-2020-07:34:37]: [Analyze]both followers list loaded, analyzing...
+[28-01-2020-07:34:37]: [Analyze]new followers:
+https://www.instagram.com/df.good/
+https://www.instagram.com/joachim_leptuch/
+https://www.instagram.com/gaja_nand_sharma/
+https://www.instagram.com/m_piszczyglowa/
+https://www.instagram.com/johnny_a.s.a.a/
+https://www.instagram.com/pictura_explorer/
+https://www.instagram.com/_planaxis/
+https://www.instagram.com/katarzyna_nalepka/
+https://www.instagram.com/muellerbenn4/
+https://www.instagram.com/agnieszkarudaaa/
+https://www.instagram.com/procivelca/
+https://www.instagram.com/http.priv.kacpero/
+https://www.instagram.com/jruggiero247/
+https://www.instagram.com/shady.rca/
+https://www.instagram.com/guiss_ep/
+https://www.instagram.com/iamandres001/
+https://www.instagram.com/pani_latka/
+https://www.instagram.com/michal.mehow/
+https://www.instagram.com/hashimo_tom/
+https://www.instagram.com/joanna_kwiecinskacwir/
+https://www.instagram.com/hubertzasepa/
+https://www.instagram.com/dax_ocean/
+https://www.instagram.com/aportraitmagazine/
+https://www.instagram.com/nieaktyw.neq/
+https://www.instagram.com/lukasz_fibakiewicz/
+https://www.instagram.com/tomchan322/
+https://www.instagram.com/causaezequiel/
+https://www.instagram.com/radoslawbelzekfoto/
+https://www.instagram.com/marco_astegiano_fotografo/
+https://www.instagram.com/the_moon_is_down_11/
+https://www.instagram.com/marcin_nalepka/
+https://www.instagram.com/kuras.ogorek/
+https://www.instagram.com/kaczorek.marcin/
+https://www.instagram.com/slymn7224/
+https://www.instagram.com/jeffreynichol53/
+https://www.instagram.com/anna_lowicka/
+https://www.instagram.com/byrobbell/
+https://www.instagram.com/miranjgane/
+https://www.instagram.com/danny_costel01/
+https://www.instagram.com/claire_fasulo/
+https://www.instagram.com/shopjaeme/
+https://www.instagram.com/kubkikoszulki/
+https://www.instagram.com/mery_daga/
+https://www.instagram.com/milczarek.magdalena/
+https://www.instagram.com/alikhiry000/
+https://www.instagram.com/s_a_magdalena/
+https://www.instagram.com/monikadixon/
+https://www.instagram.com/especial.furniture/
+https://www.instagram.com/_alanpb_/
+https://www.instagram.com/tomaszsawyerphoto/
+https://www.instagram.com/winklernoah/
+https://www.instagram.com/photoyouri/
+https://www.instagram.com/kapimka_/
+https://www.instagram.com/pospiech/
+https://www.instagram.com/menimalwear/
+https://www.instagram.com/marek.p.marek/
+https://www.instagram.com/pinsa_warszawa/
+https://www.instagram.com/xime_hinz/
+https://www.instagram.com/wavesixtone/
+https://www.instagram.com/akowalcze/
+https://www.instagram.com/darrencbarnard/
+https://www.instagram.com/alainleonard42/
+https://www.instagram.com/mrcjuhel/
+https://www.instagram.com/polararti/
+https://www.instagram.com/danielmark122/
+https://www.instagram.com/pracowniakolder/
+https://www.instagram.com/mercedesbenz_autoforum/
+https://www.instagram.com/trade_with_bryan0/
+https://www.instagram.com/spacerem_po_krakowie/
+https://www.instagram.com/1647alice/
+https://www.instagram.com/nocturnal.mind11/
+https://www.instagram.com/galeria_sudecka/
+https://www.instagram.com/mf3007/
+https://www.instagram.com/thenatural.home/
+https://www.instagram.com/topdwagmedia/
+https://www.instagram.com/catalucchio/
+https://www.instagram.com/n_w_r_thethird/
+https://www.instagram.com/fjh_jewelry/
+https://www.instagram.com/hanza_szczecin/
+https://www.instagram.com/patrycjatoczynska/
+https://www.instagram.com/wrobelekmangi/
+https://www.instagram.com/polskiboks/
+https://www.instagram.com/j.ziolkowski/
+https://www.instagram.com/lobmeyr.lighting/
+https://www.instagram.com/popiel.lidia/
+https://www.instagram.com/emanuele_989/
+https://www.instagram.com/carlo.olsetti/
+https://www.instagram.com/the_narcos_85/
+https://www.instagram.com/aknao/
+https://www.instagram.com/mountaindrewadventures/
+https://www.instagram.com/christo6098/
+https://www.instagram.com/yellow_river_1975/
+https://www.instagram.com/bayramlar_senlikler/
+https://www.instagram.com/photo_dg/
+https://www.instagram.com/bw_soulis/
+https://www.instagram.com/manoukphotography/
+https://www.instagram.com/ezat.eraghzad/
+https://www.instagram.com/best_black_and_white_photos/
+https://www.instagram.com/juliansursum/
+https://www.instagram.com/domek__camp66/
+https://www.instagram.com/adha_billyie/
+https://www.instagram.com/zlota_milonga/
+https://www.instagram.com/judithwallace.587/
+https://www.instagram.com/polska_wiklina/
+https://www.instagram.com/ishifaz/
+https://www.instagram.com/a.few.seconds/
+https://www.instagram.com/sandrosalind/
+https://www.instagram.com/konstantinafonsky/
+https://www.instagram.com/insta_pozycjonowanie/
+https://www.instagram.com/manuelcalati/
+https://www.instagram.com/parimanyu/
+https://www.instagram.com/bodosperleinstudio/
+https://www.instagram.com/pl.analog/
+https://www.instagram.com/tyshannonphotos/
+https://www.instagram.com/martinspicpro/
+https://www.instagram.com/iphonephoto_travel/
+https://www.instagram.com/rozek10/
+https://www.instagram.com/fi_josw/
+https://www.instagram.com/szczytoholik/
+https://www.instagram.com/leandro.photo/
+https://www.instagram.com/tomasz8579/
+https://www.instagram.com/przygody_wloczykija/
+https://www.instagram.com/luxurydesignerjewellery/
+https://www.instagram.com/magdalenaj.j/
+https://www.instagram.com/pawlowski_arek/
+https://www.instagram.com/nassbystore/
+https://www.instagram.com/ceylonsaradiel/
+https://www.instagram.com/kopara_opada/
+https://www.instagram.com/taguaropl/
+https://www.instagram.com/teutschgallery/
+https://www.instagram.com/stefantochomik/
+https://www.instagram.com/modou_la/
+https://www.instagram.com/bielak.kamil/
+https://www.instagram.com/ewvcia/
+https://www.instagram.com/ag_dee/
+https://www.instagram.com/rmsavsak_/
+https://www.instagram.com/arturblesnowski/
+https://www.instagram.com/agnesejus/
+https://www.instagram.com/nicu2288/
+https://www.instagram.com/jonas_lechner/
+https://www.instagram.com/hyrkaofficial/
+https://www.instagram.com/n1ckybags/
+https://www.instagram.com/adamm_models/
+https://www.instagram.com/rexalora/
+https://www.instagram.com/maragli_.paylasimlar_/
+https://www.instagram.com/alexis.reilly_691/
+https://www.instagram.com/noah.dacosta/
+https://www.instagram.com/krysialenzo/
+https://www.instagram.com/sheryl.vang_73/
+https://www.instagram.com/atticus.kane/
+https://www.instagram.com/weekend_spb/
+https://www.instagram.com/rapperomusiccf_86/
+https://www.instagram.com/novodom.pl/
+https://www.instagram.com/elektrik0/
+https://www.instagram.com/malgosiakostro/
+https://www.instagram.com/lucakuka/
+https://www.instagram.com/jean_marc_lavaroche10/
+https://www.instagram.com/petritzaa/
+https://www.instagram.com/williams59taxes/
+https://www.instagram.com/jeauxthecreator/
+https://www.instagram.com/rafaruggiero/
+https://www.instagram.com/domagalskizbigniew/
+https://www.instagram.com/kyivtripmaker/
+https://www.instagram.com/xpaulg1980x/
+https://www.instagram.com/spacerem_po_lodzi/
+https://www.instagram.com/rometcometmusic/
+https://www.instagram.com/ruthless.empress/
+https://www.instagram.com/drevnoo/
+https://www.instagram.com/miss_curly_c/
+https://www.instagram.com/guyjerry/
+https://www.instagram.com/henrryconsa/
+https://www.instagram.com/jolkanta55/
+https://www.instagram.com/strefa_intymna_dermea/
+https://www.instagram.com/rji.gallery/
+https://www.instagram.com/nat.p1967/
+https://www.instagram.com/poprostukaro/
+https://www.instagram.com/gunterpiekarski/
+https://www.instagram.com/sebastienmaxim/
+https://www.instagram.com/warsawshoteventsnetwork/
+https://www.instagram.com/showroom_deqos/
+https://www.instagram.com/mwlyysynldrysy/
+https://www.instagram.com/kmsx1.priv/
+https://www.instagram.com/lampytadex/
+https://www.instagram.com/songe1e00/
+https://www.instagram.com/diptesh.patel.501/
+https://www.instagram.com/latoshasellsalaska/
+https://www.instagram.com/estilo.boudoir/
+https://www.instagram.com/ml_group_maciej_lisowski/
+https://www.instagram.com/shirley_inhk/
+https://www.instagram.com/weare14studio/
+https://www.instagram.com/kris.breus/
+https://www.instagram.com/spiritueller_arzt/
+https://www.instagram.com/j.partyka333/
+https://www.instagram.com/paula.gab_/
+https://www.instagram.com/maryalicesando/
+https://www.instagram.com/paulina_energy/
+https://www.instagram.com/andrzej_serafin/
+https://www.instagram.com/monicagerlach1/
+https://www.instagram.com/warsztatwoni/
+https://www.instagram.com/nata.cmmi/
+https://www.instagram.com/ivderma/
+https://www.instagram.com/anna_staniszewska_50/
+https://www.instagram.com/laczek_/
+https://www.instagram.com/szukambarmana/
+https://www.instagram.com/agurynn/
+https://www.instagram.com/kerstinpreuss/
+https://www.instagram.com/lamzaly/
+https://www.instagram.com/bigbettermedia/
+https://www.instagram.com/rui_lxba/
+https://www.instagram.com/sonrie.estudio/
+https://www.instagram.com/instagorfi/
+https://www.instagram.com/mlikemanhattan/
+https://www.instagram.com/kamilabajno/
+https://www.instagram.com/mazeratipascal/
+https://www.instagram.com/gdzie.raki.zimuja/
+https://www.instagram.com/feelporto/
+https://www.instagram.com/chellgha_fhim/
+https://www.instagram.com/justgoingaway/
+https://www.instagram.com/marioczarek/
+https://www.instagram.com/sebastianbukowski/
+https://www.instagram.com/bryanshane_official/
+https://www.instagram.com/georgeazzar/
+https://www.instagram.com/mobile_design_/
+https://www.instagram.com/burnfat__9937/
+https://www.instagram.com/szczesliwa_i_niezalezna/
+https://www.instagram.com/itsnotdelie/
+https://www.instagram.com/freddrdrewe/
+https://www.instagram.com/f.r.a.n.c.e.s.c.a_2005/
+https://www.instagram.com/borabenic/
+https://www.instagram.com/outdoorhimalayan/
+https://www.instagram.com/galen_2665__elden/
+https://www.instagram.com/pszemondra/
+https://www.instagram.com/makeup_by_mejkat/
+https://www.instagram.com/pearse467801/
+https://www.instagram.com/modamilanolukow/
+https://www.instagram.com/fragrancestudio_braga/
+https://www.instagram.com/dianasalino/
+https://www.instagram.com/eva_7102/
+https://www.instagram.com/y.escher.y.blue/
+https://www.instagram.com/szary02018/
+https://www.instagram.com/bikerberlincity/
+https://www.instagram.com/tiestosteron/
+https://www.instagram.com/ca.rolina9060/
+https://www.instagram.com/marco_gentili_vcs/
+https://www.instagram.com/iley_inspiration/
+https://www.instagram.com/madiveisland/
+https://www.instagram.com/wind4fun_prasonisi/
+https://www.instagram.com/burnboosterpl/
+https://www.instagram.com/fabien.olart/
+https://www.instagram.com/madziuuus/
+https://www.instagram.com/pertuiset.sylvain7/
+https://www.instagram.com/beata_walczak_painting/
+https://www.instagram.com/kingaidebska/
+https://www.instagram.com/sundayismondayhome/
+https://www.instagram.com/tyhz086134679/
+https://www.instagram.com/aleksyaugustyn6069/
+https://www.instagram.com/timgreen4477/
+https://www.instagram.com/gadekar_1995/
+https://www.instagram.com/beautifulworld1968/
+https://www.instagram.com/lets.rock.n.roll/
+https://www.instagram.com/ulatakatam/
+https://www.instagram.com/klinika_dermea/
+https://www.instagram.com/beapolka.pl/
+https://www.instagram.com/yvonne_streetview/
+https://www.instagram.com/amazingartofearth/
+https://www.instagram.com/foxinthegardenaz/
+https://www.instagram.com/fashionhomepolska/
+https://www.instagram.com/saintjoseph0987/
+https://www.instagram.com/malgorzata.barwinska/
+https://www.instagram.com/coloronbrain.photo/
+https://www.instagram.com/budapestsuites/
+https://www.instagram.com/jacj77/
+https://www.instagram.com/douxcukiernia/
+https://www.instagram.com/mountain223.m/
+https://www.instagram.com/ac_pardal/
+https://www.instagram.com/kat_marie_k/
+https://www.instagram.com/lluisaldrufeu/
+https://www.instagram.com/furugh.ashkanian/
+https://www.instagram.com/german_shepherd_loversssss/
+https://www.instagram.com/annamirey/
+https://www.instagram.com/pezeta77/
+https://www.instagram.com/zdalaod_dom_wakacyjny/
+https://www.instagram.com/summoning2/
+https://www.instagram.com/bozenamilinska/
+https://www.instagram.com/rosepatrick112/
+https://www.instagram.com/artjasinski/
+https://www.instagram.com/miramis.pl/
+https://www.instagram.com/brutusthetoller/
+https://www.instagram.com/worldparadisetravel/
+https://www.instagram.com/joannalaziuk/
+https://www.instagram.com/let_art_speak_/
+https://www.instagram.com/szczygiel_mariusz/
+https://www.instagram.com/tato_kostki/
+https://www.instagram.com/koprowska.a/
+https://www.instagram.com/perfectvisionwarszawa/
+https://www.instagram.com/monikakukulska19771/
+https://www.instagram.com/charlesschnyder/
+https://www.instagram.com/olaomg/
+https://www.instagram.com/sebek.cz/
+https://www.instagram.com/akademia_papug_warszawa/
+https://www.instagram.com/studio_cotou/
+https://www.instagram.com/way2motivation/
+https://www.instagram.com/a_look_in_bangladesh_4836/
+https://www.instagram.com/sznnanders/
+https://www.instagram.com/vytas_jurevicius/
+https://www.instagram.com/adriano_official27/
+https://www.instagram.com/anetaa_krol/
+https://www.instagram.com/olciajjj/
+https://www.instagram.com/blackrollpolska/
+https://www.instagram.com/katalina_roger/
+https://www.instagram.com/makingltwithvee/
+https://www.instagram.com/prestigedi5/
+https://www.instagram.com/warsaw_dream/
+https://www.instagram.com/brigitte.macronfanpage/
+https://www.instagram.com/metakwadrat_design/
+https://www.instagram.com/streets.of.sahero/
+https://www.instagram.com/weronika.wawrzkowicz/
+https://www.instagram.com/darkgeometric/
+https://www.instagram.com/thatjoshgould/
+https://www.instagram.com/a.colourblind.photographer/
+https://www.instagram.com/miasta360/
+https://www.instagram.com/josedamd17/
+https://www.instagram.com/torpaq_satilir_tecili/
+https://www.instagram.com/newyorkturnup/
+https://www.instagram.com/sawyer35/
+https://www.instagram.com/javitorrz/
+https://www.instagram.com/aacar1905/
+https://www.instagram.com/__black_and_white______/
+https://www.instagram.com/daisy.life_thebest/
+https://www.instagram.com/pixelline/
+https://www.instagram.com/salah_msakni_pur_sousse/
+https://www.instagram.com/new_york_city_insta/
+https://www.instagram.com/sanka_21/
+https://www.instagram.com/travellersanthem/
+https://www.instagram.com/leipzig.linda/
+https://www.instagram.com/narguz76/
+https://www.instagram.com/orange_.blend/
+https://www.instagram.com/chaseburnette/
+https://www.instagram.com/danielniazi/
+https://www.instagram.com/krzysztof_kaczanowski/
+https://www.instagram.com/loud.of.silence/
+https://www.instagram.com/beatapronobis/
+https://www.instagram.com/miiraanda17/
+https://www.instagram.com/hoseyni9427/
+https://www.instagram.com/d1224m/
+https://www.instagram.com/makankosappo_bnw/
+https://www.instagram.com/xandershnoor/
+https://www.instagram.com/julia_izmalkowa/
+https://www.instagram.com/aliseganti/
+https://www.instagram.com/greenleavesgarden/
+https://www.instagram.com/jozwiakkinga/
+https://www.instagram.com/maksim_kurdyumov/
+https://www.instagram.com/asia.vla/
+https://www.instagram.com/vladusha96/
+https://www.instagram.com/rojs_82/
+https://www.instagram.com/jm.cavalle/
+https://www.instagram.com/sup.radom/
+https://www.instagram.com/dominikabieganska/
+https://www.instagram.com/weekly_copenhagen/
+https://www.instagram.com/kharkiv57/
+https://www.instagram.com/prismatickvision/
+https://www.instagram.com/adamk88888/
+https://www.instagram.com/abelcirillo/
+https://www.instagram.com/giusybelloisi/
+https://www.instagram.com/ua_bestgirls/
+https://www.instagram.com/nela_zielinska/
+https://www.instagram.com/studio.treningu.funkcjonalnego/
+https://www.instagram.com/grou_rider/
+https://www.instagram.com/eporuofficial/
+https://www.instagram.com/sachinpranjale98/
+https://www.instagram.com/mickey.__.photo/
+https://www.instagram.com/roofing_system/
+https://www.instagram.com/jiba196/
+https://www.instagram.com/eleonor_lp/
+https://www.instagram.com/space_dye.vest/
+https://www.instagram.com/wojciechlozinski/
+https://www.instagram.com/k.a.m.i.l_g/
+https://www.instagram.com/eric_windeck/
+https://www.instagram.com/mirellazuidema/
+https://www.instagram.com/pajo7780/
+https://www.instagram.com/ricard.sa/
+https://www.instagram.com/dllvienna/
+https://www.instagram.com/k_o_o_n_e_m_a_n/
+https://www.instagram.com/syncistar/
+https://www.instagram.com/borkowski.l/
+https://www.instagram.com/cosimoventi/
+https://www.instagram.com/nailscare_/
+https://www.instagram.com/sutyi_andi/
+https://www.instagram.com/sosnasosinska/
+https://www.instagram.com/20xgabriel_luisx/
+https://www.instagram.com/jeudepisteparis/
+https://www.instagram.com/madlen_mademoiselle/
+https://www.instagram.com/mis0632/
+https://www.instagram.com/samet.kopuz/
+https://www.instagram.com/fashionluxfactory/
+https://www.instagram.com/yasardogukoc/
+https://www.instagram.com/stan_is_areu/
+https://www.instagram.com/1389bahmn/
+https://www.instagram.com/gtsiouk/
+https://www.instagram.com/piotrfejdasztrenerpersonalny/
+https://www.instagram.com/g_carreira/
+https://www.instagram.com/atrakcjewpolsce.pl/
+https://www.instagram.com/bnwsouls/
+https://www.instagram.com/anitanitka75/
+https://www.instagram.com/pckeepcalm/
+https://www.instagram.com/granatarino/
+https://www.instagram.com/christophe_wilhelm/
+https://www.instagram.com/pan_tom/
+https://www.instagram.com/angellinden/
+https://www.instagram.com/raphcycling92/
+https://www.instagram.com/creative_adventourista1/
+https://www.instagram.com/isakkw/
+https://www.instagram.com/edrees_abdelrazak/
+https://www.instagram.com/favouriteplaces__/
+https://www.instagram.com/luvleica/
+https://www.instagram.com/walterschause/
+https://www.instagram.com/tidi_ekipa/
+https://www.instagram.com/nathajs/
+https://www.instagram.com/dmeitiner/
+https://www.instagram.com/aksela2009/
+https://www.instagram.com/anna_wne/
+https://www.instagram.com/ruidacostaalves/
+https://www.instagram.com/move65/
+https://www.instagram.com/stefanna_run/
+https://www.instagram.com/martapaixaao/
+https://www.instagram.com/bijukv/
+https://www.instagram.com/majestic_flora/
+https://www.instagram.com/pantam11/
+https://www.instagram.com/traveller1914/
+https://www.instagram.com/marcinospisklakos/
+https://www.instagram.com/pelirynka/
+https://www.instagram.com/jerzynogal/
+https://www.instagram.com/g.annaankas/
+https://www.instagram.com/david_deplaix_kreakite/
+https://www.instagram.com/iyahkhaleesi/
+https://www.instagram.com/isabela_koulatsi/
+https://www.instagram.com/artedamasceno/
+https://www.instagram.com/cla_poc/
+https://www.instagram.com/coffeeandpalmtrees/
+https://www.instagram.com/keepontravel.dk/
+https://www.instagram.com/renzabonelli/
+https://www.instagram.com/bb.observer/
+https://www.instagram.com/coolmb8/
+https://www.instagram.com/paula_an_vassallo/
+https://www.instagram.com/joaorebelosantos360/
+https://www.instagram.com/tomaszmendyk/
+https://www.instagram.com/epsaltis/
+https://www.instagram.com/isilk510/
+https://www.instagram.com/dram_gallery/
+https://www.instagram.com/javiypilar/
+https://www.instagram.com/a_figura/
+https://www.instagram.com/xhabi_chabros/
+https://www.instagram.com/redbee_fashion/
+https://www.instagram.com/dorohin.ilya/
+https://www.instagram.com/arenmaal/
+https://www.instagram.com/cityandstuff/
+https://www.instagram.com/rndshot/
+https://www.instagram.com/riflessi.store.reggiocalabria/
+https://www.instagram.com/andersringman/
+https://www.instagram.com/sebastiano_latella_architetto/
+https://www.instagram.com/loleala/
+https://www.instagram.com/scharffenberg.pl/
+https://www.instagram.com/antonfunseth/
+https://www.instagram.com/nie_mow_do_mnie_halina/
+https://www.instagram.com/shadow_walker01/
+https://www.instagram.com/sdjmrlslmy/
+https://www.instagram.com/instabrudda/
+https://www.instagram.com/m.dawoodi/
+https://www.instagram.com/ergunkadir/
+https://www.instagram.com/katy_b777/
+https://www.instagram.com/stefkont/
+https://www.instagram.com/ivan_carla_y_eric/
+https://www.instagram.com/extendallporto/
+https://www.instagram.com/oldsiamsir/
+https://www.instagram.com/zofia_partyka/
+https://www.instagram.com/dorotamu/
+https://www.instagram.com/panpiotr/
+https://www.instagram.com/19aneta/
+https://www.instagram.com/warsaw.ghost/
+https://www.instagram.com/do_testow/
+
+[28-01-2020-07:34:37]: [Analyze]new followers appended successfully
+[28-01-2020-07:34:37]: [DRIVER]driver closing
+[28-01-2020-07:34:37]:  [Timer]sleeping thread until next report
+[29-01-2020-09:40:39]: [SERVER]server start
+[29-01-2020-09:40:39]: [SERVER]loading preferences from config file
+[29-01-2020-09:40:40]: [SERVER]preferences loaded successfully
+[29-01-2020-09:40:40]: [SERVER]reading profiles from file
+[29-01-2020-09:41:22]: [SERVER]server start
+[29-01-2020-09:41:22]: [SERVER]loading preferences from config file
+[29-01-2020-09:41:23]: [SERVER]preferences loaded successfully
+[29-01-2020-09:41:23]: [SERVER]reading profiles from file
+[29-01-2020-09:42:21]: [SERVER]server start
+[29-01-2020-09:42:21]: [SERVER]loading preferences from config file
+[29-01-2020-09:42:21]: [SERVER]preferences loaded successfully
+[29-01-2020-09:42:21]: [SERVER]reading profiles from file
+[29-01-2020-09:43:27]: [SERVER]server start
+[29-01-2020-09:43:27]: [SERVER]loading preferences from config file
+[29-01-2020-09:43:27]: [SERVER]preferences loaded successfully
+[29-01-2020-09:43:27]: [SERVER]reading profiles from file
+[29-01-2020-10:50:24]: [SERVER]server start
+[29-01-2020-10:50:24]: [SERVER]loading preferences from config file
+[29-01-2020-10:50:24]: [SERVER]preferences loaded successfully
+[29-01-2020-10:50:24]: [SERVER]reading profiles from file
+[29-01-2020-10:51:01]: [SERVER]server start
+[29-01-2020-10:51:01]: [SERVER]loading preferences from config file
+[29-01-2020-10:51:01]: [SERVER]preferences loaded successfully
+[29-01-2020-10:51:01]: [SERVER]reading profiles from file
+[29-01-2020-10:51:24]: [SERVER]server start
+[29-01-2020-10:51:24]: [SERVER]loading preferences from config file
+[29-01-2020-10:51:24]: [SERVER]preferences loaded successfully
+[29-01-2020-10:51:24]: [SERVER]reading profiles from file
+[29-01-2020-10:53:14]: [SERVER]server start
+[29-01-2020-10:53:14]: [SERVER]loading preferences from config file
+[29-01-2020-10:53:14]: [SERVER]preferences loaded successfully
+[29-01-2020-10:53:14]: [SERVER]reading profiles from file
+[29-01-2020-10:53:14]: [SERVER]added https://www.instagram.com/ive_pa/
+[29-01-2020-10:53:14]: [SERVER]loading last saved: /Users/admin/IdeaProjects/Instagram-Analyzer/profiles/ive_pa/2020.01.28 07:34.txt
+[29-01-2020-10:53:14]: [SERVER]added 480 profiles to report
+[29-01-2020-10:53:14]: [SERVER]profiles loaded successfully
+[29-01-2020-10:53:14]:  [Timer]schedule file was read properly: Tuesday 06:32
+[29-01-2020-10:53:14]:  [Timer]trying to parse schedule...
+[29-01-2020-10:53:14]:  [Timer]schedule parsed correctly
+[29-01-2020-10:53:14]:  [Timer]Timer initialized correctly
+[29-01-2020-10:53:17]: [DRIVER]logging in...
+[29-01-2020-10:53:21]: [DRIVER]navigating to https://www.instagram.com/ive_pa/
+[29-01-2020-10:53:23]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[29-01-2020-10:53:24]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:26]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:26]: [Report]loading profiles
+[29-01-2020-10:53:26]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:26]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:27]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:27]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:27]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:28]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:28]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:29]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:29]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:29]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:30]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:30]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:31]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:31]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:31]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:32]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:32]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:32]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:33]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:33]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:34]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:34]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:34]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:35]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:35]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:36]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:36]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:36]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:37]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:37]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:38]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:38]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:38]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:39]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:39]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:40]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:40]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:40]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:41]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:44]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:44]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:45]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:45]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:45]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:46]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:46]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:46]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:47]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:47]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:48]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:48]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:48]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:49]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:49]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:49]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:50]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:50]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-10:53:50]: [Report]breaking loop because of fail count
+[29-01-2020-10:53:50]: [Report]loading profiles finished. Loaded profiles: 483
+[29-01-2020-10:53:54]: [Report]listing followers complete. Added 483 profiles
+[29-01-2020-10:53:54]: [Report]date set to 2020.01.29 10:53
+[29-01-2020-10:53:54]: [Report]generating report completed
+[29-01-2020-10:53:54]: [Analyze]report saved to: /Users/admin/IdeaProjects/Instagram-Analyzer/profiles/ive_pa/2020.01.29 10:53.txt
+[29-01-2020-10:53:54]: [Analyze]both followers list loaded, analyzing...
+[29-01-2020-10:53:54]: [Analyze]new followers:
+https://www.instagram.com/lerchlart/
+https://www.instagram.com/fenixx06/
+https://www.instagram.com/lotfi.mahfoudhi/
+
+[29-01-2020-10:53:54]: [Analyze]new followers appended successfully
+[29-01-2020-10:53:54]: [DRIVER]driver closing
+[29-01-2020-10:53:54]:  [Timer]sleeping for 3 hours
+[29-01-2020-12:46:03]: [SERVER]server start
+[29-01-2020-12:46:03]: [SERVER]loading preferences from config file
+[29-01-2020-12:46:03]: [SERVER]preferences loaded successfully
+[29-01-2020-12:46:03]: [SERVER]reading profiles from file
+[29-01-2020-12:46:03]: [SERVER]added https://www.instagram.com/ive_pa/
+[29-01-2020-12:46:03]: [SERVER]loading last saved: /Users/admin/IdeaProjects/Instagram-Analyzer/profiles/ive_pa/2020.01.29 10:53.txt
+[29-01-2020-12:46:03]: [SERVER]added 483 profiles to report
+[29-01-2020-12:46:03]: [SERVER]profiles loaded successfully
+[29-01-2020-12:46:03]:  [Timer]schedule file was read properly: Tuesday 06:32
+[29-01-2020-12:46:03]:  [Timer]trying to parse schedule...
+[29-01-2020-12:46:03]:  [Timer]schedule parsed correctly
+[29-01-2020-12:46:03]:  [Timer]Timer initialized correctly
+[29-01-2020-12:46:05]: [DRIVER]logging in...
+[29-01-2020-12:46:10]: [DRIVER]navigating to https://www.instagram.com/ive_pa/
+[29-01-2020-12:46:11]: [DRIVER]locating elements by: By.xpath: //*[@class='g47SY ']
+[29-01-2020-12:46:11]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:12]: [DRIVER]locating element by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:14]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:14]: [Report]loading profiles
+[29-01-2020-12:46:14]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:15]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:15]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:15]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:16]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:16]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:16]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:17]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:17]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:18]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:18]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:18]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:19]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:19]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:19]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:20]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:20]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:21]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:21]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:21]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:22]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:22]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:22]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:23]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:23]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:24]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:24]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:24]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:25]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:25]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:26]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:26]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:26]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:27]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:27]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:28]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:28]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:28]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:29]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:29]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:30]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:30]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:30]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:31]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:31]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:32]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:32]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:33]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:33]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:33]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:34]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:34]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:34]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:35]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:35]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:35]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:36]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:36]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:37]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:37]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:37]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:38]: [DRIVER]locating elements by: By.xpath: //*[@class='FPmhX notranslate  _0imsa ']
+[29-01-2020-12:46:38]: [Report]breaking loop because of fail count
+[29-01-2020-12:46:38]: [Report]loading profiles finished. Loaded profiles: 483
+[29-01-2020-12:46:41]: [Report]listing followers complete. Added 483 profiles
+[29-01-2020-12:46:41]: [Report]date set to 2020.01.29 12:46
+[29-01-2020-12:46:41]: [Report]generating report completed
+[29-01-2020-12:46:41]: [Analyze]report saved to: /Users/admin/IdeaProjects/Instagram-Analyzer/profiles/ive_pa/2020.01.29 12:46.txt
+[29-01-2020-12:46:41]: [Analyze]both followers list loaded, analyzing...
+[29-01-2020-12:46:41]: [DRIVER]driver closing
+[29-01-2020-12:46:42]:  [Timer]sleeping for 3 hours

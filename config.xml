@@ -2,11 +2,13 @@
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties>
 <comment>Configuration file</comment>
-<entry key="logToFile">true</entry>
-<entry key="login">insta.analyze.2020</entry>
-<entry key="password">Tusa3469755</entry>
 <entry key="responderIsOn">false</entry>
-<entry key="headless">false</entry>
 <entry key="logToConsole">true</entry>
+<entry key="logToFile">true</entry>
+<entry key="profilesFile">profiles.txt</entry>
+<entry key="login">insta.analyze.2020</entry>
+<entry key="scheduleFile">schedule.txt</entry>
+<entry key="password">Tusa3469755</entry>
 <entry key="directMessageReportIsOn">false</entry>
+<entry key="headless">false</entry>
 </properties>

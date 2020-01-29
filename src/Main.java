@@ -1,5 +1,3 @@
-import org.omg.PortableServer.THREAD_POLICY_ID;
-
 import java.io.*;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -14,14 +12,15 @@ public class Main {
     private static boolean headless;
     private static boolean responderIsOn;
     private static boolean directMessageReportIsOn;
-    private static String scheduleFile = "schedule.txt";    //todo add this to preferences
-    private static String profilesFile = "profiles.txt";    //todo add this to preferences
+    private static String scheduleFile = "schedule.txt";
+    private static String profilesFile = "profiles.txt";
     private static String login;
     private static String password;
     private static Responder responder;
     private static List<Profile> profiles = new ArrayList<>();
 
     public static void main(String[] args) {
+
         //starting server
         log("server start");
         log("loading preferences from config file");
@@ -46,25 +45,17 @@ public class Main {
         }
 
         Timer timer = new Timer(scheduleFile);
-        InstagramDriver driver;
         //main loop;
         while (true){
             try {
                 //test
-                driver = new InstagramDriver();
+                InstagramDriver driver = new InstagramDriver();
                 Analyzer analyzer = new Analyzer(driver, profiles);          //every next iteration profiles list will be updated
+                driver.close();
                 analyzer.analyzeAll();
                 //test end
 
-                driver.close();
-
                 timer.waitForSchedule();                                    //sleep until next report
-
-                driver = new InstagramDriver();
-                //Analyzer analyzer = new Analyzer(driver, profiles);          //every next iteration profiles list will be updated
-                analyzer.analyzeAll();
-
-                driver.close();
             }
             catch (Exception e){
                 log("FATAL ERROR");
@@ -131,6 +122,8 @@ public class Main {
             directMessageReportIsOn = Boolean.valueOf("directMessageReportIsOn");
             login = getPreference("login");
             password = getPreference("password");
+            scheduleFile = getPreference("scheduleFile");
+            profilesFile = getPreference("profilesFile");
 
         } catch (IOException e) {
             e.printStackTrace();
